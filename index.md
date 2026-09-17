@@ -11,13 +11,19 @@ description: 节能行业公开资料采集简报
 
 [全部日期](news/index.html)
 
-最新实时资讯：[2026-09-17](news/2026-09-17.html)
-[每日数据观察](news/2026-09-17.html#每日数据观察)
+最新实时资讯：[2026-09-18](news/2026-09-18.html)
+[每日数据观察](news/2026-09-18.html#每日数据观察)
 
 ## 资料积累
 
-[资料库：按主题、来源、地区、类型](materials/index.html)
-最新资料积累：[2026-09-17](materials/2026-09-17.html)
+[资料库：主题分类与标签](materials/index.html)
+最新资料积累：[2026-09-18](materials/2026-09-18.html)
+
+## 重点城市
+
+[北京](materials/cities/beijing.html) | [上海](materials/cities/shanghai.html) | [广州](materials/cities/guangzhou.html) | [深圳](materials/cities/shenzhen.html) | [西安](materials/cities/xian.html)
+
+[信息源与历史回填进度](sources.html)
 
 ## 公开入口
 
