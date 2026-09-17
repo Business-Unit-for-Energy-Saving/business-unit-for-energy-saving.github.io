@@ -1,30 +1,29 @@
 ---
-title: Energy Saving
-description: 节能技术、能源管理与碳减排解决方案
+title: 节能行业信息简报
+description: 节能行业公开资料采集简报
 ---
 
 # 节能业务单元
 
-面向企业和园区的节能技术、能源管理与碳减排解决方案。
+当前阶段：积累节能行业公开资料，研究企业、园区及公共机构的用能场景，尚未确定业务切入方向。
 
-## 业务范围
+## 节能行业信息简报
 
-- 能源数据采集、监测和分析
-- 能效诊断与节能改造
-- 设备运行优化
-- 节能量和减排效果评估
+来源清单覆盖政策、统计、采购、技术和企业资料；实际采集范围以每次简报为准。
+
+最新简报：[2026-09-17](reports/2026-09-17.html)
 
 ## 公开入口
 
 - [组织 GitHub](https://github.com/Business-Unit-for-Energy-Saving)
-- [需求仓库](https://github.com/Business-Unit-for-Energy-Saving/requirements)
-- [组织 profile](https://github.com/Business-Unit-for-Energy-Saving/.github)
+- [组织说明](https://github.com/Business-Unit-for-Energy-Saving/.github)
 
 ## 边界
 
-业务代码、数据资产、部署配置和内部需求按权限保存在对应仓库。公开页面不包含客户隐私、生产参数、密钥或未确认决策。
+- 内容来自公开网页短摘录，保留原文链接。
+- 不代表行业全量，不构成独立核验、投资建议或业务方向建议。
+- 原始页面、数据库、附件和内部运行日志不在此公开。
 
----
+## 历史简报
 
-_Status: Incubating_
-_Last updated: 2026-09-16_
+- [2026-09-17](reports/2026-09-17.html)
