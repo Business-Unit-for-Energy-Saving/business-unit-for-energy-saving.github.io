@@ -5,15 +5,19 @@
 站点展示组织定位、业务边界和节能行业公开资料简报，不承载内部需求、
 客户隐私、原始页面、数据库、附件全文、生产配置或敏感凭据。
 
-## 简报
+## 公开内容
 
 - `index.md`：组织与简报入口。
-- `reports/YYYY-MM-DD.md`：按日期汇总运行记录。
-- `reports/YYYY-MM-DD-HHMMSS-RUN_ID.md`：单次采集的短摘录和原文链接。
+- `news/YYYY-MM-DD.md`：同一自然日合并后的唯一实时资讯汇总。
+- `materials/YYYY-MM-DD.md`：当天发现的历史、基线、无日期或未来日期资料汇总。
+- `materials/index.md`：按主题、来源、地区和类型检索的长期资料库。
+- `materials/items/<hash>.md`：单条资料的稳定页面。
 - 页面按 GitHub Pages 的 `main` 根目录配置构建，保留 Markdown front matter。
 - 输出由私有采集仓库的 `public-report` 命令生成，不手工复制内部 `data/`。
+- 每次扫描事件仍保留在私有采集仓库；同日重复扫描只更新当天两份汇总，
+  不生成运行级公开页面。
 
-2026-09-17 首份公开简报来自 GitHub Actions 的真实采集结果：
+2026-09-17 首份公开内容来自 GitHub Actions 的真实采集结果：
 4 个启用来源、6 篇基线归档、0 个正文错误、17 条待处理队列。
 基线包含历史资料，不代表这些文章都在采集当天发布。
 
