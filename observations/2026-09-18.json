@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "date": "2026-09-18",
-  "updated_at": "2026-09-18T14:34:09+08:00",
+  "updated_at": "2026-09-18T17:11:39+08:00",
   "observations": [
     {
       "id": "etf-512580",
@@ -14,7 +14,7 @@
       "status": "not_published",
       "data_date": "2026-09-17",
       "observed_at": null,
-      "checked_at": "2026-09-18T14:33:53+08:00",
+      "checked_at": "2026-09-18T17:11:22+08:00",
       "source_published_at": null,
       "source_url": "https://www.gffunds.com.cn/funds/cpmp/201701/t20170126_57287.shtml",
       "values": {
@@ -37,7 +37,7 @@
       "status": "not_published",
       "data_date": "2026-09-17",
       "observed_at": null,
-      "checked_at": "2026-09-18T14:33:53+08:00",
+      "checked_at": "2026-09-18T17:11:22+08:00",
       "source_published_at": null,
       "source_url": "https://www.gffunds.com.cn/funds/cpmp/202206/t20220630_376000.shtml",
       "values": {
@@ -60,7 +60,7 @@
       "status": "not_published",
       "data_date": "2026-09-17",
       "observed_at": null,
-      "checked_at": "2026-09-18T14:33:53+08:00",
+      "checked_at": "2026-09-18T17:11:22+08:00",
       "source_published_at": null,
       "source_url": "https://www.gffunds.com.cn/funds/cpmp/202409/t20240920_397555.shtml",
       "values": {
@@ -83,7 +83,7 @@
       "status": "not_published",
       "data_date": "2026-09-17",
       "observed_at": null,
-      "checked_at": "2026-09-18T14:33:53+08:00",
+      "checked_at": "2026-09-18T17:11:22+08:00",
       "source_published_at": null,
       "source_url": "https://www.gffunds.com.cn/funds/cpmp/201508/t20150821_47013.shtml",
       "values": {
@@ -98,7 +98,7 @@
       "group": "carbon",
       "name": "全国碳配额 CEA",
       "status": "pending_review",
-      "checked_at": "2026-09-18T14:33:53+08:00",
+      "checked_at": "2026-09-18T17:11:22+08:00",
       "note": "现有入口访问受限，待审核可用数据源及发布范围。",
       "source_url": "https://www.cneeex.com/",
       "values": {}
@@ -108,7 +108,7 @@
       "group": "carbon",
       "name": "全国自愿减排量 CCER",
       "status": "pending_review",
-      "checked_at": "2026-09-18T14:33:53+08:00",
+      "checked_at": "2026-09-18T17:11:22+08:00",
       "note": "访问规则尚未通过审核；与 CEA 分开管理，暂不采集。",
       "source_url": "https://www.ccer.com.cn/",
       "values": {}
@@ -118,7 +118,7 @@
       "group": "electricity",
       "name": "电力价格与负荷",
       "status": "pending_review",
-      "checked_at": "2026-09-18T14:33:53+08:00",
+      "checked_at": "2026-09-18T17:11:22+08:00",
       "note": "需逐省审核数据口径、访问权限和公开许可，暂不采集。",
       "source_url": "https://www.nea.gov.cn/",
       "values": {}
@@ -128,7 +128,7 @@
       "group": "market",
       "name": "ETF 收盘价、成交额与份额",
       "status": "pending_review",
-      "checked_at": "2026-09-18T14:33:53+08:00",
+      "checked_at": "2026-09-18T17:11:22+08:00",
       "note": "尚未接通许可明确的交易行情和每日份额数据源；净值不代替收盘价，不推算资金净流入。",
       "source_url": "https://www.sse.com.cn/",
       "values": {}
