@@ -1,10 +1,10 @@
 ---
-title: 实时资讯
+title: 每日行业观察
 ---
 
-# 实时资讯
+# 每日行业观察
 
-[首页](../index.html) | [资料库](../materials/index.html)
+[首页](../index.html) | [资料库](../materials/index.html) | [重点企业](../companies.html)
 
 ## 历史日期
 
