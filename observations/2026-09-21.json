@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-21",
+  "updated_at": "2026-09-21T14:07:12+08:00",
+  "observations": [
+    {
+      "id": "etf-512580",
+      "group": "etf",
+      "name": "广发中证环保ETF",
+      "code": "512580",
+      "theme": "环保",
+      "benchmark": false,
+      "publisher": "广发基金",
+      "status": "not_published",
+      "data_date": "2026-09-18",
+      "observed_at": null,
+      "checked_at": "2026-09-21T14:06:55+08:00",
+      "source_published_at": null,
+      "source_url": "https://www.gffunds.com.cn/funds/cpmp/201701/t20170126_57287.shtml",
+      "values": {
+        "nav": "1.1298",
+        "change_1d_pct": "1.5000",
+        "change_5d_pct": "1.05",
+        "change_20d_pct": "-5.85",
+        "excess_5d_pp": "1.05",
+        "excess_20d_pp": "-3.63"
+      }
+    },
+    {
+      "id": "etf-560550",
+      "group": "etf",
+      "name": "广发中证上海环交所碳中和ETF",
+      "code": "560550",
+      "theme": "碳中和",
+      "benchmark": false,
+      "publisher": "广发基金",
+      "status": "not_published",
+      "data_date": "2026-09-18",
+      "observed_at": null,
+      "checked_at": "2026-09-21T14:06:55+08:00",
+      "source_published_at": null,
+      "source_url": "https://www.gffunds.com.cn/funds/cpmp/202206/t20220630_376000.shtml",
+      "values": {
+        "nav": "0.9074",
+        "change_1d_pct": "0.7600",
+        "change_5d_pct": "-1.02",
+        "change_20d_pct": "-6.68",
+        "excess_5d_pp": "-1.02",
+        "excess_20d_pp": "-4.46"
+      }
+    },
+    {
+      "id": "etf-159320",
+      "group": "etf",
+      "name": "广发恒生A股电网设备ETF",
+      "code": "159320",
+      "theme": "电网设备",
+      "benchmark": false,
+      "publisher": "广发基金",
+      "status": "not_published",
+      "data_date": "2026-09-18",
+      "observed_at": null,
+      "checked_at": "2026-09-21T14:06:55+08:00",
+      "source_published_at": null,
+      "source_url": "https://www.gffunds.com.cn/funds/cpmp/202409/t20240920_397555.shtml",
+      "values": {
+        "nav": "0.6162",
+        "change_1d_pct": "1.3000",
+        "change_5d_pct": "1.60",
+        "change_20d_pct": "-2.33",
+        "excess_5d_pp": "1.60",
+        "excess_20d_pp": "-0.11"
+      }
+    },
+    {
+      "id": "etf-510360",
+      "group": "etf",
+      "name": "广发沪深300ETF",
+      "code": "510360",
+      "theme": "宽基参照",
+      "benchmark": true,
+      "publisher": "广发基金",
+      "status": "not_published",
+      "data_date": "2026-09-18",
+      "observed_at": null,
+      "checked_at": "2026-09-21T14:06:55+08:00",
+      "source_published_at": null,
+      "source_url": "https://www.gffunds.com.cn/funds/cpmp/201508/t20150821_47013.shtml",
+      "values": {
+        "nav": "1.7523",
+        "change_1d_pct": "1.0800",
+        "change_5d_pct": "-0.00",
+        "change_20d_pct": "-2.22"
+      }
+    },
+    {
+      "id": "carbon-cea",
+      "group": "carbon",
+      "name": "全国碳配额 CEA",
+      "status": "pending_review",
+      "checked_at": "2026-09-21T14:06:55+08:00",
+      "note": "现有入口访问受限，待审核可用数据源及发布范围。",
+      "source_url": "https://www.cneeex.com/",
+      "values": {}
+    },
+    {
+      "id": "carbon-ccer",
+      "group": "carbon",
+      "name": "全国自愿减排量 CCER",
+      "status": "pending_review",
+      "checked_at": "2026-09-21T14:06:55+08:00",
+      "note": "访问规则尚未通过审核；与 CEA 分开管理，暂不采集。",
+      "source_url": "https://www.ccer.com.cn/",
+      "values": {}
+    },
+    {
+      "id": "electricity-market",
+      "group": "electricity",
+      "name": "电力价格与负荷",
+      "status": "pending_review",
+      "checked_at": "2026-09-21T14:06:55+08:00",
+      "note": "需逐省审核数据口径、访问权限和公开许可，暂不采集。",
+      "source_url": "https://www.nea.gov.cn/",
+      "values": {}
+    },
+    {
+      "id": "etf-exchange-quotes",
+      "group": "market",
+      "name": "ETF 收盘价、成交额与份额",
+      "status": "pending_review",
+      "checked_at": "2026-09-21T14:06:55+08:00",
+      "note": "尚未接通许可明确的交易行情和每日份额数据源；净值不代替收盘价，不推算资金净流入。",
+      "source_url": "https://www.sse.com.cn/",
+      "values": {}
+    }
+  ]
+}
