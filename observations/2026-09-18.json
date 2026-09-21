@@ -133,5 +133,19 @@
       "source_url": "https://www.sse.com.cn/",
       "values": {}
     }
-  ]
+  ],
+  "daily_summary": {
+    "news_count": 1,
+    "sources_ok": 18,
+    "sources_failed": 0,
+    "article_errors": 5,
+    "headlines": [
+      {
+        "title": "2026节能减碳技术合作交流会（南通站）成功举办",
+        "publisher": "中国节能协会节能服务产业委员会",
+        "published_date": "2026-09-18",
+        "url": "https://www.emca.cn/web/15/202609/43088.html"
+      }
+    ]
+  }
 }

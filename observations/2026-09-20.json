@@ -137,5 +137,19 @@
       "source_url": "https://www.sse.com.cn/",
       "values": {}
     }
-  ]
+  ],
+  "daily_summary": {
+    "news_count": 1,
+    "sources_ok": 17,
+    "sources_failed": 1,
+    "article_errors": 4,
+    "headlines": [
+      {
+        "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十五批）的通知",
+        "publisher": "上海市发展和改革委员会",
+        "published_date": "2026-09-20",
+        "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20260920/f9afab1f5f94418780e351832e49b78e.html"
+      }
+    ]
+  }
 }
