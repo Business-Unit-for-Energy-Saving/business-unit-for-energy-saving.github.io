@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-22",
+  "updated_at": "2026-09-22T14:01:19+08:00",
+  "observations": [
+    {
+      "id": "etf-512580",
+      "group": "etf",
+      "name": "广发中证环保ETF",
+      "code": "512580",
+      "theme": "环保",
+      "benchmark": false,
+      "publisher": "广发基金公开历史净值",
+      "status": "fetch_failed",
+      "data_date": "2026-09-18",
+      "observed_at": null,
+      "checked_at": "2026-09-22T14:00:50+08:00",
+      "source_published_at": null,
+      "last_success_at": "2026-09-21T19:23:33+08:00",
+      "source_url": "https://www.gffunds.com.cn/funds/cpmp/201701/t20170126_57287.shtml",
+      "values": {
+        "nav": "1.1298",
+        "change_1d_pct": "1.5000",
+        "change_5d_pct": "1.05",
+        "change_20d_pct": "-5.85",
+        "excess_5d_pp": "1.05",
+        "excess_20d_pp": "-3.63"
+      }
+    },
+    {
+      "id": "etf-560550",
+      "group": "etf",
+      "name": "广发中证上海环交所碳中和ETF",
+      "code": "560550",
+      "theme": "碳中和",
+      "benchmark": false,
+      "publisher": "广发基金",
+      "status": "not_published",
+      "data_date": "2026-09-21",
+      "observed_at": null,
+      "checked_at": "2026-09-22T14:00:50+08:00",
+      "source_published_at": null,
+      "source_url": "https://www.gffunds.com.cn/funds/cpmp/202206/t20220630_376000.shtml",
+      "values": {
+        "nav": "0.9088",
+        "change_1d_pct": "0.1500",
+        "change_5d_pct": "-1.21",
+        "change_20d_pct": "-5.86",
+        "excess_5d_pp": "-2.62",
+        "excess_20d_pp": "-5.56"
+      }
+    },
+    {
+      "id": "etf-159320",
+      "group": "etf",
+      "name": "广发恒生A股电网设备ETF",
+      "code": "159320",
+      "theme": "电网设备",
+      "benchmark": false,
+      "publisher": "广发基金",
+      "status": "not_published",
+      "data_date": "2026-09-21",
+      "observed_at": null,
+      "checked_at": "2026-09-22T14:00:50+08:00",
+      "source_published_at": null,
+      "source_url": "https://www.gffunds.com.cn/funds/cpmp/202409/t20240920_397555.shtml",
+      "values": {
+        "nav": "0.6246",
+        "change_1d_pct": "1.3600",
+        "change_5d_pct": "3.88",
+        "change_20d_pct": "0.71",
+        "excess_5d_pp": "2.47",
+        "excess_20d_pp": "1.01"
+      }
+    },
+    {
+      "id": "etf-510360",
+      "group": "etf",
+      "name": "广发沪深300ETF",
+      "code": "510360",
+      "theme": "宽基参照",
+      "benchmark": true,
+      "publisher": "广发基金",
+      "status": "not_published",
+      "data_date": "2026-09-21",
+      "observed_at": null,
+      "checked_at": "2026-09-22T14:00:50+08:00",
+      "source_published_at": null,
+      "source_url": "https://www.gffunds.com.cn/funds/cpmp/201508/t20150821_47013.shtml",
+      "values": {
+        "nav": "1.7649",
+        "change_1d_pct": "0.7200",
+        "change_5d_pct": "1.41",
+        "change_20d_pct": "-0.30"
+      }
+    },
+    {
+      "id": "carbon-cea",
+      "group": "carbon",
+      "name": "全国碳配额 CEA",
+      "status": "pending_review",
+      "checked_at": "2026-09-22T14:00:50+08:00",
+      "note": "现有入口访问受限，待审核可用数据源及发布范围。",
+      "source_url": "https://www.cneeex.com/",
+      "values": {}
+    },
+    {
+      "id": "carbon-ccer",
+      "group": "carbon",
+      "name": "全国自愿减排量 CCER",
+      "status": "pending_review",
+      "checked_at": "2026-09-22T14:00:50+08:00",
+      "note": "访问规则尚未通过审核；与 CEA 分开管理，暂不采集。",
+      "source_url": "https://www.ccer.com.cn/",
+      "values": {}
+    },
+    {
+      "id": "electricity-market",
+      "group": "electricity",
+      "name": "电力价格与负荷",
+      "status": "pending_review",
+      "checked_at": "2026-09-22T14:00:50+08:00",
+      "note": "需逐省审核数据口径、访问权限和公开许可，暂不采集。",
+      "source_url": "https://www.nea.gov.cn/",
+      "values": {}
+    },
+    {
+      "id": "etf-exchange-quotes",
+      "group": "market",
+      "name": "ETF 收盘价、成交额与份额",
+      "status": "pending_review",
+      "checked_at": "2026-09-22T14:00:50+08:00",
+      "note": "尚未接通许可明确的交易行情和每日份额数据源；净值不代替收盘价，不推算资金净流入。",
+      "source_url": "https://www.sse.com.cn/",
+      "values": {}
+    }
+  ],
+  "daily_summary": {
+    "news_count": 1,
+    "sources_ok": 18,
+    "sources_failed": 0,
+    "article_errors": 6,
+    "headlines": [
+      {
+        "title": "中国大唐绍兴江滨热电公司实现厂用电率“近零”突破",
+        "publisher": "能源界",
+        "published_date": "2026-09-22",
+        "url": "https://www.nengyuanjie.net/article/121089.html"
+      }
+    ]
+  }
+}
