@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-23",
+  "updated_at": "2026-09-23T13:47:45+08:00",
+  "observations": [
+    {
+      "id": "etf-512580",
+      "group": "etf",
+      "name": "广发中证环保ETF",
+      "code": "512580",
+      "theme": "环保",
+      "benchmark": false,
+      "publisher": "广发基金",
+      "status": "not_published",
+      "data_date": "2026-09-22",
+      "observed_at": null,
+      "checked_at": "2026-09-23T13:47:27+08:00",
+      "source_published_at": null,
+      "source_url": "https://www.gffunds.com.cn/funds/cpmp/201701/t20170126_57287.shtml",
+      "values": {
+        "nav": "1.1266",
+        "change_1d_pct": "-0.0300",
+        "change_5d_pct": "0.87",
+        "change_20d_pct": "-4.73",
+        "excess_5d_pp": "-1.32",
+        "excess_20d_pp": "-4.79"
+      }
+    },
+    {
+      "id": "etf-560550",
+      "group": "etf",
+      "name": "广发中证上海环交所碳中和ETF",
+      "code": "560550",
+      "theme": "碳中和",
+      "benchmark": false,
+      "publisher": "广发基金",
+      "status": "not_published",
+      "data_date": "2026-09-22",
+      "observed_at": null,
+      "checked_at": "2026-09-23T13:47:27+08:00",
+      "source_published_at": null,
+      "source_url": "https://www.gffunds.com.cn/funds/cpmp/202206/t20220630_376000.shtml",
+      "values": {
+        "nav": "0.9093",
+        "change_1d_pct": "0.0600",
+        "change_5d_pct": "0.06",
+        "change_20d_pct": "-4.92",
+        "excess_5d_pp": "-2.13",
+        "excess_20d_pp": "-4.98"
+      }
+    },
+    {
+      "id": "etf-159320",
+      "group": "etf",
+      "name": "广发恒生A股电网设备ETF",
+      "code": "159320",
+      "theme": "电网设备",
+      "benchmark": false,
+      "publisher": "广发基金",
+      "status": "not_published",
+      "data_date": "2026-09-22",
+      "observed_at": null,
+      "checked_at": "2026-09-23T13:47:27+08:00",
+      "source_published_at": null,
+      "source_url": "https://www.gffunds.com.cn/funds/cpmp/202409/t20240920_397555.shtml",
+      "values": {
+        "nav": "0.6199",
+        "change_1d_pct": "-0.7500",
+        "change_5d_pct": "3.34",
+        "change_20d_pct": "-0.85",
+        "excess_5d_pp": "1.15",
+        "excess_20d_pp": "-0.91"
+      }
+    },
+    {
+      "id": "etf-510360",
+      "group": "etf",
+      "name": "广发沪深300ETF",
+      "code": "510360",
+      "theme": "宽基参照",
+      "benchmark": true,
+      "publisher": "广发基金",
+      "status": "not_published",
+      "data_date": "2026-09-22",
+      "observed_at": null,
+      "checked_at": "2026-09-23T13:47:27+08:00",
+      "source_published_at": null,
+      "source_url": "https://www.gffunds.com.cn/funds/cpmp/201508/t20150821_47013.shtml",
+      "values": {
+        "nav": "1.7671",
+        "change_1d_pct": "0.1200",
+        "change_5d_pct": "2.19",
+        "change_20d_pct": "0.06"
+      }
+    },
+    {
+      "id": "carbon-cea",
+      "group": "carbon",
+      "name": "全国碳配额 CEA",
+      "status": "pending_review",
+      "checked_at": "2026-09-23T13:47:27+08:00",
+      "note": "现有入口访问受限，待审核可用数据源及发布范围。",
+      "source_url": "https://www.cneeex.com/",
+      "values": {}
+    },
+    {
+      "id": "carbon-ccer",
+      "group": "carbon",
+      "name": "全国自愿减排量 CCER",
+      "status": "pending_review",
+      "checked_at": "2026-09-23T13:47:27+08:00",
+      "note": "访问规则尚未通过审核；与 CEA 分开管理，暂不采集。",
+      "source_url": "https://www.ccer.com.cn/",
+      "values": {}
+    },
+    {
+      "id": "electricity-market",
+      "group": "electricity",
+      "name": "电力价格与负荷",
+      "status": "pending_review",
+      "checked_at": "2026-09-23T13:47:27+08:00",
+      "note": "需逐省审核数据口径、访问权限和公开许可，暂不采集。",
+      "source_url": "https://www.nea.gov.cn/",
+      "values": {}
+    },
+    {
+      "id": "etf-exchange-quotes",
+      "group": "market",
+      "name": "ETF 收盘价、成交额与份额",
+      "status": "pending_review",
+      "checked_at": "2026-09-23T13:47:27+08:00",
+      "note": "尚未接通许可明确的交易行情和每日份额数据源；净值不代替收盘价，不推算资金净流入。",
+      "source_url": "https://www.sse.com.cn/",
+      "values": {}
+    }
+  ],
+  "daily_summary": {
+    "news_count": 0,
+    "sources_ok": 18,
+    "sources_failed": 0,
+    "article_errors": 5,
+    "headlines": []
+  }
+}
