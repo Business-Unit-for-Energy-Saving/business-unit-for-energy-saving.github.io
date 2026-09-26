@@ -31,7 +31,7 @@ description: 节能行业公开资料采集简报
 
 [行业重点观察企业清单](companies.html)
 
-[信息源与历史回填进度](sources.html)
+[信息源目录](sources.html)
 
 ## 公开入口
 

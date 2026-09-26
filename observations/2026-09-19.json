@@ -136,9 +136,6 @@
   ],
   "daily_summary": {
     "news_count": 0,
-    "sources_ok": 18,
-    "sources_failed": 0,
-    "article_errors": 4,
     "headlines": []
   }
 }
