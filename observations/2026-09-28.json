@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-28",
+  "updated_at": "2026-09-28T07:37:22+08:00",
+  "observations": [
+    {
+      "id": "etf-512580",
+      "group": "etf",
+      "name": "广发中证环保ETF",
+      "code": "512580",
+      "theme": "环保",
+      "benchmark": false,
+      "provider": "akshare",
+      "publisher": "Eastmoney via AKShare",
+      "status": "not_published",
+      "data_date": "2026-09-24",
+      "checked_at": "2026-09-28T07:37:14+08:00",
+      "source_url": "https://quote.eastmoney.com/",
+      "values": {
+        "close": "1.106",
+        "change_1d_pct": "-1.43",
+        "volume": "37019",
+        "amount": "4118839.0",
+        "change_5d_pct": "-0.72",
+        "change_20d_pct": "-6.82"
+      }
+    },
+    {
+      "id": "etf-560550",
+      "group": "etf",
+      "name": "广发中证上海环交所碳中和ETF",
+      "code": "560550",
+      "theme": "碳中和",
+      "benchmark": false,
+      "provider": "akshare",
+      "publisher": "Eastmoney via AKShare",
+      "status": "not_published",
+      "data_date": "2026-09-24",
+      "checked_at": "2026-09-28T07:37:14+08:00",
+      "source_url": "https://quote.eastmoney.com/",
+      "values": {
+        "close": "0.894",
+        "change_1d_pct": "-1.32",
+        "volume": "5190",
+        "amount": "464921.0",
+        "change_5d_pct": "-0.67",
+        "change_20d_pct": "-7.84"
+      }
+    },
+    {
+      "id": "etf-159320",
+      "group": "etf",
+      "name": "广发恒生A股电网设备ETF",
+      "code": "159320",
+      "theme": "电网设备",
+      "benchmark": false,
+      "provider": "akshare",
+      "publisher": "Eastmoney via AKShare",
+      "status": "not_published",
+      "data_date": "2026-09-24",
+      "checked_at": "2026-09-28T07:37:14+08:00",
+      "source_url": "https://quote.eastmoney.com/",
+      "values": {
+        "close": "0.602",
+        "change_1d_pct": "-1.79",
+        "volume": "447920",
+        "amount": "27183870.6",
+        "change_5d_pct": "-0.99",
+        "change_20d_pct": "-4.29"
+      }
+    },
+    {
+      "id": "etf-510360",
+      "group": "etf",
+      "name": "广发沪深300ETF",
+      "code": "510360",
+      "theme": "宽基参照",
+      "benchmark": true,
+      "provider": "akshare",
+      "publisher": "Eastmoney via AKShare",
+      "status": "fetch_failed",
+      "data_date": "2026-09-24",
+      "checked_at": "2026-09-28T07:37:14+08:00",
+      "last_success_at": "2026-09-26T14:02:00+08:00",
+      "source_url": "https://quote.eastmoney.com/",
+      "values": {
+        "nav": "1.7266",
+        "change_1d_pct": "-1.7000",
+        "change_5d_pct": "-0.40",
+        "change_20d_pct": "-3.93"
+      }
+    },
+    {
+      "id": "carbon-cea",
+      "group": "carbon",
+      "name": "全国碳配额 CEA",
+      "status": "pending_review",
+      "checked_at": "2026-09-28T07:37:14+08:00",
+      "note": "现有入口访问受限，待审核可用数据源及发布范围。",
+      "source_url": "https://www.cneeex.com/",
+      "values": {}
+    },
+    {
+      "id": "carbon-ccer",
+      "group": "carbon",
+      "name": "全国自愿减排量 CCER",
+      "status": "pending_review",
+      "checked_at": "2026-09-28T07:37:14+08:00",
+      "note": "访问规则尚未通过审核；与 CEA 分开管理，暂不采集。",
+      "source_url": "https://www.ccer.com.cn/",
+      "values": {}
+    },
+    {
+      "id": "electricity-market",
+      "group": "electricity",
+      "name": "电力价格与负荷",
+      "status": "pending_review",
+      "checked_at": "2026-09-28T07:37:14+08:00",
+      "note": "需逐省审核数据口径、访问权限和公开许可，暂不采集。",
+      "source_url": "https://www.nea.gov.cn/",
+      "values": {}
+    },
+    {
+      "id": "etf-exchange-quotes",
+      "group": "market",
+      "name": "ETF 每日份额与资金流向",
+      "status": "pending_review",
+      "checked_at": "2026-09-28T07:37:14+08:00",
+      "note": "AKShare 已提供有限日线行情；每日份额和资金净流入仍需单独审核数据源与发布范围。",
+      "source_url": "https://www.sse.com.cn/",
+      "values": {}
+    }
+  ],
+  "daily_summary": {
+    "news_count": 0,
+    "headlines": []
+  }
+}
