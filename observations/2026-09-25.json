@@ -134,6 +134,15 @@
       "values": {}
     }
   ],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 2,
+    "chain_stages": [],
+    "application_scenarios": [],
+    "technology_tags": [],
+    "event_types": [],
+    "entities": []
+  },
   "daily_summary": {
     "news_count": 2,
     "headlines": [
