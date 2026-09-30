@@ -1,0 +1,671 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-30",
+  "updated_at": "2026-09-30T14:35:14+08:00",
+  "observations": [
+    {
+      "id": "etf-512580",
+      "group": "etf",
+      "name": "广发中证环保ETF",
+      "code": "512580",
+      "theme": "环保",
+      "benchmark": false,
+      "provider": "akshare",
+      "publisher": "Eastmoney via AKShare",
+      "status": "ok",
+      "data_date": "2026-09-30",
+      "checked_at": "2026-09-30T14:35:05+08:00",
+      "source_url": "https://quote.eastmoney.com/",
+      "values": {
+        "close": "1.1",
+        "change_1d_pct": "0.82",
+        "volume": "41060",
+        "amount": "4503450.0",
+        "change_5d_pct": "-2.48",
+        "change_20d_pct": "-5.25",
+        "excess_5d_pp": "1.54",
+        "excess_20d_pp": "-0.05"
+      }
+    },
+    {
+      "id": "etf-560550",
+      "group": "etf",
+      "name": "广发中证上海环交所碳中和ETF",
+      "code": "560550",
+      "theme": "碳中和",
+      "benchmark": false,
+      "provider": "akshare",
+      "publisher": "Eastmoney via AKShare",
+      "status": "ok",
+      "data_date": "2026-09-30",
+      "checked_at": "2026-09-30T14:35:05+08:00",
+      "source_url": "https://quote.eastmoney.com/",
+      "values": {
+        "close": "0.884",
+        "change_1d_pct": "0.8",
+        "volume": "79",
+        "amount": "6948.0",
+        "change_5d_pct": "-2.75",
+        "change_20d_pct": "-7.53",
+        "excess_5d_pp": "1.27",
+        "excess_20d_pp": "-2.33"
+      }
+    },
+    {
+      "id": "etf-159320",
+      "group": "etf",
+      "name": "广发恒生A股电网设备ETF",
+      "code": "159320",
+      "theme": "电网设备",
+      "benchmark": false,
+      "provider": "akshare",
+      "publisher": "Eastmoney via AKShare",
+      "status": "ok",
+      "data_date": "2026-09-30",
+      "checked_at": "2026-09-30T14:35:05+08:00",
+      "source_url": "https://quote.eastmoney.com/",
+      "values": {
+        "close": "0.569",
+        "change_1d_pct": "-0.18",
+        "volume": "284933",
+        "amount": "16232055.3",
+        "change_5d_pct": "-8.37",
+        "change_20d_pct": "-7.18",
+        "excess_5d_pp": "-4.35",
+        "excess_20d_pp": "-1.98"
+      }
+    },
+    {
+      "id": "etf-510360",
+      "group": "etf",
+      "name": "广发沪深300ETF",
+      "code": "510360",
+      "theme": "宽基参照",
+      "benchmark": true,
+      "provider": "akshare",
+      "publisher": "Eastmoney via AKShare",
+      "status": "ok",
+      "data_date": "2026-09-30",
+      "checked_at": "2026-09-30T14:35:05+08:00",
+      "source_url": "https://quote.eastmoney.com/",
+      "values": {
+        "close": "1.697",
+        "change_1d_pct": "0.24",
+        "volume": "178006",
+        "amount": "30166466.0",
+        "change_5d_pct": "-4.02",
+        "change_20d_pct": "-5.20"
+      }
+    },
+    {
+      "id": "carbon-cea",
+      "group": "carbon",
+      "name": "全国碳配额 CEA",
+      "status": "pending_review",
+      "checked_at": "2026-09-30T14:35:05+08:00",
+      "note": "现有入口访问受限，待审核可用数据源及发布范围。",
+      "source_url": "https://www.cneeex.com/",
+      "values": {}
+    },
+    {
+      "id": "carbon-ccer",
+      "group": "carbon",
+      "name": "全国自愿减排量 CCER",
+      "status": "pending_review",
+      "checked_at": "2026-09-30T14:35:05+08:00",
+      "note": "访问规则尚未通过审核；与 CEA 分开管理，暂不采集。",
+      "source_url": "https://www.ccer.com.cn/",
+      "values": {}
+    },
+    {
+      "id": "electricity-market",
+      "group": "electricity",
+      "name": "电力价格与负荷",
+      "status": "pending_review",
+      "checked_at": "2026-09-30T14:35:05+08:00",
+      "note": "需逐省审核数据口径、访问权限和公开许可，暂不采集。",
+      "source_url": "https://www.nea.gov.cn/",
+      "values": {}
+    },
+    {
+      "id": "etf-exchange-quotes",
+      "group": "market",
+      "name": "ETF 每日份额与资金流向",
+      "status": "pending_review",
+      "checked_at": "2026-09-30T14:35:05+08:00",
+      "note": "AKShare 已提供有限日线行情；每日份额和资金净流入仍需单独审核数据源与发布范围。",
+      "source_url": "https://www.sse.com.cn/",
+      "values": {}
+    }
+  ],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 4,
+    "chain_stages": [
+      {
+        "id": "application-scenes",
+        "label": "工业、建筑与公共机构场景",
+        "article_count": 4,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          },
+          {
+            "title": "大庆油田采油二厂新能源累计发电量突破2亿千瓦时,资源型老油田绿色转型获标志性进展",
+            "published_date": "2026-09-29",
+            "url": "https://www.nengyuanjie.net/article/121171.html"
+          },
+          {
+            "title": "能源费用托管型合同能源管理项目实操培训（第五期）在江苏省南京市圆满结束",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/15/202609/43089.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-resources",
+        "label": "能源资源与电力",
+        "article_count": 4,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          },
+          {
+            "title": "大庆油田采油二厂新能源累计发电量突破2亿千瓦时,资源型老油田绿色转型获标志性进展",
+            "published_date": "2026-09-29",
+            "url": "https://www.nengyuanjie.net/article/121171.html"
+          },
+          {
+            "title": "能源费用托管型合同能源管理项目实操培训（第五期）在江苏省南京市圆满结束",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/15/202609/43089.html"
+          }
+        ]
+      },
+      {
+        "id": "solution-integration",
+        "label": "系统集成与节能服务",
+        "article_count": 3,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          },
+          {
+            "title": "能源费用托管型合同能源管理项目实操培训（第五期）在江苏省南京市圆满结束",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/15/202609/43089.html"
+          },
+          {
+            "title": "节能服务产业景气指数124，处于较高景气区间（2026年第三季度）",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/14/202609/43091.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-software",
+        "label": "能源管理软件与数据平台",
+        "article_count": 3,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          },
+          {
+            "title": "能源费用托管型合同能源管理项目实操培训（第五期）在江苏省南京市圆满结束",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/15/202609/43089.html"
+          },
+          {
+            "title": "节能服务产业景气指数124，处于较高景气区间（2026年第三季度）",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/14/202609/43091.html"
+          }
+        ]
+      },
+      {
+        "id": "measurement-carbon",
+        "label": "计量、监测与碳核算",
+        "article_count": 3,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          },
+          {
+            "title": "能源费用托管型合同能源管理项目实操培训（第五期）在江苏省南京市圆满结束",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/15/202609/43089.html"
+          },
+          {
+            "title": "节能服务产业景气指数124，处于较高景气区间（2026年第三季度）",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/14/202609/43091.html"
+          }
+        ]
+      },
+      {
+        "id": "equipment-components",
+        "label": "设备与关键部件",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "industrial-manufacturing",
+        "label": "工业制造与流程优化",
+        "article_count": 4,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          },
+          {
+            "title": "大庆油田采油二厂新能源累计发电量突破2亿千瓦时,资源型老油田绿色转型获标志性进展",
+            "published_date": "2026-09-29",
+            "url": "https://www.nengyuanjie.net/article/121171.html"
+          },
+          {
+            "title": "能源费用托管型合同能源管理项目实操培训（第五期）在江苏省南京市圆满结束",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/15/202609/43089.html"
+          }
+        ]
+      },
+      {
+        "id": "public-institutions",
+        "label": "公共机构与医院",
+        "article_count": 3,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          },
+          {
+            "title": "能源费用托管型合同能源管理项目实操培训（第五期）在江苏省南京市圆满结束",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/15/202609/43089.html"
+          },
+          {
+            "title": "节能服务产业景气指数124，处于较高景气区间（2026年第三季度）",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/14/202609/43091.html"
+          }
+        ]
+      },
+      {
+        "id": "building-energy",
+        "label": "建筑与园区用能",
+        "article_count": 3,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          },
+          {
+            "title": "大庆油田采油二厂新能源累计发电量突破2亿千瓦时,资源型老油田绿色转型获标志性进展",
+            "published_date": "2026-09-29",
+            "url": "https://www.nengyuanjie.net/article/121171.html"
+          },
+          {
+            "title": "能源费用托管型合同能源管理项目实操培训（第五期）在江苏省南京市圆满结束",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/15/202609/43089.html"
+          }
+        ]
+      },
+      {
+        "id": "carbon-management",
+        "label": "碳管理与产品碳足迹",
+        "article_count": 3,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          },
+          {
+            "title": "能源费用托管型合同能源管理项目实操培训（第五期）在江苏省南京市圆满结束",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/15/202609/43089.html"
+          },
+          {
+            "title": "节能服务产业景气指数124，处于较高景气区间（2026年第三季度）",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/14/202609/43091.html"
+          }
+        ]
+      },
+      {
+        "id": "renewable-transition",
+        "label": "新能源与能源结构转型",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          },
+          {
+            "title": "大庆油田采油二厂新能源累计发电量突破2亿千瓦时,资源型老油田绿色转型获标志性进展",
+            "published_date": "2026-09-29",
+            "url": "https://www.nengyuanjie.net/article/121171.html"
+          }
+        ]
+      },
+      {
+        "id": "transportation",
+        "label": "交通与运输节能",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "carbon-measurement",
+        "label": "碳排放计量与核算",
+        "article_count": 3,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          },
+          {
+            "title": "能源费用托管型合同能源管理项目实操培训（第五期）在江苏省南京市圆满结束",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/15/202609/43089.html"
+          },
+          {
+            "title": "节能服务产业景气指数124，处于较高景气区间（2026年第三季度）",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/14/202609/43091.html"
+          }
+        ]
+      },
+      {
+        "id": "renewables-storage",
+        "label": "光伏、储能与绿电",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          },
+          {
+            "title": "大庆油田采油二厂新能源累计发电量突破2亿千瓦时,资源型老油田绿色转型获标志性进展",
+            "published_date": "2026-09-29",
+            "url": "https://www.nengyuanjie.net/article/121171.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-management",
+        "label": "能源管理",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "能源费用托管型合同能源管理项目实操培训（第五期）在江苏省南京市圆满结束",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/15/202609/43089.html"
+          },
+          {
+            "title": "节能服务产业景气指数124，处于较高景气区间（2026年第三季度）",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/14/202609/43091.html"
+          }
+        ]
+      },
+      {
+        "id": "industrial-efficiency",
+        "label": "工业能效",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "大庆油田采油二厂新能源累计发电量突破2亿千瓦时,资源型老油田绿色转型获标志性进展",
+            "published_date": "2026-09-29",
+            "url": "https://www.nengyuanjie.net/article/121171.html"
+          }
+        ]
+      },
+      {
+        "id": "thermal-systems",
+        "label": "热能与冷站系统",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          }
+        ]
+      },
+      {
+        "id": "electrification-control",
+        "label": "电气化与控制",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          }
+        ]
+      },
+      {
+        "id": "green-building",
+        "label": "绿色建筑与建筑能效",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "大庆油田采油二厂新能源累计发电量突破2亿千瓦时,资源型老油田绿色转型获标志性进展",
+            "published_date": "2026-09-29",
+            "url": "https://www.nengyuanjie.net/article/121171.html"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "product",
+        "label": "设备与服务发布",
+        "article_count": 4,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          },
+          {
+            "title": "大庆油田采油二厂新能源累计发电量突破2亿千瓦时,资源型老油田绿色转型获标志性进展",
+            "published_date": "2026-09-29",
+            "url": "https://www.nengyuanjie.net/article/121171.html"
+          },
+          {
+            "title": "能源费用托管型合同能源管理项目实操培训（第五期）在江苏省南京市圆满结束",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/15/202609/43089.html"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与改造",
+        "article_count": 4,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          },
+          {
+            "title": "大庆油田采油二厂新能源累计发电量突破2亿千瓦时,资源型老油田绿色转型获标志性进展",
+            "published_date": "2026-09-29",
+            "url": "https://www.nengyuanjie.net/article/121171.html"
+          },
+          {
+            "title": "能源费用托管型合同能源管理项目实操培训（第五期）在江苏省南京市圆满结束",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/15/202609/43089.html"
+          }
+        ]
+      },
+      {
+        "id": "partnership",
+        "label": "合作与生态",
+        "article_count": 3,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          },
+          {
+            "title": "能源费用托管型合同能源管理项目实操培训（第五期）在江苏省南京市圆满结束",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/15/202609/43089.html"
+          },
+          {
+            "title": "节能服务产业景气指数124，处于较高景气区间（2026年第三季度）",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/14/202609/43091.html"
+          }
+        ]
+      },
+      {
+        "id": "policy",
+        "label": "政策与监管",
+        "article_count": 3,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          },
+          {
+            "title": "能源费用托管型合同能源管理项目实操培训（第五期）在江苏省南京市圆满结束",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/15/202609/43089.html"
+          },
+          {
+            "title": "节能服务产业景气指数124，处于较高景气区间（2026年第三季度）",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/14/202609/43091.html"
+          }
+        ]
+      },
+      {
+        "id": "standard",
+        "label": "标准与计量",
+        "article_count": 3,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          },
+          {
+            "title": "能源费用托管型合同能源管理项目实操培训（第五期）在江苏省南京市圆满结束",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/15/202609/43089.html"
+          },
+          {
+            "title": "节能服务产业景气指数124，处于较高景气区间（2026年第三季度）",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/14/202609/43091.html"
+          }
+        ]
+      },
+      {
+        "id": "research",
+        "label": "研究与方法",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "推进能源体系绿色低碳转型",
+            "published_date": "2026-09-30",
+            "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+          },
+          {
+            "title": "节能服务产业景气指数124，处于较高景气区间（2026年第三季度）",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/14/202609/43091.html"
+          }
+        ]
+      },
+      {
+        "id": "disclosure",
+        "label": "企业披露与经营动态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "节能服务产业景气指数124，处于较高景气区间（2026年第三季度）",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/14/202609/43091.html"
+          }
+        ]
+      },
+      {
+        "id": "tender",
+        "label": "采购与招标",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "能源费用托管型合同能源管理项目实操培训（第五期）在江苏省南京市圆满结束",
+            "published_date": "2026-09-29",
+            "url": "https://www.emca.cn/web/15/202609/43089.html"
+          }
+        ]
+      }
+    ],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 4,
+    "headlines": [
+      {
+        "title": "推进能源体系绿色低碳转型",
+        "publisher": "国家能源局",
+        "published_date": "2026-09-30",
+        "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html"
+      },
+      {
+        "title": "大庆油田采油二厂新能源累计发电量突破2亿千瓦时,资源型老油田绿色转型获标志性进展",
+        "publisher": "能源界",
+        "published_date": "2026-09-29",
+        "url": "https://www.nengyuanjie.net/article/121171.html"
+      },
+      {
+        "title": "能源费用托管型合同能源管理项目实操培训（第五期）在江苏省南京市圆满结束",
+        "publisher": "中国节能协会节能服务产业委员会",
+        "published_date": "2026-09-29",
+        "url": "https://www.emca.cn/web/15/202609/43089.html"
+      }
+    ]
+  }
+}

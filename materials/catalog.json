@@ -8794,6 +8794,2684 @@
       "result": "new",
       "_baseline": true,
       "related_sources": []
+    },
+    "52ff58f9bcb4103f96e6": {
+      "url": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html",
+      "title": "推进能源体系绿色低碳转型",
+      "publisher": "国家能源局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "能源政策",
+        "电力",
+        "供需"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2026-09-30",
+      "excerpt": "习近平总书记指出：“坚持‘双碳’引领，推动全面绿色转型。”《新型能源体系建设“十五五”规划》提出：“更好统筹发展和安全，以安全充裕为前提、经济可行为基础、科技创新为引领、体制改革为动力，加快建设清洁低碳安全高效的新型能源体系，确保能源的饭碗牢牢端在自己手里。”当前，国际能源供需格局深度调整，能源科技革命加速推进，国际能源安全问题日趋复杂。“十五五”时期，我国能源发展进入安全风险叠加演变期、低碳转型加力推进期、能源创新加速突破期、体制改革深度攻坚期、国际合作调整重塑期。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "research",
+            "label": "研究与方法"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "equipment-components",
+            "label": "设备与关键部件"
+          },
+          {
+            "id": "measurement-carbon",
+            "label": "计量、监测与碳核算"
+          },
+          {
+            "id": "energy-software",
+            "label": "能源管理软件与数据平台"
+          },
+          {
+            "id": "solution-integration",
+            "label": "系统集成与节能服务"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "carbon-measurement",
+            "label": "碳排放计量与核算"
+          },
+          {
+            "id": "thermal-systems",
+            "label": "热能与冷站系统"
+          },
+          {
+            "id": "electrification-control",
+            "label": "电气化与控制"
+          },
+          {
+            "id": "renewables-storage",
+            "label": "光伏、储能与绿电"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          },
+          {
+            "id": "building-energy",
+            "label": "建筑与园区用能"
+          },
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          },
+          {
+            "id": "carbon-management",
+            "label": "碳管理与产品碳足迹"
+          },
+          {
+            "id": "renewable-transition",
+            "label": "新能源与能源结构转型"
+          },
+          {
+            "id": "transportation",
+            "label": "交通与运输节能"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "research",
+            "object_label": "研究与方法"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "equipment-components",
+            "object_label": "设备与关键部件"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "measurement-carbon",
+            "object_label": "计量、监测与碳核算"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-software",
+            "object_label": "能源管理软件与数据平台"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "solution-integration",
+            "object_label": "系统集成与节能服务"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "building-energy",
+            "object_label": "建筑与园区用能"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "carbon-management",
+            "object_label": "碳管理与产品碳足迹"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "renewable-transition",
+            "object_label": "新能源与能源结构转型"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20260930/161af7d1cdfe47d98a34cb2219102590/c.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "transportation",
+            "object_label": "交通与运输节能"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2026-09-30",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-09-30",
+      "updated_at": "2026-09-30T14:35:14+08:00",
+      "result": "new",
+      "_baseline": false,
+      "related_sources": []
+    },
+    "f96a12d1fdae66eed457": {
+      "url": "https://www.nengyuanjie.net/article/121171.html",
+      "title": "大庆油田采油二厂新能源累计发电量突破2亿千瓦时,资源型老油田绿色转型获标志性进展",
+      "publisher": "能源界",
+      "kind": "media",
+      "region": "中国",
+      "topics": [
+        "技术案例",
+        "建筑节能",
+        "工业节能"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2026-09-29",
+      "excerpt": "该厂2023年1月启动新能源布局，先后落地6项风光工程，总装机18.2万千瓦，清洁电力供给能力实现跨越式增长。 该厂相关负责人介绍，发电量快速增长，核心源于多能互补体系的系统推进，技术团队攻克极寒工况下吊装、冻土基础施工等多项难题，保障所有项目按期并网。 下一步，中国石油将在全系统推广该实践模式，推动更多老油田构建“油、气、风、光、热”多能互补体系，为资源型产业低碳转型打造工业样本。",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "project",
+          "label": "项目与改造"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "industrial-efficiency",
+            "label": "工业能效"
+          },
+          {
+            "id": "renewables-storage",
+            "label": "光伏、储能与绿电"
+          },
+          {
+            "id": "green-building",
+            "label": "绿色建筑与建筑能效"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          },
+          {
+            "id": "building-energy",
+            "label": "建筑与园区用能"
+          },
+          {
+            "id": "renewable-transition",
+            "label": "新能源与能源结构转型"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nengyuanjie.net/article/121171.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nengyuanjie.net/article/121171.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nengyuanjie.net/article/121171.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nengyuanjie.net/article/121171.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nengyuanjie.net/article/121171.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nengyuanjie.net/article/121171.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "building-energy",
+            "object_label": "建筑与园区用能"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nengyuanjie.net/article/121171.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "renewable-transition",
+            "object_label": "新能源与能源结构转型"
+          }
+        ],
+        "evidence": {
+          "level": "媒体或二手资料",
+          "source_kind": "media",
+          "published_date": "2026-09-29",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-09-30",
+      "updated_at": "2026-09-30T14:35:14+08:00",
+      "result": "new",
+      "_baseline": false,
+      "related_sources": []
+    },
+    "d89ab0d48fb6678d3610": {
+      "url": "https://www.emca.cn/web/15/202609/43089.html",
+      "title": "能源费用托管型合同能源管理项目实操培训（第五期）在江苏省南京市圆满结束",
+      "publisher": "中国节能协会节能服务产业委员会",
+      "kind": "association",
+      "region": "中国",
+      "topics": [
+        "合同能源管理",
+        "采购线索",
+        "产业动态"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2026-09-29",
+      "excerpt": "2026年9月22-23日，由中国节能协会节能服务专业委员会（EMCA）举办的能源费用托管型合同能源管理项目实操培训（第五期）在江苏省南京市圆满结束。 能源托管服务已经成为公共机构节能降碳的核心市场化模式。在《国管局关于2026年公共机构节约能源资源工作安排的通知》中明确提出，鼓励公共机构委托市场服务机构提供节能节水技术改造、运行管理等服务，推动市场化机制在公共机构得到更加规范、更广范围、更高质量的运用。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "tender",
+            "label": "采购与招标"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "measurement-carbon",
+            "label": "计量、监测与碳核算"
+          },
+          {
+            "id": "energy-software",
+            "label": "能源管理软件与数据平台"
+          },
+          {
+            "id": "solution-integration",
+            "label": "系统集成与节能服务"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "energy-management",
+            "label": "能源管理"
+          },
+          {
+            "id": "carbon-measurement",
+            "label": "碳排放计量与核算"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          },
+          {
+            "id": "building-energy",
+            "label": "建筑与园区用能"
+          },
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          },
+          {
+            "id": "carbon-management",
+            "label": "碳管理与产品碳足迹"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43089.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43089.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43089.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "tender",
+            "object_label": "采购与招标"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43089.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43089.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43089.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43089.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43089.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "measurement-carbon",
+            "object_label": "计量、监测与碳核算"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43089.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-software",
+            "object_label": "能源管理软件与数据平台"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43089.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "solution-integration",
+            "object_label": "系统集成与节能服务"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43089.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43089.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43089.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "building-energy",
+            "object_label": "建筑与园区用能"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43089.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43089.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "carbon-management",
+            "object_label": "碳管理与产品碳足迹"
+          }
+        ],
+        "evidence": {
+          "level": "行业组织材料",
+          "source_kind": "association",
+          "published_date": "2026-09-29",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-09-30",
+      "updated_at": "2026-09-30T14:35:14+08:00",
+      "result": "new",
+      "_baseline": false,
+      "related_sources": []
+    },
+    "578a3f5f65845fe177b8": {
+      "url": "https://www.emca.cn/web/14/202609/43091.html",
+      "title": "节能服务产业景气指数124，处于较高景气区间（2026年第三季度）",
+      "publisher": "中国节能协会节能服务产业委员会",
+      "kind": "association",
+      "region": "中国",
+      "topics": [
+        "团体标准",
+        "医院",
+        "能源托管"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2026-09-29",
+      "excerpt": "节能服务产业景气指数124 （2026年第3季度） 现将节能服务产业2026年第三季度将景气度情况简报如下： 一、 景气指数 根据节能服务产业景气度定点联系企业（以下简称“定点企业”）负责人对当前经营情况及未来预期的判断，综合打分景气指数为124，处于较高景气区间。 二、 经营状况 “定点企业”的各项经营指标统计如下： （一）项目数量：第三季度平均新签约14个项目，相比去年同期上升了102.38%。 （二）营业收入：第三季度平均营业收入为5589.89万元，相比于去年同期下降了35.34%。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "research",
+            "label": "研究与方法"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          },
+          {
+            "id": "disclosure",
+            "label": "企业披露与经营动态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "measurement-carbon",
+            "label": "计量、监测与碳核算"
+          },
+          {
+            "id": "energy-software",
+            "label": "能源管理软件与数据平台"
+          },
+          {
+            "id": "solution-integration",
+            "label": "系统集成与节能服务"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "energy-management",
+            "label": "能源管理"
+          },
+          {
+            "id": "carbon-measurement",
+            "label": "碳排放计量与核算"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          },
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          },
+          {
+            "id": "carbon-management",
+            "label": "碳管理与产品碳足迹"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202609/43091.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202609/43091.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202609/43091.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "research",
+            "object_label": "研究与方法"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202609/43091.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202609/43091.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202609/43091.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202609/43091.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "disclosure",
+            "object_label": "企业披露与经营动态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202609/43091.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202609/43091.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "measurement-carbon",
+            "object_label": "计量、监测与碳核算"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202609/43091.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-software",
+            "object_label": "能源管理软件与数据平台"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202609/43091.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "solution-integration",
+            "object_label": "系统集成与节能服务"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202609/43091.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202609/43091.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202609/43091.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202609/43091.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "carbon-management",
+            "object_label": "碳管理与产品碳足迹"
+          }
+        ],
+        "evidence": {
+          "level": "行业组织材料",
+          "source_kind": "association",
+          "published_date": "2026-09-29",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-09-30",
+      "updated_at": "2026-09-30T14:35:14+08:00",
+      "result": "new",
+      "_baseline": false,
+      "related_sources": []
+    },
+    "44017cdb9a8df42cc7fe": {
+      "url": "https://www.emca.cn/web/15/202609/43090.html",
+      "title": "绿色星期五沙龙第十四期｜智慧楼宇综合节能降碳技术交流会在北京成功举办",
+      "publisher": "中国节能协会节能服务产业委员会",
+      "kind": "association",
+      "region": "中国",
+      "topics": [
+        "合同能源管理",
+        "采购线索",
+        "产业动态"
+      ],
+      "cities": [
+        "北京"
+      ],
+      "regions": [],
+      "published_date": "2026-09-20",
+      "excerpt": "在双碳战略深入落地的背景下，建筑领域智慧化、综合化节能降碳升级需求持续高涨，行业亟需成熟落地技术与优质资源互通渠道。为搭建高效、精准的行业交流平台，切实服务会员企业发展需求，中国节能协会节能服务专业委员会（EMCA）于2026年9月11日，在北京海林自控科技股份有限公司举办 “智慧楼宇综合节能降碳技术交流会” 专题活动。活动设置了主题分享、交流研讨环节，并组织参会企业实地参观海林自控公司展厅、核心实验室及生产车间。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "tender",
+            "label": "采购与招标"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "tender",
+          "label": "采购与招标"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "energy-software",
+            "label": "能源管理软件与数据平台"
+          },
+          {
+            "id": "solution-integration",
+            "label": "系统集成与节能服务"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "energy-management",
+            "label": "能源管理"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "building-energy",
+            "label": "建筑与园区用能"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43090.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "tender",
+            "object_label": "采购与招标"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43090.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43090.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43090.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43090.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43090.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-software",
+            "object_label": "能源管理软件与数据平台"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43090.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "solution-integration",
+            "object_label": "系统集成与节能服务"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43090.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/15/202609/43090.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "building-energy",
+            "object_label": "建筑与园区用能"
+          }
+        ],
+        "evidence": {
+          "level": "行业组织材料",
+          "source_kind": "association",
+          "published_date": "2026-09-20",
+          "has_quantified_claim": false
+        }
+      },
+      "first_collected_on": "2026-09-30",
+      "updated_at": "2026-09-30T14:35:14+08:00",
+      "result": "new",
+      "_baseline": false,
+      "related_sources": []
+    },
+    "97ae6e8c5648fb9cfca7": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250313_47465.htm",
+      "title": "河南省机关事务管理局组织开展2024年度 全省公共机构能源资源消费统计数据会审",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2025-03-13",
+      "excerpt": "为全面落实《加强公共机构能源资源消费统计数据治理三年行动方案（2023-2025年）》，实现“十四五”河南省公共机构节约能源资源目标完成，2月20日至21日，河南省机关事务管理局节能处组织开展2024年度全省公共机构能源资源消费统计数据会审。 会议分析了当前公共机构能源资源工作面临的形势，强调了能耗统计工作的重要性，提出进一步推广使用全国公共机构节约能源资源综合信息平台，实现平台数据自动采集、统计准确无误、基本信息全覆盖的既定目标，并就公共机构能源资源消费统计数据的审核方法、审核要点等进行了会审前培训。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "research",
+            "label": "研究与方法"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250313_47465.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250313_47465.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "research",
+            "object_label": "研究与方法"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250313_47465.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250313_47465.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250313_47465.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250313_47465.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250313_47465.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2025-03-13",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-09-30",
+      "updated_at": "2026-09-30T14:35:14+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "4f9dbf46f93ae951471e": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250305_47418.htm",
+      "title": "河南：“四新”赋能公共机构节能工作",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2025-03-05",
+      "excerpt": "近年来，河南省机关事务管理局始终以习近平生态文明思想为指导，认真落实全省绿色低碳转型战略，努力打造公共机构绿色转型、节能降碳的“河南样板”。 新制度筑牢节能保障。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "measurement-carbon",
+            "label": "计量、监测与碳核算"
+          },
+          {
+            "id": "energy-software",
+            "label": "能源管理软件与数据平台"
+          },
+          {
+            "id": "solution-integration",
+            "label": "系统集成与节能服务"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "energy-management",
+            "label": "能源管理"
+          },
+          {
+            "id": "carbon-measurement",
+            "label": "碳排放计量与核算"
+          },
+          {
+            "id": "renewables-storage",
+            "label": "光伏、储能与绿电"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "building-energy",
+            "label": "建筑与园区用能"
+          },
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          },
+          {
+            "id": "carbon-management",
+            "label": "碳管理与产品碳足迹"
+          },
+          {
+            "id": "renewable-transition",
+            "label": "新能源与能源结构转型"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250305_47418.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250305_47418.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250305_47418.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250305_47418.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250305_47418.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250305_47418.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "measurement-carbon",
+            "object_label": "计量、监测与碳核算"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250305_47418.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-software",
+            "object_label": "能源管理软件与数据平台"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250305_47418.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "solution-integration",
+            "object_label": "系统集成与节能服务"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250305_47418.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250305_47418.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "building-energy",
+            "object_label": "建筑与园区用能"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250305_47418.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250305_47418.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "carbon-management",
+            "object_label": "碳管理与产品碳足迹"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202503/t20250305_47418.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "renewable-transition",
+            "object_label": "新能源与能源结构转型"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2025-03-05",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-09-30",
+      "updated_at": "2026-09-30T14:35:14+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "d40e8a4b18a70d723429": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250213_47328.htm",
+      "title": "宜春市政协：建言资政，“食”事求是",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2025-02-13",
+      "excerpt": "理论引领，筑牢思想“主阵地”。 宜春市政协认真学习贯彻落实习近平总书记重要批示精神和党中央、国务院关于厉行节约、反对浪费的决策部署，在市政协党组、机关党组会议上传达学习了《中共中央办公厅 国务院办公厅关于印发<粮食节约和反食品浪费行动方案>的通知》，结合过“紧日子”工作要求,将反对食品浪费纳入机关文化建设，形成机关做好粮食节约和反食品浪费的良好氛围。 积极呼吁，发出节约“倡议书”。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250213_47328.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250213_47328.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250213_47328.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250213_47328.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250213_47328.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250213_47328.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2025-02-13",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-09-30",
+      "updated_at": "2026-09-30T14:35:14+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "e18d83eb2a98534e588e": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250211_47313.htm",
+      "title": "成都市机关事务管理局稳步推进 全市公共机构绿色低碳发展",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2025-02-11",
+      "excerpt": "成都市机关事务管理局紧紧围绕“双碳”目标，以绿色机关建设为牵引，加紧构建绿色体系，加快推广绿色技术，在全市营造勤俭节约、绿色低碳的浓厚氛围。 “低碳转型”示范引领。 大力推进公共机构既有建筑节能改造，更换老旧高耗能设备，推广新能源， 2024年，全市公共机构开展建筑维护结构节能改造14.1万平方米，新建太阳能光伏项目17个3.4万平方米，运用合同能源管理项目13个。 “能源日历”科学降耗。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          }
+        ],
+        "primary_event_type": {
+          "id": "standard",
+          "label": "标准与计量"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "measurement-carbon",
+            "label": "计量、监测与碳核算"
+          },
+          {
+            "id": "energy-software",
+            "label": "能源管理软件与数据平台"
+          },
+          {
+            "id": "solution-integration",
+            "label": "系统集成与节能服务"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "energy-management",
+            "label": "能源管理"
+          },
+          {
+            "id": "carbon-measurement",
+            "label": "碳排放计量与核算"
+          },
+          {
+            "id": "renewables-storage",
+            "label": "光伏、储能与绿电"
+          },
+          {
+            "id": "green-building",
+            "label": "绿色建筑与建筑能效"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "building-energy",
+            "label": "建筑与园区用能"
+          },
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          },
+          {
+            "id": "carbon-management",
+            "label": "碳管理与产品碳足迹"
+          },
+          {
+            "id": "renewable-transition",
+            "label": "新能源与能源结构转型"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250211_47313.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250211_47313.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250211_47313.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250211_47313.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "measurement-carbon",
+            "object_label": "计量、监测与碳核算"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250211_47313.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-software",
+            "object_label": "能源管理软件与数据平台"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250211_47313.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "solution-integration",
+            "object_label": "系统集成与节能服务"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250211_47313.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250211_47313.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "building-energy",
+            "object_label": "建筑与园区用能"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250211_47313.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250211_47313.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "carbon-management",
+            "object_label": "碳管理与产品碳足迹"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250211_47313.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "renewable-transition",
+            "object_label": "新能源与能源结构转型"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2025-02-11",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-09-30",
+      "updated_at": "2026-09-30T14:35:14+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "f4b9a8450daaba2cc62a": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250208_47309.htm",
+      "title": "能源费用托管“金钥匙”，开启双碳新征程 ——克拉玛依市机关事务管理局探索 公共机构“能源托管”推动节能降碳",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [
+        "北京"
+      ],
+      "regions": [],
+      "published_date": "2025-02-08",
+      "excerpt": "走进中国石油大学（北京）克拉玛依校区，校园环境干净整洁，浓厚的学术氛围扑面而来。鲜为人知的是，这里藏着节能降碳的“秘密武器”。“自从宿舍采用空气源热泵热水系统改造运行以后，学生们反馈热水供应又稳定又舒适，啥时候洗澡水温都恰到好处。”该校校园管理部业务负责人王宏宇谈及能源费用托管服务时满是欣 喜， “能源费用托管服务让学生生活用水等系统高效运转，能源消费也越来越清洁低碳，校园服务管理质量大幅提升。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "research",
+            "label": "研究与方法"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "equipment-components",
+            "label": "设备与关键部件"
+          },
+          {
+            "id": "measurement-carbon",
+            "label": "计量、监测与碳核算"
+          },
+          {
+            "id": "energy-software",
+            "label": "能源管理软件与数据平台"
+          },
+          {
+            "id": "solution-integration",
+            "label": "系统集成与节能服务"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "energy-management",
+            "label": "能源管理"
+          },
+          {
+            "id": "carbon-measurement",
+            "label": "碳排放计量与核算"
+          },
+          {
+            "id": "thermal-systems",
+            "label": "热能与冷站系统"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          },
+          {
+            "id": "carbon-management",
+            "label": "碳管理与产品碳足迹"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250208_47309.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250208_47309.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250208_47309.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "research",
+            "object_label": "研究与方法"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250208_47309.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250208_47309.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250208_47309.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250208_47309.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250208_47309.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "equipment-components",
+            "object_label": "设备与关键部件"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250208_47309.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "measurement-carbon",
+            "object_label": "计量、监测与碳核算"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250208_47309.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-software",
+            "object_label": "能源管理软件与数据平台"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250208_47309.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "solution-integration",
+            "object_label": "系统集成与节能服务"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250208_47309.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250208_47309.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202502/t20250208_47309.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "carbon-management",
+            "object_label": "碳管理与产品碳足迹"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2025-02-08",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-09-30",
+      "updated_at": "2026-09-30T14:35:14+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "b0a048bb0f13ed50a38a": {
+      "url": "https://www.chinanecc.cn/website/News!view.shtml?id=238836",
+      "title": "建筑用钢筋、水泥等五类产品生产许可证审批权限下放至省级",
+      "publisher": "国家节能降碳中心",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "政策",
+        "政策解读"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2020-09-09",
+      "excerpt": "国家市场监管总局质量监督司负责人孙会川在日前的国务院政策例行吹风会上表示，国务院常务会议第四次对生产许可证制度改革作出部署，将目前由总局审批发证的五类产品，包括建筑用钢筋、水泥、广播电视传输设备、人民币鉴别仪、预应力混凝土铁路桥简支梁全部下放到省级市场监管部门实施，市场监管总局不再审批任何工业产品生产许可证。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          },
+          {
+            "id": "building-energy",
+            "label": "建筑与园区用能"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238836",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238836",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238836",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238836",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238836",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238836",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238836",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "building-energy",
+            "object_label": "建筑与园区用能"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2020-09-09",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-09-30",
+      "updated_at": "2026-09-30T14:35:14+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "f9fbeb40a2ca36333f5f": {
+      "url": "https://www.chinanecc.cn/website/News!view.shtml?id=238688",
+      "title": "关于《国家税务总局关于资源税征收管理若干问题的公告》 的解读",
+      "publisher": "国家节能降碳中心",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "政策",
+        "政策解读"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2020-09-01",
+      "excerpt": "一、《公告》的制定背景 为落实《中华人民共和国资源税法》（以下简称“资源税法”），规范资源税征收管理，优化纳税服务，根据《中华人民共和国税收征收管理法》及其实施细则、《财政部 税务总局关于资源税有关问题执行口径的公告》（2020年第34号）等相关政策规定，税务总局起草了《关于资源税征收管理若干问题的公告》（以下简称《公告》）。 《公告》明确了资源税征管有关规定，修订了资源税纳税申报表，为纳税人和基层税务人员提供了更加明确的政策依据与操作指引。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "research",
+            "label": "研究与方法"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "disclosure",
+            "label": "企业披露与经营动态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238688",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238688",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238688",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "research",
+            "object_label": "研究与方法"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238688",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238688",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238688",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "disclosure",
+            "object_label": "企业披露与经营动态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238688",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2020-09-01",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-09-30",
+      "updated_at": "2026-09-30T14:35:14+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "f98e2a3e45fc661e1964": {
+      "url": "https://www.chinanecc.cn/website/News!view.shtml?id=238499",
+      "title": "新能源汽车生产企业及产品准入管理规定",
+      "publisher": "国家节能降碳中心",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "政策",
+        "政策解读"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2020-08-20",
+      "excerpt": "（2017年1月6日，工业和信息化部令第39号公布，根据2020年7月24日工业和信息化部令第54号公布的《工业和信息化部关于修改〈新能源汽车生产企业及产品准入管理规定〉的决定》修订。） 第一条 为了落实发展新能源汽车的国家战略，规范新能源汽车生产活动，保障公民生命财产安全和公共安全，促进新能源汽车产业持续健康发展，根据《中华人民共和国行政许可法》《中华人民共和国道路交通安全法》《国务院对确需保留的行政审批项目设定行政许可的决定》等法律法规，制定本规定。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          },
+          {
+            "id": "disclosure",
+            "label": "企业披露与经营动态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "measurement-carbon",
+            "label": "计量、监测与碳核算"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "electrification-control",
+            "label": "电气化与控制"
+          },
+          {
+            "id": "renewables-storage",
+            "label": "光伏、储能与绿电"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          },
+          {
+            "id": "renewable-transition",
+            "label": "新能源与能源结构转型"
+          },
+          {
+            "id": "transportation",
+            "label": "交通与运输节能"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238499",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238499",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238499",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238499",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238499",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238499",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "disclosure",
+            "object_label": "企业披露与经营动态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238499",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238499",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "measurement-carbon",
+            "object_label": "计量、监测与碳核算"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238499",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238499",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238499",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "renewable-transition",
+            "object_label": "新能源与能源结构转型"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=238499",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "transportation",
+            "object_label": "交通与运输节能"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2020-08-20",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-09-30",
+      "updated_at": "2026-09-30T14:35:14+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "5a537fdae9ea8a5de770": {
+      "url": "https://www.chinanecc.cn/website/News!view.shtml?id=231507",
+      "title": "新冠肺炎疫情防控期间相关政策汇编――税费优惠政策",
+      "publisher": "国家节能降碳中心",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "政策",
+        "政策解读"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2020-03-12",
+      "excerpt": "按：新冠肺炎疫情发生后，根据党中央、国务院统一部署，国务院有关部门相继出台了有关税收、金融、社保、就业等政策支持企业应对疫情带来的困难和损失、推动企业复工复产。为便于节能领域企业和人员及时了解有关政策，我们进行了部分梳理与汇总，分类分期刊载，本期刊载税费优惠政策，供大家掌握和查阅使用。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "disclosure",
+            "label": "企业披露与经营动态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=231507",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=231507",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=231507",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "disclosure",
+            "object_label": "企业披露与经营动态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=231507",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=231507",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2020-03-12",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-09-30",
+      "updated_at": "2026-09-30T14:35:14+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "a6b8214470a22539aca1": {
+      "url": "https://www.chinanecc.cn/website/News!view.shtml?id=229342",
+      "title": "《钢铁企业超低排放改造技术指南》印发",
+      "publisher": "国家节能降碳中心",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "政策",
+        "政策解读"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2020-01-13",
+      "excerpt": "各有关单位： 为落实《关于推进实施钢铁行业超低排放的意见》 ( 环大气〔 2019 〕 35 号，以下简称《意见》 ) 和《关于做好钢铁企业超低排放评估监测工作的通知》 ( 环办大气函〔 2019 〕 922 号，以下简称《通知》 ) ，为钢铁企业有效实施超低排放改造提供技术支撑，我会组织编制了《钢铁企业超低排放改造技术指南》 ( 以下简称《指南》 ) ，现予印发。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "research",
+            "label": "研究与方法"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "measurement-carbon",
+            "label": "计量、监测与碳核算"
+          },
+          {
+            "id": "energy-software",
+            "label": "能源管理软件与数据平台"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "electrification-control",
+            "label": "电气化与控制"
+          },
+          {
+            "id": "renewables-storage",
+            "label": "光伏、储能与绿电"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          },
+          {
+            "id": "renewable-transition",
+            "label": "新能源与能源结构转型"
+          },
+          {
+            "id": "transportation",
+            "label": "交通与运输节能"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=229342",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=229342",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=229342",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "research",
+            "object_label": "研究与方法"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=229342",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=229342",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=229342",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=229342",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "measurement-carbon",
+            "object_label": "计量、监测与碳核算"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=229342",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-software",
+            "object_label": "能源管理软件与数据平台"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=229342",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=229342",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=229342",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "renewable-transition",
+            "object_label": "新能源与能源结构转型"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.chinanecc.cn/website/News!view.shtml?id=229342",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "transportation",
+            "object_label": "交通与运输节能"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2020-01-13",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-09-30",
+      "updated_at": "2026-09-30T14:35:14+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
     }
   },
   "days": {
@@ -8860,6 +11538,11 @@
     "2026-09-29": {
       "started_at": "2026-09-29T14:45:03+08:00",
       "finished_at": "2026-09-29T14:46:23+08:00",
+      "scan_count": 1
+    },
+    "2026-09-30": {
+      "started_at": "2026-09-30T14:33:26+08:00",
+      "finished_at": "2026-09-30T14:35:14+08:00",
       "scan_count": 1
     }
   }
