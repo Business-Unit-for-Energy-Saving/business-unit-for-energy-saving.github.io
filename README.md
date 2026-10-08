@@ -5,6 +5,11 @@
 站点展示组织定位、业务边界和节能行业公开资料简报，不承载内部需求、
 客户隐私、原始页面、数据库、附件全文、生产配置或敏感凭据。
 
+组织当前处于 `Incubating` 阶段。业务范围描述的是目标能力边界，Pages 只承担公开说明、
+行业资料简报和边界入口；需求、场景研究和产品规划统一记录在
+[`requirements`](https://github.com/Business-Unit-for-Energy-Saving/requirements)，
+产品代码归对应业务仓库。
+
 ## 公开内容
 
 - `index.md`：组织与简报入口。
