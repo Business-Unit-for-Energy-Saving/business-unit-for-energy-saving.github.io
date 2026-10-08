@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-08",
+  "updated_at": "2026-10-08T15:14:00+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 1,
+    "chain_stages": [
+      {
+        "id": "application-scenes",
+        "label": "工业、建筑与公共机构场景",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年广州市节能技术应用培训暨供需对接活动的通知",
+            "published_date": "2026-10-08",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html"
+          }
+        ]
+      },
+      {
+        "id": "solution-integration",
+        "label": "系统集成与节能服务",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年广州市节能技术应用培训暨供需对接活动的通知",
+            "published_date": "2026-10-08",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-software",
+        "label": "能源管理软件与数据平台",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年广州市节能技术应用培训暨供需对接活动的通知",
+            "published_date": "2026-10-08",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-resources",
+        "label": "能源资源与电力",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年广州市节能技术应用培训暨供需对接活动的通知",
+            "published_date": "2026-10-08",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html"
+          }
+        ]
+      },
+      {
+        "id": "equipment-components",
+        "label": "设备与关键部件",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年广州市节能技术应用培训暨供需对接活动的通知",
+            "published_date": "2026-10-08",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "public-institutions",
+        "label": "公共机构与医院",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年广州市节能技术应用培训暨供需对接活动的通知",
+            "published_date": "2026-10-08",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html"
+          }
+        ]
+      },
+      {
+        "id": "industrial-manufacturing",
+        "label": "工业制造与流程优化",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年广州市节能技术应用培训暨供需对接活动的通知",
+            "published_date": "2026-10-08",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html"
+          }
+        ]
+      },
+      {
+        "id": "building-energy",
+        "label": "建筑与园区用能",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年广州市节能技术应用培训暨供需对接活动的通知",
+            "published_date": "2026-10-08",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "thermal-systems",
+        "label": "热能与冷站系统",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年广州市节能技术应用培训暨供需对接活动的通知",
+            "published_date": "2026-10-08",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-management",
+        "label": "能源管理",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年广州市节能技术应用培训暨供需对接活动的通知",
+            "published_date": "2026-10-08",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "policy",
+        "label": "政策与监管",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年广州市节能技术应用培训暨供需对接活动的通知",
+            "published_date": "2026-10-08",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html"
+          }
+        ]
+      },
+      {
+        "id": "product",
+        "label": "设备与服务发布",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年广州市节能技术应用培训暨供需对接活动的通知",
+            "published_date": "2026-10-08",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与改造",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年广州市节能技术应用培训暨供需对接活动的通知",
+            "published_date": "2026-10-08",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html"
+          }
+        ]
+      }
+    ],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 1,
+    "headlines": [
+      {
+        "title": "广州市节能中心关于举办2026年广州市节能技术应用培训暨供需对接活动的通知",
+        "publisher": "广州市发展和改革委员会",
+        "published_date": "2026-10-08",
+        "url": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html"
+      }
+    ]
+  }
+}

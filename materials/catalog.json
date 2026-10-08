@@ -11472,6 +11472,678 @@
       "result": "new",
       "_baseline": true,
       "related_sources": []
+    },
+    "dc7e0b3ef84027fba5c7": {
+      "url": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html",
+      "title": "广州市节能中心关于举办2026年广州市节能技术应用培训暨供需对接活动的通知",
+      "publisher": "广州市发展和改革委员会",
+      "kind": "government",
+      "region": "广州",
+      "topics": [
+        "政策",
+        "节能审查",
+        "技术推广"
+      ],
+      "cities": [
+        "广州"
+      ],
+      "regions": [],
+      "published_date": "2026-10-08",
+      "excerpt": "各用能单位、节能服务单位，有关行业协会： 为加快先进绿色技术推广应用，提升用能单位能源利用效率，推动节能技术赋能零碳园区、零碳工厂建设，搭建用能单位、节能技术服务单位以及行业协会之间精准对接桥梁，我中心拟举办2026年广州市节能技术应用培训暨供需对接活动。具体如下： 一、时间地点 时间：10月21日（星期三），14:00—18:00（议程安排详见附件）。地点：广州市海珠区滨江中路272号广州市轻工技师学院（南校区）岭南厅。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "equipment-components",
+            "label": "设备与关键部件"
+          },
+          {
+            "id": "energy-software",
+            "label": "能源管理软件与数据平台"
+          },
+          {
+            "id": "solution-integration",
+            "label": "系统集成与节能服务"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "energy-management",
+            "label": "能源管理"
+          },
+          {
+            "id": "thermal-systems",
+            "label": "热能与冷站系统"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          },
+          {
+            "id": "building-energy",
+            "label": "建筑与园区用能"
+          },
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "equipment-components",
+            "object_label": "设备与关键部件"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-software",
+            "object_label": "能源管理软件与数据平台"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "solution-integration",
+            "object_label": "系统集成与节能服务"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "building-energy",
+            "object_label": "建筑与园区用能"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.gz.gov.cn/tzgg/content/post_11030522.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2026-10-08",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-08",
+      "updated_at": "2026-10-08T15:14:00+08:00",
+      "result": "new",
+      "_baseline": false,
+      "related_sources": []
+    },
+    "1ef012b0cb1476f5292f": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240624_45901.htm",
+      "title": "2024年信阳市公共机构垃圾分类宣传周 活动精彩纷呈",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2024-06-24",
+      "excerpt": "5 月 22 日至 28 日，以“践行新时尚 分类志愿行”为主题的第二届全国城市生活垃圾分类宣传周正式启动。信阳市各级公共机构热烈响应，利用线上和线下相结合的方式，广泛动员干部职工开展丰富多彩、形式多样的宣传活动，营造了“生活垃圾分类人人参与、人人践行”的浓厚氛围。 现场观摩-沉浸式体验。 宣传周活动期间，市机关事务中心联合市城市管理局组织部分市直单位代表、市人大代表、市政协委员、环保热心人士等 50 余人到光大垃圾焚烧发电厂参观学习，实地观摩末端处理全流程作业，直观感受垃圾分类对资源循环利用和节能降碳的积极作用。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "project",
+          "label": "项目与改造"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          },
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240624_45901.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240624_45901.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240624_45901.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240624_45901.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240624_45901.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2024-06-24",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-08",
+      "updated_at": "2026-10-08T15:14:00+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "fbceaf9f772035500e9c": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45437.htm",
+      "title": "浙江省组织开展公共机构生活垃圾分类宣传活动",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2024-06-06",
+      "excerpt": "为深入贯彻落实习近平总书记关于垃圾分类系列重要指示批示及重要回信精神，浙江省按照国家机关事务管理局、住房和城乡建设部等部门关于开展第二届全国城市生活垃圾分类宣传周相关要求，组织各级公共机构于5月22日至5月28日以“践行新时尚，分类志愿行”为主题，广泛开展宣传活动、抓实氛围营造、提升宣传实效。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "project",
+          "label": "项目与改造"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          },
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45437.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45437.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45437.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45437.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45437.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2024-06-06",
+          "has_quantified_claim": false
+        }
+      },
+      "first_collected_on": "2026-10-08",
+      "updated_at": "2026-10-08T15:14:00+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "820842e8a20d56de77b3": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45436.htm",
+      "title": "山西：持续宣传热潮 聚集多方合力 垃圾分类主题活动异彩纷呈",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2024-06-06",
+      "excerpt": "2024年5月22日至28日是第二届全国城市生活垃圾分类宣传周。为进一步提升山西省广大公共机构干部职工参与垃圾分类积极性，山西省各级公共机构紧紧围绕“践行新时尚 分类志愿行”主题，联合相关部门共同推进，精心组织，开展系列宣传活动。 一是持续营造宣传氛围。 垃圾分类宣传周期间，山西省各级公共机构聚焦“垃圾分类”重点工作，注重发挥分类前端关键作用，通过现场讲解、垃圾分类视频展播、垃圾分类微课堂等多种宣传形式，不断普及垃圾分类知识，持续促进公共机构及干部职工践行垃圾分类新时尚。 二是多部门联合发力。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "product",
+          "label": "设备与服务发布"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          },
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45436.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45436.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45436.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45436.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45436.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2024-06-06",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-08",
+      "updated_at": "2026-10-08T15:14:00+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "26d3ff506d53e28fe381": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45435.htm",
+      "title": "新疆维吾尔自治区组织开展生活垃圾分类志愿宣传进校园活动",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2024-06-06",
+      "excerpt": "2024年5月22日至28日是第二届全国城市生活垃圾分类宣传周，主题是“践行新时尚 分类志愿行”。5月22日下午，新疆维吾尔自治区机关事务管理局在新疆师范大学温泉校区组织开展公共机构生活垃圾分类志愿宣传活动。新疆维吾尔自治区机关事务管理局公共机构节能管理处、新疆师范大学后勤服务中心、乌鲁木齐市环境卫生协会及新疆师范大学师生代表近400人参加此次活动。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "product",
+          "label": "设备与服务发布"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45435.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45435.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45435.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2024-06-06",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-08",
+      "updated_at": "2026-10-08T15:14:00+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "01bfa37560f81bb7a41f": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45433.htm",
+      "title": "山西省晋中市开展“节能低碳齐参与 垃圾分类重实践”系列主题活动",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2024-06-06",
+      "excerpt": "“垃圾分类，机关先行”。山西省晋中市机关事务管理局积极响应第二届全国城市生活垃圾分类宣传周活动，组织各级各类公共机构及干部职工，观看2024年公共机构生活垃圾分类主题宣传活动直播，积极响应全国公共机构生活垃圾分类志愿服务倡议，广泛开展公共机构生活垃圾分类系列活动。 “低碳齐参与”。组织76家市直机关单位120多位干部职工参与主题健步走活动，带头践行绿色低碳出行方式。“百名志愿行动”。发动机关志愿者200余名，主动上门为市直各单位普及垃圾分类知识。“垃圾分类实践行”。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "project",
+          "label": "项目与改造"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45433.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45433.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45433.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202406/t20240606_45433.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2024-06-06",
+          "has_quantified_claim": false
+        }
+      },
+      "first_collected_on": "2026-10-08",
+      "updated_at": "2026-10-08T15:14:00+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
     }
   },
   "days": {
@@ -11578,6 +12250,11 @@
     "2026-10-07": {
       "started_at": "2026-10-07T15:04:55+08:00",
       "finished_at": "2026-10-07T15:05:55+08:00",
+      "scan_count": 1
+    },
+    "2026-10-08": {
+      "started_at": "2026-10-08T15:12:52+08:00",
+      "finished_at": "2026-10-08T15:14:00+08:00",
       "scan_count": 1
     }
   }
