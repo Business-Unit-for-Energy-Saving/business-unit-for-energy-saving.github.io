@@ -11,12 +11,12 @@ description: 节能行业公开资料采集简报
 
 [全部日期](news/index.html)
 
-最新每日行业观察：[2026-10-08](news/2026-10-08.html)
+最新每日行业观察：[2026-10-09](news/2026-10-09.html)
 
 ## 资料积累
 
 [资料库：主题分类与标签](materials/index.html)
-最新资料积累：[2026-10-08](materials/2026-10-08.html)
+最新资料积累：[2026-10-09](materials/2026-10-09.html)
 
 ## 重点城市
 
@@ -36,8 +36,6 @@ description: 节能行业公开资料采集简报
 
 - [组织 GitHub](https://github.com/Business-Unit-for-Energy-Saving)
 - [组织说明](https://github.com/Business-Unit-for-Energy-Saving/.github)
-- [需求与场景研究](https://github.com/Business-Unit-for-Energy-Saving/requirements)
-- [MyEMS 产品代码](https://github.com/Business-Unit-for-Energy-Saving/myems)
 
 ## 边界
 

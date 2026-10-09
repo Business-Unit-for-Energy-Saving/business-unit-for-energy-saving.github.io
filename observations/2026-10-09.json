@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-09",
+  "updated_at": "2026-10-09T15:18:13+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 2,
+    "chain_stages": [
+      {
+        "id": "energy-resources",
+        "label": "能源资源与电力",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "前8月电力市场交易电量同比增长19.2%",
+            "published_date": "2026-10-09",
+            "url": "https://www.nea.gov.cn/20261009/1bbdc84ad4374cd8bbad6bde37543ec9/c.html"
+          },
+          {
+            "title": "从“缺电”到“送电” 微电网支撑“近零碳海岛”",
+            "published_date": "2026-10-09",
+            "url": "https://www.nea.gov.cn/20261009/170386714c4b4aa1aa4e554b906a4331/c.html"
+          }
+        ]
+      },
+      {
+        "id": "equipment-components",
+        "label": "设备与关键部件",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "从“缺电”到“送电” 微电网支撑“近零碳海岛”",
+            "published_date": "2026-10-09",
+            "url": "https://www.nea.gov.cn/20261009/170386714c4b4aa1aa4e554b906a4331/c.html"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "renewable-transition",
+        "label": "新能源与能源结构转型",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "前8月电力市场交易电量同比增长19.2%",
+            "published_date": "2026-10-09",
+            "url": "https://www.nea.gov.cn/20261009/1bbdc84ad4374cd8bbad6bde37543ec9/c.html"
+          },
+          {
+            "title": "从“缺电”到“送电” 微电网支撑“近零碳海岛”",
+            "published_date": "2026-10-09",
+            "url": "https://www.nea.gov.cn/20261009/170386714c4b4aa1aa4e554b906a4331/c.html"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "renewables-storage",
+        "label": "光伏、储能与绿电",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "前8月电力市场交易电量同比增长19.2%",
+            "published_date": "2026-10-09",
+            "url": "https://www.nea.gov.cn/20261009/1bbdc84ad4374cd8bbad6bde37543ec9/c.html"
+          },
+          {
+            "title": "从“缺电”到“送电” 微电网支撑“近零碳海岛”",
+            "published_date": "2026-10-09",
+            "url": "https://www.nea.gov.cn/20261009/170386714c4b4aa1aa4e554b906a4331/c.html"
+          }
+        ]
+      },
+      {
+        "id": "electrification-control",
+        "label": "电气化与控制",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "从“缺电”到“送电” 微电网支撑“近零碳海岛”",
+            "published_date": "2026-10-09",
+            "url": "https://www.nea.gov.cn/20261009/170386714c4b4aa1aa4e554b906a4331/c.html"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "policy",
+        "label": "政策与监管",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "前8月电力市场交易电量同比增长19.2%",
+            "published_date": "2026-10-09",
+            "url": "https://www.nea.gov.cn/20261009/1bbdc84ad4374cd8bbad6bde37543ec9/c.html"
+          },
+          {
+            "title": "从“缺电”到“送电” 微电网支撑“近零碳海岛”",
+            "published_date": "2026-10-09",
+            "url": "https://www.nea.gov.cn/20261009/170386714c4b4aa1aa4e554b906a4331/c.html"
+          }
+        ]
+      },
+      {
+        "id": "product",
+        "label": "设备与服务发布",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "从“缺电”到“送电” 微电网支撑“近零碳海岛”",
+            "published_date": "2026-10-09",
+            "url": "https://www.nea.gov.cn/20261009/170386714c4b4aa1aa4e554b906a4331/c.html"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与改造",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "从“缺电”到“送电” 微电网支撑“近零碳海岛”",
+            "published_date": "2026-10-09",
+            "url": "https://www.nea.gov.cn/20261009/170386714c4b4aa1aa4e554b906a4331/c.html"
+          }
+        ]
+      }
+    ],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 2,
+    "headlines": [
+      {
+        "title": "前8月电力市场交易电量同比增长19.2%",
+        "publisher": "国家能源局",
+        "published_date": "2026-10-09",
+        "url": "https://www.nea.gov.cn/20261009/1bbdc84ad4374cd8bbad6bde37543ec9/c.html"
+      },
+      {
+        "title": "从“缺电”到“送电” 微电网支撑“近零碳海岛”",
+        "publisher": "国家能源局",
+        "published_date": "2026-10-09",
+        "url": "https://www.nea.gov.cn/20261009/170386714c4b4aa1aa4e554b906a4331/c.html"
+      }
+    ]
+  }
+}
