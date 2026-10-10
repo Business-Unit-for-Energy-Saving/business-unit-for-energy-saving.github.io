@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-10",
+  "updated_at": "2026-10-10T14:55:22+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 2,
+    "chain_stages": [
+      {
+        "id": "application-scenes",
+        "label": "工业、建筑与公共机构场景",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "直播预告 | 2026年第三期公共机构绿色低碳讲堂即将开讲！",
+            "published_date": "2026-10-10",
+            "url": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261010_49795.htm"
+          },
+          {
+            "title": "深耕存量挖潜力 精细施策促降碳 ——江苏省泰州市公共机构节能降碳的破题之道",
+            "published_date": "2026-10-10",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261010_49794.htm"
+          }
+        ]
+      },
+      {
+        "id": "energy-software",
+        "label": "能源管理软件与数据平台",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "深耕存量挖潜力 精细施策促降碳 ——江苏省泰州市公共机构节能降碳的破题之道",
+            "published_date": "2026-10-10",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261010_49794.htm"
+          }
+        ]
+      },
+      {
+        "id": "energy-resources",
+        "label": "能源资源与电力",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "深耕存量挖潜力 精细施策促降碳 ——江苏省泰州市公共机构节能降碳的破题之道",
+            "published_date": "2026-10-10",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261010_49794.htm"
+          }
+        ]
+      },
+      {
+        "id": "measurement-carbon",
+        "label": "计量、监测与碳核算",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "深耕存量挖潜力 精细施策促降碳 ——江苏省泰州市公共机构节能降碳的破题之道",
+            "published_date": "2026-10-10",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261010_49794.htm"
+          }
+        ]
+      },
+      {
+        "id": "equipment-components",
+        "label": "设备与关键部件",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "深耕存量挖潜力 精细施策促降碳 ——江苏省泰州市公共机构节能降碳的破题之道",
+            "published_date": "2026-10-10",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261010_49794.htm"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "public-institutions",
+        "label": "公共机构与医院",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "直播预告 | 2026年第三期公共机构绿色低碳讲堂即将开讲！",
+            "published_date": "2026-10-10",
+            "url": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261010_49795.htm"
+          },
+          {
+            "title": "深耕存量挖潜力 精细施策促降碳 ——江苏省泰州市公共机构节能降碳的破题之道",
+            "published_date": "2026-10-10",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261010_49794.htm"
+          }
+        ]
+      },
+      {
+        "id": "building-energy",
+        "label": "建筑与园区用能",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "深耕存量挖潜力 精细施策促降碳 ——江苏省泰州市公共机构节能降碳的破题之道",
+            "published_date": "2026-10-10",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261010_49794.htm"
+          }
+        ]
+      },
+      {
+        "id": "renewable-transition",
+        "label": "新能源与能源结构转型",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "深耕存量挖潜力 精细施策促降碳 ——江苏省泰州市公共机构节能降碳的破题之道",
+            "published_date": "2026-10-10",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261010_49794.htm"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "renewables-storage",
+        "label": "光伏、储能与绿电",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "深耕存量挖潜力 精细施策促降碳 ——江苏省泰州市公共机构节能降碳的破题之道",
+            "published_date": "2026-10-10",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261010_49794.htm"
+          }
+        ]
+      },
+      {
+        "id": "thermal-systems",
+        "label": "热能与冷站系统",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "深耕存量挖潜力 精细施策促降碳 ——江苏省泰州市公共机构节能降碳的破题之道",
+            "published_date": "2026-10-10",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261010_49794.htm"
+          }
+        ]
+      },
+      {
+        "id": "energy-management",
+        "label": "能源管理",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "深耕存量挖潜力 精细施策促降碳 ——江苏省泰州市公共机构节能降碳的破题之道",
+            "published_date": "2026-10-10",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261010_49794.htm"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "policy",
+        "label": "政策与监管",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "直播预告 | 2026年第三期公共机构绿色低碳讲堂即将开讲！",
+            "published_date": "2026-10-10",
+            "url": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261010_49795.htm"
+          },
+          {
+            "title": "深耕存量挖潜力 精细施策促降碳 ——江苏省泰州市公共机构节能降碳的破题之道",
+            "published_date": "2026-10-10",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261010_49794.htm"
+          }
+        ]
+      },
+      {
+        "id": "tender",
+        "label": "采购与招标",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "直播预告 | 2026年第三期公共机构绿色低碳讲堂即将开讲！",
+            "published_date": "2026-10-10",
+            "url": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261010_49795.htm"
+          },
+          {
+            "title": "深耕存量挖潜力 精细施策促降碳 ——江苏省泰州市公共机构节能降碳的破题之道",
+            "published_date": "2026-10-10",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261010_49794.htm"
+          }
+        ]
+      },
+      {
+        "id": "research",
+        "label": "研究与方法",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "直播预告 | 2026年第三期公共机构绿色低碳讲堂即将开讲！",
+            "published_date": "2026-10-10",
+            "url": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261010_49795.htm"
+          }
+        ]
+      },
+      {
+        "id": "product",
+        "label": "设备与服务发布",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "深耕存量挖潜力 精细施策促降碳 ——江苏省泰州市公共机构节能降碳的破题之道",
+            "published_date": "2026-10-10",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261010_49794.htm"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与改造",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "深耕存量挖潜力 精细施策促降碳 ——江苏省泰州市公共机构节能降碳的破题之道",
+            "published_date": "2026-10-10",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261010_49794.htm"
+          }
+        ]
+      }
+    ],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 2,
+    "headlines": [
+      {
+        "title": "直播预告 | 2026年第三期公共机构绿色低碳讲堂即将开讲！",
+        "publisher": "国家机关事务管理局",
+        "published_date": "2026-10-10",
+        "url": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261010_49795.htm"
+      },
+      {
+        "title": "深耕存量挖潜力 精细施策促降碳 ——江苏省泰州市公共机构节能降碳的破题之道",
+        "publisher": "国家机关事务管理局",
+        "published_date": "2026-10-10",
+        "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261010_49794.htm"
+      }
+    ]
+  }
+}
