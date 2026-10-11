@@ -13548,6 +13548,670 @@
       "result": "new",
       "_baseline": true,
       "related_sources": []
+    },
+    "ad73703aa91aa8096d08": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45355.htm",
+      "title": "安徽省住建厅开展建筑节能降碳和科技专项科普宣传进校园活动",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2024-05-22",
+      "excerpt": "为积极营造节能降碳浓厚氛围，进一步增强住房城乡建设领域科技动力、加强科普能力建设， 5 月 13 日上午， 安徽 省住房城乡建设厅组织相关单位开展了全国节能宣传周和住房城乡建设科技月系列活动第一场——进校园 活动 ，赴合肥市金斗路小学，面向老师和学生进行建筑节能降碳和科技专项科普宣传。 安徽省住建 厅建筑节能与科技处、机关团委、建设服务中心， 安徽 省建筑节能与科技协会、合肥工业大学设计院、共青团合肥市委员会、共青团包河区委员会、金斗路小学等 单位 近 200 人参加此次活动。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "green-building",
+            "label": "绿色建筑与建筑能效"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          },
+          {
+            "id": "building-energy",
+            "label": "建筑与园区用能"
+          },
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45355.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45355.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45355.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45355.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45355.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45355.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "building-energy",
+            "object_label": "建筑与园区用能"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45355.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2024-05-22",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-11",
+      "updated_at": "2026-10-11T14:59:43+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "7ff396c98e97242e94f6": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45354.htm",
+      "title": "安徽省芜湖市繁昌区举办“节能意识进机关暨捐衣物献爱心 与节能承诺签名活动",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2024-05-22",
+      "excerpt": "5 月 16 日，安徽省芜湖市繁昌区机关事务管理中心探索“节能宣传 + 公益”活动模式，会同区文明办、春谷蓝丝带义工协会举办“节能意识进机关暨捐衣物献爱心与节能承诺签名活动”，号召全区干部职工捐赠旧衣物并进行节能承诺签名，为打造美丽繁昌做出贡献。 活动伊始， 繁昌 区税务局的干部职工就一马当先地到达活动现场捐赠衣物，其后， 繁昌 区发改委、人社局、市场局、公安分局等单位也陆续到场，大家将手中干净完好的闲置衣物交到义工协会志愿者手中，并纷纷表示，感谢有这次机会，可以向贫困地区群众送温暖、献爱心。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "research",
+            "label": "研究与方法"
+          }
+        ],
+        "primary_event_type": {
+          "id": "research",
+          "label": "研究与方法"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45354.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "research",
+            "object_label": "研究与方法"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45354.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45354.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2024-05-22",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-11",
+      "updated_at": "2026-10-11T14:59:43+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "8fc903c7ee5c04d3f927": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45353.htm",
+      "title": "安徽省黄山市组织开展新能源汽车进机关宣传推广活动",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2024-05-22",
+      "excerpt": "5 月 16 日，以 “ 绿色转型 ， 节能攻坚 ” 为主题的新能源汽车进机关宣传推广活动在 安徽省 黄山市政府大院举行。此次活动由黄山市发展改革委、市商务局、市机关事务管理中心联合主办。 展览现场，红旗、比亚迪、吉利、长城、小鹏、问界等国内主流新能源汽车 品牌 20 余辆新能源汽车参展，涵盖紧凑型车、 SUV 、商务车等多个品类。车企员工向机关干部职工宣传、介绍新能源汽车技术原理、 性能 优势，推介购买新能源汽车优惠政策等，并现场解答咨询。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "renewables-storage",
+            "label": "光伏、储能与绿电"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          },
+          {
+            "id": "renewable-transition",
+            "label": "新能源与能源结构转型"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45353.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45353.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45353.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45353.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45353.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45353.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "renewable-transition",
+            "object_label": "新能源与能源结构转型"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2024-05-22",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-11",
+      "updated_at": "2026-10-11T14:59:43+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "a5a714c8f1f0482b136f": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45352.htm",
+      "title": "安徽省宣城市组织开展“全国低碳日”公共机构主题观摩活动",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2024-05-22",
+      "excerpt": "5 月 15 日全国低碳日上午，安徽省宣城市机关事务局联合国网宣城供电公司组织开展 “ 零碳示范 机关先行 ” 观摩活动， 古泉供电所通过 建设 屋顶光伏、车棚光伏等设施，与作为补充的风力发电设施相结合， 基本 实现 供电 所用电零碳 排放 。 观摩队伍 先后参观了供电所综合监控室、智能数字化库房 ，观摩了 室外实地应用场景，了解 了 “ 风光储直柔充 ” 新型绿色电网运维模式。 观摩队伍 走进宣酒光伏电站无人机巢示范站，实地了解自主式无人机巡检模式，感受科技 推动 实现光伏电站巡检任务常态化 、 智能化的魅力。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "project",
+          "label": "项目与改造"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "measurement-carbon",
+            "label": "计量、监测与碳核算"
+          },
+          {
+            "id": "energy-software",
+            "label": "能源管理软件与数据平台"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "renewables-storage",
+            "label": "光伏、储能与绿电"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          },
+          {
+            "id": "data-centers",
+            "label": "数据中心与数字基础设施"
+          },
+          {
+            "id": "renewable-transition",
+            "label": "新能源与能源结构转型"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45352.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45352.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45352.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45352.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "measurement-carbon",
+            "object_label": "计量、监测与碳核算"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45352.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-software",
+            "object_label": "能源管理软件与数据平台"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45352.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45352.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45352.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "data-centers",
+            "object_label": "数据中心与数字基础设施"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45352.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "renewable-transition",
+            "object_label": "新能源与能源结构转型"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2024-05-22",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-11",
+      "updated_at": "2026-10-11T14:59:43+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "c3dfd5480f30249b9af2": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45351.htm",
+      "title": "湖南省公共机构节能宣传周在郴州启动",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2024-05-22",
+      "excerpt": "5 月 16 日上午， 2024 年湖南省公共机构节能宣传周启动仪式在郴州举行。 湖南 省机关事务管理局党组书记、局长唐恒忠出席并宣布活动启动。郴州市委常委、常务副市长冯海燕 致辞， 郴州市委常委、副市长马天毅 主持 。 5 月 13 日至 19 日是全国第 34 个节能宣传周 ，本次宣传周活动 以 “ 绿色转型、节能攻坚 ” 为主题 ，倡导全省各级公共机构 争当绿色转型、节能攻坚的引领者、践行者、推动者，共同书写美丽湖南建设的精彩篇章。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "measurement-carbon",
+            "label": "计量、监测与碳核算"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "carbon-measurement",
+            "label": "碳排放计量与核算"
+          },
+          {
+            "id": "renewables-storage",
+            "label": "光伏、储能与绿电"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          },
+          {
+            "id": "data-centers",
+            "label": "数据中心与数字基础设施"
+          },
+          {
+            "id": "carbon-management",
+            "label": "碳管理与产品碳足迹"
+          },
+          {
+            "id": "renewable-transition",
+            "label": "新能源与能源结构转型"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45351.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45351.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45351.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45351.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45351.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "measurement-carbon",
+            "object_label": "计量、监测与碳核算"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45351.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45351.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45351.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "data-centers",
+            "object_label": "数据中心与数字基础设施"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45351.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "carbon-management",
+            "object_label": "碳管理与产品碳足迹"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45351.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "renewable-transition",
+            "object_label": "新能源与能源结构转型"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2024-05-22",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-11",
+      "updated_at": "2026-10-11T14:59:43+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
     }
   },
   "days": {
@@ -13669,6 +14333,11 @@
     "2026-10-10": {
       "started_at": "2026-10-10T14:54:08+08:00",
       "finished_at": "2026-10-10T14:55:22+08:00",
+      "scan_count": 1
+    },
+    "2026-10-11": {
+      "started_at": "2026-10-11T14:58:36+08:00",
+      "finished_at": "2026-10-11T14:59:43+08:00",
       "scan_count": 1
     }
   }
