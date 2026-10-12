@@ -14212,6 +14212,539 @@
       "result": "new",
       "_baseline": true,
       "related_sources": []
+    },
+    "83d9e1b695ab426b58ba": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45349.htm",
+      "title": "坚持“理念、行为、习惯”一体推进 扎实发挥示范引领作用 ——组织开展山西省公共机构节能宣传周活动",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2024-05-22",
+      "excerpt": "5月13日至19日是第34个全国节能宣传周，为了进一步提升全省广大干部职工节能意识,推动绿色低碳发展,山西省各级公共机构紧密围绕“绿色转型，节能攻坚”主题，通过理念引领、行动落实、习惯养成的方式， 开展了为期一周的系列宣传活动。 理念引领，强化节能意识。 宣传周期间，全省各级公共机构通过摆放宣传展板、发放宣传手册、播放节能宣传片、组织节能知识讲解、专题讲座、宣传培训等形式，普及节能理念，强调节能重要性和紧迫性。同时，借助媒体的力量，广泛宣传节能降碳、绿色发展的理念，让绿色低碳理念深入人心。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "project",
+          "label": "项目与改造"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "measurement-carbon",
+            "label": "计量、监测与碳核算"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45349.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45349.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45349.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45349.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "measurement-carbon",
+            "object_label": "计量、监测与碳核算"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45349.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240522_45349.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2024-05-22",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-12",
+      "updated_at": "2026-10-12T15:12:55+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "829b2487730c9c47f976": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240516_45311.htm",
+      "title": "“节”尽所能 应答尽答 ——重庆市江北区开展2024年节能宣传周网上知识答题活动",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2024-05-16",
+      "excerpt": "“这道题我知道，应该选C，今年全国节能宣传周主题是‘绿色转型，节能攻坚’”，重庆市江北区公共机构的干部职工们正津津有味地答着题。2024年5月13至19日是第34个全国节能宣传周，江北区机关事务管理局为更好地推动节能宣传活动，传播绿色发展理念，积极响应全国节能宣传周活动开展，组织开展了以“‘节’尽所能，应答尽答”为主题的2024年江北区节能宣传周网上知识答题活动。参赛者扫描二维码即可在节约能源资源的海量题目中随机抽取10道进行答题。题目既具知识性，也注重趣味性同时兼顾各年龄段受众的特点。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [],
+        "primary_event_type": null,
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240516_45311.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240516_45311.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240516_45311.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2024-05-16",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-12",
+      "updated_at": "2026-10-12T15:12:55+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "1b99430b78a0435cbcc4": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240516_45310.htm",
+      "title": "“绿色转型，节能攻坚” ——2024年云南节能宣传周活动正式启动",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2024-05-16",
+      "excerpt": "根据国家发展改革委、生态环境部联合印发《国家发展改革委 生态环境部关于开展2024年全国节能宣传周和全国低碳日活动的通知》和国管局办公室《关于开展2024年全国节能宣传周公共机构节能降碳系列宣传活动的通知》要求，确定5月13日至19日为全国节能宣传周，主题为“绿色转型，节能攻坚”，5月15日为全国低碳日，主题为“绿色低碳、美丽中国”。5月13日上午，云南省在昆明市成功举办2024年全国节能宣传周云南节能宣传系列活动启动仪式。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "building-energy",
+            "label": "建筑与园区用能"
+          },
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          },
+          {
+            "id": "transportation",
+            "label": "交通与运输节能"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240516_45310.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240516_45310.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240516_45310.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240516_45310.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "building-energy",
+            "object_label": "建筑与园区用能"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240516_45310.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240516_45310.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "transportation",
+            "object_label": "交通与运输节能"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2024-05-16",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-12",
+      "updated_at": "2026-10-12T15:12:55+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "e582c91f850817bfc1c0": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240516_45307.htm",
+      "title": "绿色转型 节能攻坚 2024年辽宁省暨沈阳市公共机构节能宣传周活动正式启动",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2024-05-16",
+      "excerpt": "5月13日， 202 4 年辽宁省暨沈阳市公共机构节能宣传周启动仪式在沈阳航空航天大学 举行，活动同步举办了节能主题展和节能产品展 。 省、市 、 区（县 、 市） 公共机构节能主管部门负责同志和公共机构节能志愿者共4 00余人 参加了启动仪式。 本次活动以“绿色转型、节能攻坚”为主题，利用“线上+线下”的方式，倡导全省公共机构自觉践行节能新理念，引领低碳新风尚，奋力书写新时代节能攻坚“绿色”答卷。活动现场，辽宁 省机关事务管理局党组书记、局长张宝东宣布启动2024年辽宁省 暨沈阳市 公共机构节能宣传周。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "product",
+          "label": "设备与服务发布"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240516_45307.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240516_45307.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240516_45307.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240516_45307.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2024-05-16",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-12",
+      "updated_at": "2026-10-12T15:12:55+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "510f03977630c9ff80ee": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240515_45300.htm",
+      "title": "助力消费品以旧换新行动 推动节能宣传走深走实 ——山东省济宁市任城区积极开展节能宣传周活动",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2024-05-15",
+      "excerpt": "2024 年全国节能宣传周期间，山东省济宁市任城区深入贯彻落实《推动大规模设备更新和消费品以旧换新行动方案》部署安排，紧扣节能宣传周“绿色转型，节能攻坚”主题，创新开展节能宣传活动，发挥区内融媒体优势，营造人人关心节能、支持节能、参与节能的良好氛围，充分发挥党政机关示范带动作用。 结合任城区集中办公区附近党政机关多、居民小区集中等特点，任城区机关事务服务中心联合区发改局、区商务局、李营街道，共同举办了“ 2024 年任城区公共机构节能宣传周暨新能源汽车展销会”，区委常委、常务副区长金平参加活动。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "renewables-storage",
+            "label": "光伏、储能与绿电"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          },
+          {
+            "id": "renewable-transition",
+            "label": "新能源与能源结构转型"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240515_45300.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240515_45300.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240515_45300.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240515_45300.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240515_45300.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240515_45300.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202405/t20240515_45300.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "renewable-transition",
+            "object_label": "新能源与能源结构转型"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2024-05-15",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-12",
+      "updated_at": "2026-10-12T15:12:55+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
     }
   },
   "days": {
@@ -14338,6 +14871,11 @@
     "2026-10-11": {
       "started_at": "2026-10-11T14:58:36+08:00",
       "finished_at": "2026-10-11T14:59:43+08:00",
+      "scan_count": 1
+    },
+    "2026-10-12": {
+      "started_at": "2026-10-12T15:11:38+08:00",
+      "finished_at": "2026-10-12T15:12:55+08:00",
       "scan_count": 1
     }
   }
