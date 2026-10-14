@@ -1,0 +1,246 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-14",
+  "updated_at": "2026-10-14T14:00:13+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 1,
+    "chain_stages": [
+      {
+        "id": "application-scenes",
+        "label": "工业、建筑与公共机构场景",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "诚邀参加“2026深圳电子工厂节能降碳技术研讨会”",
+            "published_date": "2026-10-14",
+            "url": "https://www.emca.cn/web/15/202610/43093.html"
+          }
+        ]
+      },
+      {
+        "id": "solution-integration",
+        "label": "系统集成与节能服务",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "诚邀参加“2026深圳电子工厂节能降碳技术研讨会”",
+            "published_date": "2026-10-14",
+            "url": "https://www.emca.cn/web/15/202610/43093.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-software",
+        "label": "能源管理软件与数据平台",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "诚邀参加“2026深圳电子工厂节能降碳技术研讨会”",
+            "published_date": "2026-10-14",
+            "url": "https://www.emca.cn/web/15/202610/43093.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-resources",
+        "label": "能源资源与电力",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "诚邀参加“2026深圳电子工厂节能降碳技术研讨会”",
+            "published_date": "2026-10-14",
+            "url": "https://www.emca.cn/web/15/202610/43093.html"
+          }
+        ]
+      },
+      {
+        "id": "measurement-carbon",
+        "label": "计量、监测与碳核算",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "诚邀参加“2026深圳电子工厂节能降碳技术研讨会”",
+            "published_date": "2026-10-14",
+            "url": "https://www.emca.cn/web/15/202610/43093.html"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "industrial-manufacturing",
+        "label": "工业制造与流程优化",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "诚邀参加“2026深圳电子工厂节能降碳技术研讨会”",
+            "published_date": "2026-10-14",
+            "url": "https://www.emca.cn/web/15/202610/43093.html"
+          }
+        ]
+      },
+      {
+        "id": "building-energy",
+        "label": "建筑与园区用能",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "诚邀参加“2026深圳电子工厂节能降碳技术研讨会”",
+            "published_date": "2026-10-14",
+            "url": "https://www.emca.cn/web/15/202610/43093.html"
+          }
+        ]
+      },
+      {
+        "id": "carbon-management",
+        "label": "碳管理与产品碳足迹",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "诚邀参加“2026深圳电子工厂节能降碳技术研讨会”",
+            "published_date": "2026-10-14",
+            "url": "https://www.emca.cn/web/15/202610/43093.html"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "industrial-efficiency",
+        "label": "工业能效",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "诚邀参加“2026深圳电子工厂节能降碳技术研讨会”",
+            "published_date": "2026-10-14",
+            "url": "https://www.emca.cn/web/15/202610/43093.html"
+          }
+        ]
+      },
+      {
+        "id": "thermal-systems",
+        "label": "热能与冷站系统",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "诚邀参加“2026深圳电子工厂节能降碳技术研讨会”",
+            "published_date": "2026-10-14",
+            "url": "https://www.emca.cn/web/15/202610/43093.html"
+          }
+        ]
+      },
+      {
+        "id": "electrification-control",
+        "label": "电气化与控制",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "诚邀参加“2026深圳电子工厂节能降碳技术研讨会”",
+            "published_date": "2026-10-14",
+            "url": "https://www.emca.cn/web/15/202610/43093.html"
+          }
+        ]
+      },
+      {
+        "id": "carbon-measurement",
+        "label": "碳排放计量与核算",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "诚邀参加“2026深圳电子工厂节能降碳技术研讨会”",
+            "published_date": "2026-10-14",
+            "url": "https://www.emca.cn/web/15/202610/43093.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-management",
+        "label": "能源管理",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "诚邀参加“2026深圳电子工厂节能降碳技术研讨会”",
+            "published_date": "2026-10-14",
+            "url": "https://www.emca.cn/web/15/202610/43093.html"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "policy",
+        "label": "政策与监管",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "诚邀参加“2026深圳电子工厂节能降碳技术研讨会”",
+            "published_date": "2026-10-14",
+            "url": "https://www.emca.cn/web/15/202610/43093.html"
+          }
+        ]
+      },
+      {
+        "id": "research",
+        "label": "研究与方法",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "诚邀参加“2026深圳电子工厂节能降碳技术研讨会”",
+            "published_date": "2026-10-14",
+            "url": "https://www.emca.cn/web/15/202610/43093.html"
+          }
+        ]
+      },
+      {
+        "id": "product",
+        "label": "设备与服务发布",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "诚邀参加“2026深圳电子工厂节能降碳技术研讨会”",
+            "published_date": "2026-10-14",
+            "url": "https://www.emca.cn/web/15/202610/43093.html"
+          }
+        ]
+      },
+      {
+        "id": "tender",
+        "label": "采购与招标",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "诚邀参加“2026深圳电子工厂节能降碳技术研讨会”",
+            "published_date": "2026-10-14",
+            "url": "https://www.emca.cn/web/15/202610/43093.html"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与改造",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "诚邀参加“2026深圳电子工厂节能降碳技术研讨会”",
+            "published_date": "2026-10-14",
+            "url": "https://www.emca.cn/web/15/202610/43093.html"
+          }
+        ]
+      }
+    ],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 1,
+    "headlines": [
+      {
+        "title": "诚邀参加“2026深圳电子工厂节能降碳技术研讨会”",
+        "publisher": "中国节能协会节能服务产业委员会",
+        "published_date": "2026-10-14",
+        "url": "https://www.emca.cn/web/15/202610/43093.html"
+      }
+    ]
+  }
+}
