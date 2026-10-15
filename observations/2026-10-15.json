@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-15",
+  "updated_at": "2026-10-15T13:47:06+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 2,
+    "chain_stages": [
+      {
+        "id": "application-scenes",
+        "label": "工业、建筑与公共机构场景",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "国管局节能司举办2026年第三期公共机构绿色低碳讲堂",
+            "published_date": "2026-10-14",
+            "url": "https://ecpi.ggj.gov.cn/ggjxw/202610/t20261014_49812.htm"
+          }
+        ]
+      },
+      {
+        "id": "energy-resources",
+        "label": "能源资源与电力",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "国管局节能司举办2026年第三期公共机构绿色低碳讲堂",
+            "published_date": "2026-10-14",
+            "url": "https://ecpi.ggj.gov.cn/ggjxw/202610/t20261014_49812.htm"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "public-institutions",
+        "label": "公共机构与医院",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "国管局节能司举办2026年第三期公共机构绿色低碳讲堂",
+            "published_date": "2026-10-14",
+            "url": "https://ecpi.ggj.gov.cn/ggjxw/202610/t20261014_49812.htm"
+          }
+        ]
+      },
+      {
+        "id": "industrial-manufacturing",
+        "label": "工业制造与流程优化",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "国管局节能司举办2026年第三期公共机构绿色低碳讲堂",
+            "published_date": "2026-10-14",
+            "url": "https://ecpi.ggj.gov.cn/ggjxw/202610/t20261014_49812.htm"
+          }
+        ]
+      },
+      {
+        "id": "carbon-management",
+        "label": "碳管理与产品碳足迹",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "国管局节能司举办2026年第三期公共机构绿色低碳讲堂",
+            "published_date": "2026-10-14",
+            "url": "https://ecpi.ggj.gov.cn/ggjxw/202610/t20261014_49812.htm"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [],
+    "event_types": [
+      {
+        "id": "policy",
+        "label": "政策与监管",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十六批）的通知",
+            "published_date": "2026-10-14",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261014/bdc7487968ab42228ee3212f55f327db.html"
+          },
+          {
+            "title": "国管局节能司举办2026年第三期公共机构绿色低碳讲堂",
+            "published_date": "2026-10-14",
+            "url": "https://ecpi.ggj.gov.cn/ggjxw/202610/t20261014_49812.htm"
+          }
+        ]
+      },
+      {
+        "id": "standard",
+        "label": "标准与计量",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十六批）的通知",
+            "published_date": "2026-10-14",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261014/bdc7487968ab42228ee3212f55f327db.html"
+          },
+          {
+            "title": "国管局节能司举办2026年第三期公共机构绿色低碳讲堂",
+            "published_date": "2026-10-14",
+            "url": "https://ecpi.ggj.gov.cn/ggjxw/202610/t20261014_49812.htm"
+          }
+        ]
+      },
+      {
+        "id": "research",
+        "label": "研究与方法",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十六批）的通知",
+            "published_date": "2026-10-14",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261014/bdc7487968ab42228ee3212f55f327db.html"
+          },
+          {
+            "title": "国管局节能司举办2026年第三期公共机构绿色低碳讲堂",
+            "published_date": "2026-10-14",
+            "url": "https://ecpi.ggj.gov.cn/ggjxw/202610/t20261014_49812.htm"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与改造",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十六批）的通知",
+            "published_date": "2026-10-14",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261014/bdc7487968ab42228ee3212f55f327db.html"
+          },
+          {
+            "title": "国管局节能司举办2026年第三期公共机构绿色低碳讲堂",
+            "published_date": "2026-10-14",
+            "url": "https://ecpi.ggj.gov.cn/ggjxw/202610/t20261014_49812.htm"
+          }
+        ]
+      },
+      {
+        "id": "product",
+        "label": "设备与服务发布",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十六批）的通知",
+            "published_date": "2026-10-14",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261014/bdc7487968ab42228ee3212f55f327db.html"
+          }
+        ]
+      }
+    ],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 2,
+    "headlines": [
+      {
+        "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十六批）的通知",
+        "publisher": "上海市发展和改革委员会",
+        "published_date": "2026-10-14",
+        "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261014/bdc7487968ab42228ee3212f55f327db.html"
+      },
+      {
+        "title": "国管局节能司举办2026年第三期公共机构绿色低碳讲堂",
+        "publisher": "国家机关事务管理局",
+        "published_date": "2026-10-14",
+        "url": "https://ecpi.ggj.gov.cn/ggjxw/202610/t20261014_49812.htm"
+      }
+    ]
+  }
+}
