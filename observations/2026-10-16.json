@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-16",
+  "updated_at": "2026-10-16T13:43:36+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 1,
+    "chain_stages": [
+      {
+        "id": "application-scenes",
+        "label": "工业、建筑与公共机构场景",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "废旧3C回收进机关 绿色低碳引领新风尚 ——河南省三地开展2026年全国废旧3C电子产品回收进公共机构专场活动",
+            "published_date": "2026-10-15",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261015_49814.htm"
+          }
+        ]
+      },
+      {
+        "id": "energy-resources",
+        "label": "能源资源与电力",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "废旧3C回收进机关 绿色低碳引领新风尚 ——河南省三地开展2026年全国废旧3C电子产品回收进公共机构专场活动",
+            "published_date": "2026-10-15",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261015_49814.htm"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "public-institutions",
+        "label": "公共机构与医院",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "废旧3C回收进机关 绿色低碳引领新风尚 ——河南省三地开展2026年全国废旧3C电子产品回收进公共机构专场活动",
+            "published_date": "2026-10-15",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261015_49814.htm"
+          }
+        ]
+      },
+      {
+        "id": "industrial-manufacturing",
+        "label": "工业制造与流程优化",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "废旧3C回收进机关 绿色低碳引领新风尚 ——河南省三地开展2026年全国废旧3C电子产品回收进公共机构专场活动",
+            "published_date": "2026-10-15",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261015_49814.htm"
+          }
+        ]
+      },
+      {
+        "id": "renewable-transition",
+        "label": "新能源与能源结构转型",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "废旧3C回收进机关 绿色低碳引领新风尚 ——河南省三地开展2026年全国废旧3C电子产品回收进公共机构专场活动",
+            "published_date": "2026-10-15",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261015_49814.htm"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "renewables-storage",
+        "label": "光伏、储能与绿电",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "废旧3C回收进机关 绿色低碳引领新风尚 ——河南省三地开展2026年全国废旧3C电子产品回收进公共机构专场活动",
+            "published_date": "2026-10-15",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261015_49814.htm"
+          }
+        ]
+      },
+      {
+        "id": "electrification-control",
+        "label": "电气化与控制",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "废旧3C回收进机关 绿色低碳引领新风尚 ——河南省三地开展2026年全国废旧3C电子产品回收进公共机构专场活动",
+            "published_date": "2026-10-15",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261015_49814.htm"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "partnership",
+        "label": "合作与生态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "废旧3C回收进机关 绿色低碳引领新风尚 ——河南省三地开展2026年全国废旧3C电子产品回收进公共机构专场活动",
+            "published_date": "2026-10-15",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261015_49814.htm"
+          }
+        ]
+      },
+      {
+        "id": "policy",
+        "label": "政策与监管",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "废旧3C回收进机关 绿色低碳引领新风尚 ——河南省三地开展2026年全国废旧3C电子产品回收进公共机构专场活动",
+            "published_date": "2026-10-15",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261015_49814.htm"
+          }
+        ]
+      },
+      {
+        "id": "standard",
+        "label": "标准与计量",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "废旧3C回收进机关 绿色低碳引领新风尚 ——河南省三地开展2026年全国废旧3C电子产品回收进公共机构专场活动",
+            "published_date": "2026-10-15",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261015_49814.htm"
+          }
+        ]
+      },
+      {
+        "id": "product",
+        "label": "设备与服务发布",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "废旧3C回收进机关 绿色低碳引领新风尚 ——河南省三地开展2026年全国废旧3C电子产品回收进公共机构专场活动",
+            "published_date": "2026-10-15",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261015_49814.htm"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与改造",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "废旧3C回收进机关 绿色低碳引领新风尚 ——河南省三地开展2026年全国废旧3C电子产品回收进公共机构专场活动",
+            "published_date": "2026-10-15",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261015_49814.htm"
+          }
+        ]
+      }
+    ],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 1,
+    "headlines": [
+      {
+        "title": "废旧3C回收进机关 绿色低碳引领新风尚 ——河南省三地开展2026年全国废旧3C电子产品回收进公共机构专场活动",
+        "publisher": "国家机关事务管理局",
+        "published_date": "2026-10-15",
+        "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261015_49814.htm"
+      }
+    ]
+  }
+}
