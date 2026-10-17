@@ -94,7 +94,7 @@ title: 公开信息源目录
 
 - [EMCA / 国内资讯](<https://www.emca.cn/web/19/list.html>)：已启用：增量。
 - [EMCA / 公告通知](<https://www.emca.cn/web/14/list.html>)：已启用：增量。
-- [EMCA / 节能减排政策](<https://www.emca.cn/web/24/list.html>)：已启用：历史回填与增量。
+- [EMCA / 节能减排政策](<https://www.emca.cn/web/24/list.html>)：已启用：增量。
 - [EMCA / 协会动态](<https://www.emca.cn/web/15/list.html>)：已启用：增量。
 
 ### [美国能源部](https://www.energy.gov/)
