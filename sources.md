@@ -135,7 +135,7 @@ title: 公开信息源目录
 
 ### [能源界](https://www.nengyuanjie.net/)
 
-- [能源界 / 中国节能新闻](<https://www.nengyuanjie.net/series/jieneng.html>)：已启用：增量。
+- [能源界 / 中国节能新闻](<https://www.nengyuanjie.net/series/jieneng.html>)：待审核，未采集。
 
 ### [国家市场监督管理总局](https://www.samr.gov.cn/)
 
