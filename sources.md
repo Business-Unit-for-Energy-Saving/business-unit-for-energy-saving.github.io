@@ -83,8 +83,8 @@ title: 公开信息源目录
 
 ### [国家节能降碳中心](https://www.chinanecc.cn/)
 
-- [国家节能中心公共服务网 / 政策研究](<https://www.chinanecc.cn/website/News.shtml?mod_index=1003>)：已启用：历史回填与增量。
-- [国家节能中心公共服务网 / 国内节能实践](<https://www.chinanecc.cn/website/TopicNews.shtml?mod_index=1815>)：已启用：历史回填与增量。
+- [国家节能中心公共服务网 / 政策研究](<https://www.chinanecc.cn/website/News.shtml?mod_index=1003>)：待审核，未采集。
+- [国家节能中心公共服务网 / 国内节能实践](<https://www.chinanecc.cn/website/TopicNews.shtml?mod_index=1815>)：待审核，未采集。
 
 ### [巨潮资讯网](https://www.cninfo.com.cn/)
 

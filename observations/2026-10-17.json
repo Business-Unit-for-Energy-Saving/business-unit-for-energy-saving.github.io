@@ -1,0 +1,246 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-17",
+  "updated_at": "2026-10-17T09:25:51+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 1,
+    "chain_stages": [
+      {
+        "id": "application-scenes",
+        "label": "工业、建筑与公共机构场景",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "一年466项新标准！中国电力如何筑牢转型“度量衡”",
+            "published_date": "2026-10-16",
+            "url": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html"
+          }
+        ]
+      },
+      {
+        "id": "solution-integration",
+        "label": "系统集成与节能服务",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "一年466项新标准！中国电力如何筑牢转型“度量衡”",
+            "published_date": "2026-10-16",
+            "url": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-resources",
+        "label": "能源资源与电力",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "一年466项新标准！中国电力如何筑牢转型“度量衡”",
+            "published_date": "2026-10-16",
+            "url": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html"
+          }
+        ]
+      },
+      {
+        "id": "measurement-carbon",
+        "label": "计量、监测与碳核算",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "一年466项新标准！中国电力如何筑牢转型“度量衡”",
+            "published_date": "2026-10-16",
+            "url": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "transportation",
+        "label": "交通与运输节能",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "一年466项新标准！中国电力如何筑牢转型“度量衡”",
+            "published_date": "2026-10-16",
+            "url": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html"
+          }
+        ]
+      },
+      {
+        "id": "industrial-manufacturing",
+        "label": "工业制造与流程优化",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "一年466项新标准！中国电力如何筑牢转型“度量衡”",
+            "published_date": "2026-10-16",
+            "url": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html"
+          }
+        ]
+      },
+      {
+        "id": "building-energy",
+        "label": "建筑与园区用能",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "一年466项新标准！中国电力如何筑牢转型“度量衡”",
+            "published_date": "2026-10-16",
+            "url": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html"
+          }
+        ]
+      },
+      {
+        "id": "renewable-transition",
+        "label": "新能源与能源结构转型",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "一年466项新标准！中国电力如何筑牢转型“度量衡”",
+            "published_date": "2026-10-16",
+            "url": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html"
+          }
+        ]
+      },
+      {
+        "id": "carbon-management",
+        "label": "碳管理与产品碳足迹",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "一年466项新标准！中国电力如何筑牢转型“度量衡”",
+            "published_date": "2026-10-16",
+            "url": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "renewables-storage",
+        "label": "光伏、储能与绿电",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "一年466项新标准！中国电力如何筑牢转型“度量衡”",
+            "published_date": "2026-10-16",
+            "url": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html"
+          }
+        ]
+      },
+      {
+        "id": "carbon-measurement",
+        "label": "碳排放计量与核算",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "一年466项新标准！中国电力如何筑牢转型“度量衡”",
+            "published_date": "2026-10-16",
+            "url": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "disclosure",
+        "label": "企业披露与经营动态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "一年466项新标准！中国电力如何筑牢转型“度量衡”",
+            "published_date": "2026-10-16",
+            "url": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html"
+          }
+        ]
+      },
+      {
+        "id": "partnership",
+        "label": "合作与生态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "一年466项新标准！中国电力如何筑牢转型“度量衡”",
+            "published_date": "2026-10-16",
+            "url": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html"
+          }
+        ]
+      },
+      {
+        "id": "policy",
+        "label": "政策与监管",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "一年466项新标准！中国电力如何筑牢转型“度量衡”",
+            "published_date": "2026-10-16",
+            "url": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html"
+          }
+        ]
+      },
+      {
+        "id": "standard",
+        "label": "标准与计量",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "一年466项新标准！中国电力如何筑牢转型“度量衡”",
+            "published_date": "2026-10-16",
+            "url": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html"
+          }
+        ]
+      },
+      {
+        "id": "research",
+        "label": "研究与方法",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "一年466项新标准！中国电力如何筑牢转型“度量衡”",
+            "published_date": "2026-10-16",
+            "url": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html"
+          }
+        ]
+      },
+      {
+        "id": "product",
+        "label": "设备与服务发布",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "一年466项新标准！中国电力如何筑牢转型“度量衡”",
+            "published_date": "2026-10-16",
+            "url": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与改造",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "一年466项新标准！中国电力如何筑牢转型“度量衡”",
+            "published_date": "2026-10-16",
+            "url": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html"
+          }
+        ]
+      }
+    ],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 1,
+    "headlines": [
+      {
+        "title": "一年466项新标准！中国电力如何筑牢转型“度量衡”",
+        "publisher": "国家能源局",
+        "published_date": "2026-10-16",
+        "url": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html"
+      }
+    ]
+  }
+}

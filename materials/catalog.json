@@ -17787,6 +17787,880 @@
       "result": "new",
       "_baseline": true,
       "related_sources": []
+    },
+    "bc83872a2d740f7c4c29": {
+      "url": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html",
+      "title": "一年466项新标准！中国电力如何筑牢转型“度量衡”",
+      "publisher": "国家能源局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "能源政策",
+        "电力",
+        "供需"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2026-10-16",
+      "excerpt": "10月14日，第57届世界标准日如期而至。 聚焦联合国第七项可持续发展目标，本届世界标准日以“经济适用的清洁能源”为主题，呼吁用标准化力量赋能全球绿色转型，推动可靠、可负担、可持续的现代能源广泛普及。 标准作为经济活动和社会发展的重要支撑，是统一技术语言的“通用语”，也是引领技术创新的“导航仪”。 过去一年，中国电力企业联合会（以下简称“中电联”）紧扣“双碳”目标与新型电力系统建设需求，统筹推进电力国家标准、行业标准和中电联团体标准协调统一，为能源电力绿色低碳转型和高质量发展筑牢坚实根基。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "research",
+            "label": "研究与方法"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          },
+          {
+            "id": "disclosure",
+            "label": "企业披露与经营动态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "measurement-carbon",
+            "label": "计量、监测与碳核算"
+          },
+          {
+            "id": "solution-integration",
+            "label": "系统集成与节能服务"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "carbon-measurement",
+            "label": "碳排放计量与核算"
+          },
+          {
+            "id": "renewables-storage",
+            "label": "光伏、储能与绿电"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          },
+          {
+            "id": "building-energy",
+            "label": "建筑与园区用能"
+          },
+          {
+            "id": "carbon-management",
+            "label": "碳管理与产品碳足迹"
+          },
+          {
+            "id": "renewable-transition",
+            "label": "新能源与能源结构转型"
+          },
+          {
+            "id": "transportation",
+            "label": "交通与运输节能"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "research",
+            "object_label": "研究与方法"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "disclosure",
+            "object_label": "企业披露与经营动态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "measurement-carbon",
+            "object_label": "计量、监测与碳核算"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "solution-integration",
+            "object_label": "系统集成与节能服务"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "building-energy",
+            "object_label": "建筑与园区用能"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "carbon-management",
+            "object_label": "碳管理与产品碳足迹"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "renewable-transition",
+            "object_label": "新能源与能源结构转型"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.nea.gov.cn/20261016/3edcb3089f1e475895bdad88405c63cf/c.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "transportation",
+            "object_label": "交通与运输节能"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2026-10-16",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-17",
+      "updated_at": "2026-10-17T09:25:51+08:00",
+      "result": "new",
+      "_baseline": false,
+      "related_sources": []
+    },
+    "d5f1ad9d84f9e842a5aa": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240321_45052.htm",
+      "title": "坚持标准示范引领 探索破题走出新路 ——宁夏开展公共机构生活垃圾分类工作探索",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2024-03-21",
+      "excerpt": "为深入贯彻落实习近平总书记对生活垃圾分类工作的重要指示精神，推动公共机构特别是党政机关落实“双碳”目标、构建公共机构绿色低碳综合治理体系，坚定不移推进生态文明建设。宁夏回族自治区机关事务管理局以标准化信息化为思路，率先开展省（区）公共机构生活垃圾分类量化统计工作，建立“宁夏公共机构生活垃圾分类管理基础模式”，探索走出生活垃圾分类修复生态的碳汇之路。 一是高效管理，标准先行。宁夏回族自治区机关事务管理局以机关事务“一体两翼”为思路，推动生活垃圾分类工作实现集中统一管理。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "standard",
+          "label": "标准与计量"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-software",
+            "label": "能源管理软件与数据平台"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "electrification-control",
+            "label": "电气化与控制"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240321_45052.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240321_45052.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240321_45052.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240321_45052.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-software",
+            "object_label": "能源管理软件与数据平台"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240321_45052.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240321_45052.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2024-03-21",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-17",
+      "updated_at": "2026-10-17T09:25:51+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "136874c8c87e5a029be8": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240308_44990.htm",
+      "title": "江西省赣州市建设“一秒一公里”超级快充站",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2024-03-08",
+      "excerpt": "近日，江西省赣州市行政中心光储充一体化超级快充电站建成正式投入使用，可实现一秒充电一公里。 该项目是落实深赣对口合作事项的“示范项目”之一，是赣州市政中心十大暖心事实之一，采用市场化方式建设，总投资320万元，共24个充电车位，配套75kW精装车棚光伏发电系统、1套100kW/215kWh的储能系统、1套600kW全液冷超充设备、1套60kW直流双枪一体V2G充电设备和10套有序充电桩，能够有效满足不同类型车辆充电需求。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "project",
+          "label": "项目与改造"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "renewables-storage",
+            "label": "光伏、储能与绿电"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          },
+          {
+            "id": "renewable-transition",
+            "label": "新能源与能源结构转型"
+          },
+          {
+            "id": "transportation",
+            "label": "交通与运输节能"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240308_44990.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240308_44990.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240308_44990.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240308_44990.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240308_44990.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240308_44990.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240308_44990.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "renewable-transition",
+            "object_label": "新能源与能源结构转型"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240308_44990.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "transportation",
+            "object_label": "交通与运输节能"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2024-03-08",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-17",
+      "updated_at": "2026-10-17T09:25:51+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "81d0dd6e0dbf83a55623": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240308_44988.htm",
+      "title": "以赛为媒“设计+智造”成果转化促节能 奋力谱写四川机关事务工作高质量发展新篇章",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2024-03-08",
+      "excerpt": "近期，由四川省机关事务管理局与四川省教育厅共同主办，川观新闻承办的 2023年四川省公共机构节能宣传公益平面设计创作大赛圆满收官。此次 大赛收到各类参赛作品共计15486件 ， 其中，海报设计类4049件、绘画类11437件。大赛坚持公平、公正、公开原则， 通过初审、复审、线上公示、专家评审等程序 ， 最终 评出一等奖26名，二等奖84名，三等奖166名，优秀奖275名，优秀组织奖40个，优秀指导教师140名和最受网友喜爱奖50个。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "product",
+          "label": "设备与服务发布"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240308_44988.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240308_44988.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240308_44988.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2024-03-08",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-17",
+      "updated_at": "2026-10-17T09:25:51+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "6db0486dec7cd178f976": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240304_44963.htm",
+      "title": "九江市：拓展应用场景，引领绿色低碳新生活",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2024-03-04",
+      "excerpt": "为加快新能源汽车推广应用，引领绿色低碳出行新生活，近日，九江市公共机构低碳积分制平台（绿宝碳汇）绿色出行低碳应用场景中新增的新能源汽车充电桩“极数快充”充电积分场景上线。干部职工使用“极数快充”为新能源汽车充电，每次充电结束后 自动 积 10 个碳积分 。 九江市公共机构低碳积分制平台（绿宝碳汇）自 2022 年 10 月上线运行以来，已 拥有 8.98 万用户，累计碳积分 3946 万个、实现碳减排 5508 吨。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "product",
+          "label": "设备与服务发布"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "renewables-storage",
+            "label": "光伏、储能与绿电"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          },
+          {
+            "id": "renewable-transition",
+            "label": "新能源与能源结构转型"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240304_44963.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240304_44963.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240304_44963.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240304_44963.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240304_44963.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "renewable-transition",
+            "object_label": "新能源与能源结构转型"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2024-03-04",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-17",
+      "updated_at": "2026-10-17T09:25:51+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "7bbe0c20753d0e1ba05d": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240301_44956.htm",
+      "title": "高安市管局：“节”尽所能 绿色办“会”",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2024-03-01",
+      "excerpt": "“今年的纸质资料少了很多，大部分是电子资料，通过内部系统，大家可以非常方便地了解大会议程，提前做好准备。”七届高安市政协委员涂新安说道。“绿色办会”作为今年高安市“两会”的一大亮点，“节约、低碳”成了不少人大代表、政协委员口中的高频词。 为践行“绿色办会”理念，做好“两会”保障工作，高安市机关事务管理局积极行动，周密筹备，从绿色交通、绿色会务、绿色倡议等方面入手，将“节约、绿色、低碳”元素落实到各个环节，为“两会”减碳添绿 。 会议筹备阶段，坚持绿色基调。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "project",
+          "label": "项目与改造"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "equipment-components",
+            "label": "设备与关键部件"
+          },
+          {
+            "id": "measurement-carbon",
+            "label": "计量、监测与碳核算"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "carbon-measurement",
+            "label": "碳排放计量与核算"
+          },
+          {
+            "id": "renewables-storage",
+            "label": "光伏、储能与绿电"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          },
+          {
+            "id": "carbon-management",
+            "label": "碳管理与产品碳足迹"
+          },
+          {
+            "id": "renewable-transition",
+            "label": "新能源与能源结构转型"
+          },
+          {
+            "id": "transportation",
+            "label": "交通与运输节能"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240301_44956.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240301_44956.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240301_44956.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240301_44956.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "equipment-components",
+            "object_label": "设备与关键部件"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240301_44956.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "measurement-carbon",
+            "object_label": "计量、监测与碳核算"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240301_44956.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240301_44956.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240301_44956.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "carbon-management",
+            "object_label": "碳管理与产品碳足迹"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240301_44956.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "renewable-transition",
+            "object_label": "新能源与能源结构转型"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202403/t20240301_44956.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "transportation",
+            "object_label": "交通与运输节能"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2024-03-01",
+          "has_quantified_claim": false
+        }
+      },
+      "first_collected_on": "2026-10-17",
+      "updated_at": "2026-10-17T09:25:51+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
     }
   },
   "days": {
@@ -17938,6 +18812,11 @@
     "2026-10-16": {
       "started_at": "2026-10-16T13:42:30+08:00",
       "finished_at": "2026-10-16T13:43:36+08:00",
+      "scan_count": 1
+    },
+    "2026-10-17": {
+      "started_at": "2026-10-17T09:24:52+08:00",
+      "finished_at": "2026-10-17T09:25:51+08:00",
       "scan_count": 1
     }
   }
