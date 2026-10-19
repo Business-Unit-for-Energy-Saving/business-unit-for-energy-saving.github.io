@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-19",
+  "updated_at": "2026-10-19T13:57:57+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 1,
+    "chain_stages": [
+      {
+        "id": "application-scenes",
+        "label": "工业、建筑与公共机构场景",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "2026年9月份能源生产情况",
+            "published_date": "2026-10-19",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965613.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-resources",
+        "label": "能源资源与电力",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "2026年9月份能源生产情况",
+            "published_date": "2026-10-19",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965613.html"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "industrial-manufacturing",
+        "label": "工业制造与流程优化",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "2026年9月份能源生产情况",
+            "published_date": "2026-10-19",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965613.html"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [],
+    "event_types": [
+      {
+        "id": "product",
+        "label": "设备与服务发布",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "2026年9月份能源生产情况",
+            "published_date": "2026-10-19",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965613.html"
+          }
+        ]
+      }
+    ],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 1,
+    "headlines": [
+      {
+        "title": "2026年9月份能源生产情况",
+        "publisher": "国家统计局",
+        "published_date": "2026-10-19",
+        "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965613.html"
+      }
+    ]
+  }
+}
