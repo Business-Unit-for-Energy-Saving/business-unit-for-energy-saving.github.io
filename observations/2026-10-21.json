@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-21",
+  "updated_at": "2026-10-21T13:53:09+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 1,
+    "chain_stages": [
+      {
+        "id": "application-scenes",
+        "label": "工业、建筑与公共机构场景",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "江苏：召开公共机构重点用能单位节能降碳工作经验交流会",
+            "published_date": "2026-10-21",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261021_49831.htm"
+          }
+        ]
+      },
+      {
+        "id": "solution-integration",
+        "label": "系统集成与节能服务",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "江苏：召开公共机构重点用能单位节能降碳工作经验交流会",
+            "published_date": "2026-10-21",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261021_49831.htm"
+          }
+        ]
+      },
+      {
+        "id": "energy-software",
+        "label": "能源管理软件与数据平台",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "江苏：召开公共机构重点用能单位节能降碳工作经验交流会",
+            "published_date": "2026-10-21",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261021_49831.htm"
+          }
+        ]
+      },
+      {
+        "id": "energy-resources",
+        "label": "能源资源与电力",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "江苏：召开公共机构重点用能单位节能降碳工作经验交流会",
+            "published_date": "2026-10-21",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261021_49831.htm"
+          }
+        ]
+      },
+      {
+        "id": "equipment-components",
+        "label": "设备与关键部件",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "江苏：召开公共机构重点用能单位节能降碳工作经验交流会",
+            "published_date": "2026-10-21",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261021_49831.htm"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "public-institutions",
+        "label": "公共机构与医院",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "江苏：召开公共机构重点用能单位节能降碳工作经验交流会",
+            "published_date": "2026-10-21",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261021_49831.htm"
+          }
+        ]
+      },
+      {
+        "id": "industrial-manufacturing",
+        "label": "工业制造与流程优化",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "江苏：召开公共机构重点用能单位节能降碳工作经验交流会",
+            "published_date": "2026-10-21",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261021_49831.htm"
+          }
+        ]
+      },
+      {
+        "id": "data-centers",
+        "label": "数据中心与数字基础设施",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "江苏：召开公共机构重点用能单位节能降碳工作经验交流会",
+            "published_date": "2026-10-21",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261021_49831.htm"
+          }
+        ]
+      },
+      {
+        "id": "renewable-transition",
+        "label": "新能源与能源结构转型",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "江苏：召开公共机构重点用能单位节能降碳工作经验交流会",
+            "published_date": "2026-10-21",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261021_49831.htm"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "renewables-storage",
+        "label": "光伏、储能与绿电",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "江苏：召开公共机构重点用能单位节能降碳工作经验交流会",
+            "published_date": "2026-10-21",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261021_49831.htm"
+          }
+        ]
+      },
+      {
+        "id": "energy-management",
+        "label": "能源管理",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "江苏：召开公共机构重点用能单位节能降碳工作经验交流会",
+            "published_date": "2026-10-21",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261021_49831.htm"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "partnership",
+        "label": "合作与生态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "江苏：召开公共机构重点用能单位节能降碳工作经验交流会",
+            "published_date": "2026-10-21",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261021_49831.htm"
+          }
+        ]
+      },
+      {
+        "id": "policy",
+        "label": "政策与监管",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "江苏：召开公共机构重点用能单位节能降碳工作经验交流会",
+            "published_date": "2026-10-21",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261021_49831.htm"
+          }
+        ]
+      },
+      {
+        "id": "standard",
+        "label": "标准与计量",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "江苏：召开公共机构重点用能单位节能降碳工作经验交流会",
+            "published_date": "2026-10-21",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261021_49831.htm"
+          }
+        ]
+      },
+      {
+        "id": "product",
+        "label": "设备与服务发布",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "江苏：召开公共机构重点用能单位节能降碳工作经验交流会",
+            "published_date": "2026-10-21",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261021_49831.htm"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与改造",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "江苏：召开公共机构重点用能单位节能降碳工作经验交流会",
+            "published_date": "2026-10-21",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261021_49831.htm"
+          }
+        ]
+      }
+    ],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 1,
+    "headlines": [
+      {
+        "title": "江苏：召开公共机构重点用能单位节能降碳工作经验交流会",
+        "publisher": "国家机关事务管理局",
+        "published_date": "2026-10-21",
+        "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261021_49831.htm"
+      }
+    ]
+  }
+}
