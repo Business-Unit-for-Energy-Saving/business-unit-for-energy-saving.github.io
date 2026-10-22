@@ -23986,6 +23986,796 @@
       "result": "new",
       "_baseline": true,
       "related_sources": []
+    },
+    "081ffcf2b68db1376120": {
+      "url": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261022_49839.htm",
+      "title": "国管局 文化和旅游部 体育总局 国家文物局 中国科协 关于更高水平更高质量推进场馆类公共机构节能降碳工作的通知",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "政策",
+        "公共机构",
+        "技术征集"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2026-10-22",
+      "excerpt": "国管局 文化和旅游部 体育总局 国家文物局 中国科协关于更高水平更高质量推进场馆类 公共机构节能降碳工作的通知 国管节能〔2026〕235号 各省、自治区、直辖市及新疆生产建设兵团机关事务管理部门、文化和旅游厅（局）、体育局、文物局、科协，广东省能源局： 为深入贯彻党的二十大和二十届历次全会精神，落实《中华人民共和国国民经济和社会发展第十五个五年规划纲要》《“十五五”碳达峰行动方案》《中共中央办公厅、国务院办公厅关于更高水平更高质量做好节能降碳工作的意见》《“十五五”公共机构节能降碳工作方案》等文件部署， 系统推动 [截断摘录，请核对原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "research",
+            "label": "研究与方法"
+          },
+          {
+            "id": "tender",
+            "label": "采购与招标"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "equipment-components",
+            "label": "设备与关键部件"
+          },
+          {
+            "id": "measurement-carbon",
+            "label": "计量、监测与碳核算"
+          },
+          {
+            "id": "energy-software",
+            "label": "能源管理软件与数据平台"
+          },
+          {
+            "id": "solution-integration",
+            "label": "系统集成与节能服务"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "energy-management",
+            "label": "能源管理"
+          },
+          {
+            "id": "carbon-measurement",
+            "label": "碳排放计量与核算"
+          },
+          {
+            "id": "thermal-systems",
+            "label": "热能与冷站系统"
+          },
+          {
+            "id": "electrification-control",
+            "label": "电气化与控制"
+          },
+          {
+            "id": "renewables-storage",
+            "label": "光伏、储能与绿电"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "building-energy",
+            "label": "建筑与园区用能"
+          },
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          },
+          {
+            "id": "carbon-management",
+            "label": "碳管理与产品碳足迹"
+          },
+          {
+            "id": "renewable-transition",
+            "label": "新能源与能源结构转型"
+          },
+          {
+            "id": "transportation",
+            "label": "交通与运输节能"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261022_49839.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261022_49839.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261022_49839.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "research",
+            "object_label": "研究与方法"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261022_49839.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "tender",
+            "object_label": "采购与招标"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261022_49839.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261022_49839.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261022_49839.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261022_49839.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261022_49839.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "equipment-components",
+            "object_label": "设备与关键部件"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261022_49839.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "measurement-carbon",
+            "object_label": "计量、监测与碳核算"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261022_49839.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-software",
+            "object_label": "能源管理软件与数据平台"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261022_49839.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "solution-integration",
+            "object_label": "系统集成与节能服务"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261022_49839.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261022_49839.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "building-energy",
+            "object_label": "建筑与园区用能"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261022_49839.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261022_49839.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "carbon-management",
+            "object_label": "碳管理与产品碳足迹"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261022_49839.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "renewable-transition",
+            "object_label": "新能源与能源结构转型"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/tzgg/202610/t20261022_49839.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "transportation",
+            "object_label": "交通与运输节能"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2026-10-22",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-22",
+      "updated_at": "2026-10-22T13:57:09+08:00",
+      "result": "new",
+      "_baseline": false,
+      "related_sources": []
+    },
+    "00bbaa50e87daeadd519": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44253.htm",
+      "title": "江苏省召开全省生活垃圾分类工作现场推进会",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2023-10-26",
+      "excerpt": "9月22日，江苏省生活垃圾分类工作现场推进会在苏州召开，省城乡生活垃圾分类联席会议成员单位分管负责同志、各设区市和县（市、区）政府分管负责同志以及设区市城管局主要负责同志参加了会议。 会议指出，江苏省共有公共机构28000余家，涉及人数1700余万，约占全省总人口的20%，推动公共机构率先做好生活垃圾分类工作，对于引领全社会形成绿色生产生活方式，带动全社会参与生活垃圾分类工作具有重要的示范引领作用，意义重大、责任重大。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "tender",
+            "label": "采购与招标"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "tender",
+          "label": "采购与招标"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44253.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "tender",
+            "object_label": "采购与招标"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44253.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44253.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44253.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44253.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2023-10-26",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-22",
+      "updated_at": "2026-10-22T13:57:09+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "b831bbabe5ae09c12bfa": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44252.htm",
+      "title": "四川省机关食堂反食品浪费工作成效评估和通报制度实施取得成效",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2023-10-26",
+      "excerpt": "2022年5月，四川省机关事务管理局被确定为成渝地区机关食堂反食品浪费工作成效评估和通报制度全国试点单位。今年9月，国管局反馈机关食堂反食品浪费工作成效评估和通报制度实地评估情况，四川省成效评估和通报制度实施覆盖度、食堂反食品浪费工作成效评估合格率、食品浪费系数合格率均达100%。 近年来，四川省管理局深入贯彻习近平总书记关于制止餐饮浪费重要指示精神，全面落实《中华人民共和国反食品浪费法》，按照国管局和省委、省政府决策部署，切实推进公共机构反食品浪费工作。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "standard",
+          "label": "标准与计量"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44252.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44252.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44252.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44252.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44252.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2023-10-26",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-22",
+      "updated_at": "2026-10-22T13:57:09+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "5767f1111779fa80cbe3": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44251.htm",
+      "title": "重庆市扎实推进机关食堂反食品浪费工作成效评估和 通报制度取得积极成效",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2023-10-26",
+      "excerpt": "为深入贯彻习近平总书记关于制止餐饮浪费行为的重要指示批示精神，落实《中华人民共和国反食品浪费法》有关规定，2022年5月，国管局会同有关部门决定在成渝地区等5个地区以及5个国家部委率先实施机关食堂反食品浪费工作成效评估和通报制度。重庆市机关事务管理局认真按照有关要求，加强组织保障、完善制度标准、开展监测评估、做好宣传引导，扎实推进成效评估和通报制度有效实施，取得积极成效，充分发挥了党政机关示范引领作用。 制度标准建立并有效实施。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "tender",
+            "label": "采购与招标"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "standard",
+          "label": "标准与计量"
+        },
+        "chain_stages": [
+          {
+            "id": "measurement-carbon",
+            "label": "计量、监测与碳核算"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44251.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44251.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "tender",
+            "object_label": "采购与招标"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44251.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44251.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44251.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44251.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "measurement-carbon",
+            "object_label": "计量、监测与碳核算"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44251.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44251.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2023-10-26",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-22",
+      "updated_at": "2026-10-22T13:57:09+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "5060a0967fb57dc1671b": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44250.htm",
+      "title": "内蒙古组织开展世界粮食日宣传活动",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2023-10-26",
+      "excerpt": "“一粥一饭，当思来处不易；半丝半缕，恒念物力维艰。”10月16日是第43个世界粮食日，内蒙古自治区机关事务管理局联合内蒙古大学，在校园内举办了2023年全区公共机构世界粮食日宣传活动。 此次活动深入贯彻落实习近平总书记关于粮食安全、厉行节约、反对浪费的重要指示批示精神，组织动员全区广大干部职工和全体师生增强节约粮食意识，落实“光盘行动”，以实际行动践行绿色健康消费理念，在全面节约、绿色低碳发展中走在前作表率。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "partnership",
+          "label": "合作与生态"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44250.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44250.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231026_44250.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2023-10-26",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-22",
+      "updated_at": "2026-10-22T13:57:09+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "39d54ff8514318c3ca00": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231025_44211.htm",
+      "title": "阜新市开展世界粮食日宣传活动",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2023-10-25",
+      "excerpt": "10月16日是第43个世界粮食日，为认真贯彻落实辽宁省委、阜新市委“坚决遏制餐饮浪费，让‘光盘行动’成为文明自觉”的部署要求，阜新市机关事务管理办公室组织全市各级公共机构开展“爱粮节粮”主题宣传活动，并通过各种媒体向全社会发布反餐饮浪费倡议，在全市范围内大力营造爱粮节粮的浓厚氛围，推动“爱粮节粮 从我做起”理念深入人心。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "product",
+          "label": "设备与服务发布"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231025_44211.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231025_44211.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202310/t20231025_44211.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2023-10-25",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-22",
+      "updated_at": "2026-10-22T13:57:09+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
     }
   },
   "days": {
@@ -24162,6 +24952,11 @@
     "2026-10-21": {
       "started_at": "2026-10-21T13:52:17+08:00",
       "finished_at": "2026-10-21T13:53:09+08:00",
+      "scan_count": 1
+    },
+    "2026-10-22": {
+      "started_at": "2026-10-22T13:56:05+08:00",
+      "finished_at": "2026-10-22T13:57:09+08:00",
       "scan_count": 1
     }
   }
