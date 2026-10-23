@@ -1,0 +1,398 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-23",
+  "updated_at": "2026-10-23T13:54:07+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 2,
+    "chain_stages": [
+      {
+        "id": "energy-resources",
+        "label": "能源资源与电力",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "国家能源局召开长三角电力市场建设推进会",
+            "published_date": "2026-10-22",
+            "url": "https://www.nea.gov.cn/20261022/c24fcfd10d264d2a94d868db1e85bb7a/c.html"
+          },
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "measurement-carbon",
+        "label": "计量、监测与碳核算",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "国家能源局召开长三角电力市场建设推进会",
+            "published_date": "2026-10-22",
+            "url": "https://www.nea.gov.cn/20261022/c24fcfd10d264d2a94d868db1e85bb7a/c.html"
+          },
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "application-scenes",
+        "label": "工业、建筑与公共机构场景",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "solution-integration",
+        "label": "系统集成与节能服务",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-software",
+        "label": "能源管理软件与数据平台",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "equipment-components",
+        "label": "设备与关键部件",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "renewable-transition",
+        "label": "新能源与能源结构转型",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "国家能源局召开长三角电力市场建设推进会",
+            "published_date": "2026-10-22",
+            "url": "https://www.nea.gov.cn/20261022/c24fcfd10d264d2a94d868db1e85bb7a/c.html"
+          },
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "transportation",
+        "label": "交通与运输节能",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "public-institutions",
+        "label": "公共机构与医院",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "industrial-manufacturing",
+        "label": "工业制造与流程优化",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "building-energy",
+        "label": "建筑与园区用能",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "carbon-management",
+        "label": "碳管理与产品碳足迹",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "renewables-storage",
+        "label": "光伏、储能与绿电",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "国家能源局召开长三角电力市场建设推进会",
+            "published_date": "2026-10-22",
+            "url": "https://www.nea.gov.cn/20261022/c24fcfd10d264d2a94d868db1e85bb7a/c.html"
+          },
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "industrial-efficiency",
+        "label": "工业能效",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "thermal-systems",
+        "label": "热能与冷站系统",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "electrification-control",
+        "label": "电气化与控制",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "carbon-measurement",
+        "label": "碳排放计量与核算",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-management",
+        "label": "能源管理",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "partnership",
+        "label": "合作与生态",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "国家能源局召开长三角电力市场建设推进会",
+            "published_date": "2026-10-22",
+            "url": "https://www.nea.gov.cn/20261022/c24fcfd10d264d2a94d868db1e85bb7a/c.html"
+          },
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "policy",
+        "label": "政策与监管",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "国家能源局召开长三角电力市场建设推进会",
+            "published_date": "2026-10-22",
+            "url": "https://www.nea.gov.cn/20261022/c24fcfd10d264d2a94d868db1e85bb7a/c.html"
+          },
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "standard",
+        "label": "标准与计量",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "国家能源局召开长三角电力市场建设推进会",
+            "published_date": "2026-10-22",
+            "url": "https://www.nea.gov.cn/20261022/c24fcfd10d264d2a94d868db1e85bb7a/c.html"
+          },
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "research",
+        "label": "研究与方法",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "国家能源局召开长三角电力市场建设推进会",
+            "published_date": "2026-10-22",
+            "url": "https://www.nea.gov.cn/20261022/c24fcfd10d264d2a94d868db1e85bb7a/c.html"
+          },
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "product",
+        "label": "设备与服务发布",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "国家能源局召开长三角电力市场建设推进会",
+            "published_date": "2026-10-22",
+            "url": "https://www.nea.gov.cn/20261022/c24fcfd10d264d2a94d868db1e85bb7a/c.html"
+          },
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与改造",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "国家能源局召开长三角电力市场建设推进会",
+            "published_date": "2026-10-22",
+            "url": "https://www.nea.gov.cn/20261022/c24fcfd10d264d2a94d868db1e85bb7a/c.html"
+          },
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "disclosure",
+        "label": "企业披露与经营动态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      },
+      {
+        "id": "tender",
+        "label": "采购与招标",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+            "published_date": "2026-10-22",
+            "url": "https://www.emca.cn/web/24/202610/43095.html"
+          }
+        ]
+      }
+    ],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 2,
+    "headlines": [
+      {
+        "title": "国家能源局召开长三角电力市场建设推进会",
+        "publisher": "国家能源局",
+        "published_date": "2026-10-22",
+        "url": "https://www.nea.gov.cn/20261022/c24fcfd10d264d2a94d868db1e85bb7a/c.html"
+      },
+      {
+        "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+        "publisher": "中国节能协会节能服务产业委员会",
+        "published_date": "2026-10-22",
+        "url": "https://www.emca.cn/web/24/202610/43095.html"
+      }
+    ]
+  }
+}
