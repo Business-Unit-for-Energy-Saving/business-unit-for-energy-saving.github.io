@@ -27671,6 +27671,731 @@
       "result": "new",
       "_baseline": true,
       "related_sources": []
+    },
+    "a8f2653e88243a88db3e": {
+      "url": "https://www.emca.cn/web/14/202610/43099.html",
+      "title": "关于举办变压器绿色低碳产品技术应用推广会的通知",
+      "publisher": "中国节能协会节能服务产业委员会",
+      "kind": "association",
+      "region": "中国",
+      "topics": [
+        "团体标准",
+        "医院",
+        "能源托管"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2026-10-26",
+      "excerpt": "各会员及相关单位： 为推广高效变压器、变压器节能降碳改造，普及合同能源管理及能源费用托管等市场化模式，对接绿色金融机构，解决用能单位变压器节能降碳改造融资难题，激发市场主体参与积极性，推动变压器节能降碳工作可持续发展，中国节能协会联合国际铜业协会定于2026年11月19日在南京市举办“变压器绿色低碳产品技术应用推广会”。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "energy-software",
+            "label": "能源管理软件与数据平台"
+          },
+          {
+            "id": "solution-integration",
+            "label": "系统集成与节能服务"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "energy-management",
+            "label": "能源管理"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          },
+          {
+            "id": "building-energy",
+            "label": "建筑与园区用能"
+          },
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          },
+          {
+            "id": "transportation",
+            "label": "交通与运输节能"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202610/43099.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202610/43099.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202610/43099.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202610/43099.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202610/43099.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202610/43099.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202610/43099.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-software",
+            "object_label": "能源管理软件与数据平台"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202610/43099.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "solution-integration",
+            "object_label": "系统集成与节能服务"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202610/43099.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202610/43099.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202610/43099.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "building-energy",
+            "object_label": "建筑与园区用能"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202610/43099.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202610/43099.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "transportation",
+            "object_label": "交通与运输节能"
+          }
+        ],
+        "evidence": {
+          "level": "行业组织材料",
+          "source_kind": "association",
+          "published_date": "2026-10-26",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-27",
+      "updated_at": "2026-10-27T14:09:03+08:00",
+      "result": "new",
+      "_baseline": false,
+      "related_sources": []
+    },
+    "7451942d2a30a481d05d": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43621.htm",
+      "title": "浙江：发布宋韵特色公益短片 助力公共机构节能宣传",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2023-07-17",
+      "excerpt": "7月12日起，浙江省机关事务管理局开展公共机构节能宣传周系列活动，积极传播节能降碳和绿色发展理念，倡导绿色低碳生活方式。期间，正式发布公益短片《公共机构 绿色先行》，由浙江省管理局系统干部职工倾情出演，从节电、节水、光盘、垃圾分类、绿色出行等角度，采取古今反差的方式，充分利用浙江宋韵文化特色，为大家带来活泼有趣的绿色生活场景。短片在浙江省级电视台、地铁、公交、城市广告屏等渠道传播，获得良好社会效应。",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "product",
+          "label": "设备与服务发布"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43621.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43621.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43621.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2023-07-17",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-27",
+      "updated_at": "2026-10-27T14:09:03+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "13d1d0f7f2a4409f48d3": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43620.htm",
+      "title": "浙江宁波：启动公共机构节能宣传月",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2023-07-17",
+      "excerpt": "为进一步传播节能降碳和绿色发展理念，倡导绿色低碳生活方式，充分发挥公共机构在绿色低碳发展中的示范引领作用，7月13日，浙江省宁波市公共机构节能宣传月暨节约“红管家”活动举行。 下一步，宁波市机关事务管理局还将组织节能新技术（产品）推介会、节约“红管家”课堂等相关活动，在全市公共机构中持续营造人人参与、人人重视节能的良好氛围，进一步推动形成勤俭节约、合理用能的社会风尚。",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "product",
+          "label": "设备与服务发布"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43620.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43620.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43620.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2023-07-17",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-27",
+      "updated_at": "2026-10-27T14:09:03+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "9dd7b1c3f61998d88836": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43619.htm",
+      "title": "陕西：举行节能宣传周暨公共机构节能宣传三秦行启动仪式",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [
+        "陕西省"
+      ],
+      "published_date": "2023-07-17",
+      "excerpt": "7月10日，陕西省机关事务服务中心、省发展改革委联合相关部门，在陕西省政府机关新城大院举办2023年陕西省节能宣传周暨公共机构节能宣传三秦行启动仪式。驻新城大院各单位及节能工作先进单位和企业代表约120人参加。 启动仪式上，举行了公共机构生活垃圾分类和资源循环利用示范工作重点单位、节能降碳先进经验和典型案例示范单位、节能服务示范企业、绿色简约包装示范企业颁奖仪式；陕西省机关事务服务中心与国家电网陕西电力有限公司等单位签订了《促进公共机构绿色低碳发展合作框架协议》。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "product",
+          "label": "设备与服务发布"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "solution-integration",
+            "label": "系统集成与节能服务"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43619.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43619.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43619.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43619.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "solution-integration",
+            "object_label": "系统集成与节能服务"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43619.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43619.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2023-07-17",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-27",
+      "updated_at": "2026-10-27T14:09:03+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "41d829583cf558d0477c": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43618.htm",
+      "title": "湖北省鄂州市2023年节能宣传周暨低碳日活动启动",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2023-07-15",
+      "excerpt": "7月13日上午，由湖北省鄂州市发改委、市生态环保局主办的鄂州市2023年节能宣传周暨低碳日启动仪式在凤凰广场举行。市政府副市长卢辉、市人大常委会副主任王时文，市政协副主席熊金林、市发改委主任刘恒波、市生态环境局局长陈炜斌等领导参加启动仪式。 今年7月10日至16日为全国节能宣传周，主题为“节能低碳、你我同行”，7月12日为低碳日，主题为“积极应对气候变化 推动绿色低碳发展”。启动仪式由市政府副秘书长刘绪武主持。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [],
+        "primary_event_type": null,
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43618.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43618.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2023-07-15",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-27",
+      "updated_at": "2026-10-27T14:09:03+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "ab5683a9aa91b543cee9": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43617.htm",
+      "title": "四川省公共机构节能宣传周暨“碳惠绿享”系列活动启动仪式在成都举办",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2023-07-15",
+      "excerpt": "今年7月10日至16日是我国第33个节能宣传周，主题为“节能降碳 你我同行”。7月11日上午，2023年四川省公共机构节能宣传周暨“碳惠绿享”系列活动启动仪式在成都举行，活动由省机关事务管理局、省发展改革委、经济和信息化厅等单位组成的省公共机构节能协调小组主办。省政协副主席林书成出席启动仪式并讲话，省政府副秘书长、省机关事务管理局党组书记、局长谢民致辞。 启动仪式有五项议程。一是发布“十四五”第一批省级节约型公共机构示范单位名单。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "project",
+          "label": "项目与改造"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "equipment-components",
+            "label": "设备与关键部件"
+          },
+          {
+            "id": "energy-software",
+            "label": "能源管理软件与数据平台"
+          },
+          {
+            "id": "solution-integration",
+            "label": "系统集成与节能服务"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "energy-management",
+            "label": "能源管理"
+          },
+          {
+            "id": "thermal-systems",
+            "label": "热能与冷站系统"
+          },
+          {
+            "id": "renewables-storage",
+            "label": "光伏、储能与绿电"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "building-energy",
+            "label": "建筑与园区用能"
+          },
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          },
+          {
+            "id": "renewable-transition",
+            "label": "新能源与能源结构转型"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43617.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43617.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43617.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43617.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "equipment-components",
+            "object_label": "设备与关键部件"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43617.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-software",
+            "object_label": "能源管理软件与数据平台"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43617.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "solution-integration",
+            "object_label": "系统集成与节能服务"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43617.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43617.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "building-energy",
+            "object_label": "建筑与园区用能"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43617.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43617.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "renewable-transition",
+            "object_label": "新能源与能源结构转型"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2023-07-15",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-27",
+      "updated_at": "2026-10-27T14:09:03+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
     }
   },
   "days": {
@@ -27872,6 +28597,11 @@
     "2026-10-26": {
       "started_at": "2026-10-26T13:55:58+08:00",
       "finished_at": "2026-10-26T13:56:42+08:00",
+      "scan_count": 1
+    },
+    "2026-10-27": {
+      "started_at": "2026-10-27T14:07:59+08:00",
+      "finished_at": "2026-10-27T14:09:03+08:00",
       "scan_count": 1
     }
   }

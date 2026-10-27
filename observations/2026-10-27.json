@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-27",
+  "updated_at": "2026-10-27T14:09:03+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 1,
+    "chain_stages": [
+      {
+        "id": "application-scenes",
+        "label": "工业、建筑与公共机构场景",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于举办变压器绿色低碳产品技术应用推广会的通知",
+            "published_date": "2026-10-26",
+            "url": "https://www.emca.cn/web/14/202610/43099.html"
+          }
+        ]
+      },
+      {
+        "id": "solution-integration",
+        "label": "系统集成与节能服务",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于举办变压器绿色低碳产品技术应用推广会的通知",
+            "published_date": "2026-10-26",
+            "url": "https://www.emca.cn/web/14/202610/43099.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-software",
+        "label": "能源管理软件与数据平台",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于举办变压器绿色低碳产品技术应用推广会的通知",
+            "published_date": "2026-10-26",
+            "url": "https://www.emca.cn/web/14/202610/43099.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-resources",
+        "label": "能源资源与电力",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于举办变压器绿色低碳产品技术应用推广会的通知",
+            "published_date": "2026-10-26",
+            "url": "https://www.emca.cn/web/14/202610/43099.html"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "transportation",
+        "label": "交通与运输节能",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于举办变压器绿色低碳产品技术应用推广会的通知",
+            "published_date": "2026-10-26",
+            "url": "https://www.emca.cn/web/14/202610/43099.html"
+          }
+        ]
+      },
+      {
+        "id": "public-institutions",
+        "label": "公共机构与医院",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于举办变压器绿色低碳产品技术应用推广会的通知",
+            "published_date": "2026-10-26",
+            "url": "https://www.emca.cn/web/14/202610/43099.html"
+          }
+        ]
+      },
+      {
+        "id": "industrial-manufacturing",
+        "label": "工业制造与流程优化",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于举办变压器绿色低碳产品技术应用推广会的通知",
+            "published_date": "2026-10-26",
+            "url": "https://www.emca.cn/web/14/202610/43099.html"
+          }
+        ]
+      },
+      {
+        "id": "building-energy",
+        "label": "建筑与园区用能",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于举办变压器绿色低碳产品技术应用推广会的通知",
+            "published_date": "2026-10-26",
+            "url": "https://www.emca.cn/web/14/202610/43099.html"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "energy-management",
+        "label": "能源管理",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于举办变压器绿色低碳产品技术应用推广会的通知",
+            "published_date": "2026-10-26",
+            "url": "https://www.emca.cn/web/14/202610/43099.html"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "partnership",
+        "label": "合作与生态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于举办变压器绿色低碳产品技术应用推广会的通知",
+            "published_date": "2026-10-26",
+            "url": "https://www.emca.cn/web/14/202610/43099.html"
+          }
+        ]
+      },
+      {
+        "id": "policy",
+        "label": "政策与监管",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于举办变压器绿色低碳产品技术应用推广会的通知",
+            "published_date": "2026-10-26",
+            "url": "https://www.emca.cn/web/14/202610/43099.html"
+          }
+        ]
+      },
+      {
+        "id": "standard",
+        "label": "标准与计量",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于举办变压器绿色低碳产品技术应用推广会的通知",
+            "published_date": "2026-10-26",
+            "url": "https://www.emca.cn/web/14/202610/43099.html"
+          }
+        ]
+      },
+      {
+        "id": "product",
+        "label": "设备与服务发布",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于举办变压器绿色低碳产品技术应用推广会的通知",
+            "published_date": "2026-10-26",
+            "url": "https://www.emca.cn/web/14/202610/43099.html"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与改造",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于举办变压器绿色低碳产品技术应用推广会的通知",
+            "published_date": "2026-10-26",
+            "url": "https://www.emca.cn/web/14/202610/43099.html"
+          }
+        ]
+      }
+    ],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 1,
+    "headlines": [
+      {
+        "title": "关于举办变压器绿色低碳产品技术应用推广会的通知",
+        "publisher": "中国节能协会节能服务产业委员会",
+        "published_date": "2026-10-26",
+        "url": "https://www.emca.cn/web/14/202610/43099.html"
+      }
+    ]
+  }
+}
