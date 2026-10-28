@@ -28396,6 +28396,593 @@
       "result": "new",
       "_baseline": true,
       "related_sources": []
+    },
+    "ac58b6abfae64725ae98": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43616.htm",
+      "title": "吉林省机关事务管理局召开2023年全省公共机构能源资源节约和生态环境保护工作推进会议",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2023-07-15",
+      "excerpt": "近日，吉林省机关事务管理局在长春组织召开了2023年全省公共机构能源资源节约和生态环境保护工作推进会议，全面总结“十三五”以来全省公共机构能源资源节约和生态环境保护主要工作，对当前和今后一个时期的重点工作任务作了总体部署。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "measurement-carbon",
+            "label": "计量、监测与碳核算"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "carbon-measurement",
+            "label": "碳排放计量与核算"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "building-energy",
+            "label": "建筑与园区用能"
+          },
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          },
+          {
+            "id": "carbon-management",
+            "label": "碳管理与产品碳足迹"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43616.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43616.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43616.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43616.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43616.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "measurement-carbon",
+            "object_label": "计量、监测与碳核算"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43616.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43616.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "building-energy",
+            "object_label": "建筑与园区用能"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43616.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43616.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "carbon-management",
+            "object_label": "碳管理与产品碳足迹"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2023-07-15",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-28",
+      "updated_at": "2026-10-28T14:46:58+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "cf94cc2cee4ad88ca281": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43615.htm",
+      "title": "江西省公共机构开展2023年全国低碳日主题实践活动",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2023-07-15",
+      "excerpt": "7月12日是全国低碳日，围绕“积极应对气候变化，推动绿色低碳发展”主题，江西省机关事务管理局组织全省公共机构开展2023年全国低碳日主题实践活动。 省管局根据绿宝碳汇平台个人累计绿色积分情况，在省直公共机构遴选出一批“低碳达人”，并邀请代表参加活动。活动现场，为“低碳达人”代表颁发了荣誉证书，举办了垃圾分类知识讲座、节能主题展览、废旧物品拆解观摩会等专题活动，组织了供销江南中央仓、检测检疫实验室、订单作业区、流水分拣区、冷库等参观活动。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "disclosure",
+            "label": "企业披露与经营动态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "product",
+          "label": "设备与服务发布"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43615.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43615.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "disclosure",
+            "object_label": "企业披露与经营动态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43615.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43615.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43615.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2023-07-15",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-28",
+      "updated_at": "2026-10-28T14:46:58+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "c39c49c35b81489e3365": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43614.htm",
+      "title": "南通市掀起公共机构节能宣传热潮",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2023-07-14",
+      "excerpt": "近日，2023年全国节能宣传周活动在南通市逐步进入高潮阶段。市机关事务管理局向全市公共机构印发“节能降碳、你我同行”行动倡议书，通过线上、线下途径组织开展了多项宣传活动。面向全市市级机关干部职工的节能降碳有奖问答活动，两日内线上累计参与人数已超1000，参赛者节能知识学习热情高涨。在市行政中心、政务中心、图书馆及综合服务中心的显眼位置，环保生活布袋领取人员络绎不绝。全市各机关食堂内的宣传展板，电梯轿厢视频窗口播放的精彩公益广告，都吸引了不少干部职工凝神观看。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "standard",
+          "label": "标准与计量"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "equipment-components",
+            "label": "设备与关键部件"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43614.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43614.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43614.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43614.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43614.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "equipment-components",
+            "object_label": "设备与关键部件"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43614.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43614.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2023-07-14",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-28",
+      "updated_at": "2026-10-28T14:46:58+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "9bfab71f5068a00b9473": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43613.htm",
+      "title": "全国低碳日 东营市公共机构节能降碳从体验到实践",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2023-07-14",
+      "excerpt": "7月12日是2023年全国低碳日，东营市机关事务管理局组织开展节能宣传周进机关、进家庭、“四个停开”、“节能义诊”等节能降碳实践活动，充分发挥公共机构示范引领作用，传播绿色发展理念，营造节能降碳新风尚。 在东营市机关事务管理局组织开展的节能宣传周进家庭活动现场，30个家庭走进市水情教育基地，通过展板、沙盘、实物、视频等方式，了解了全球水资源现状、黄河流域基本情况、东营市水利概况、引黄灌区事业发展及有关节水知识等内容。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "product",
+          "label": "设备与服务发布"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "building-energy",
+            "label": "建筑与园区用能"
+          },
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43613.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43613.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43613.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43613.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "building-energy",
+            "object_label": "建筑与园区用能"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43613.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2023-07-14",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-28",
+      "updated_at": "2026-10-28T14:46:58+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "6c6d992bf4fbe17719f1": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43612.htm",
+      "title": "传播绿色发展理念 福建省公共机构节能宣传周启动",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [
+        "上海"
+      ],
+      "regions": [],
+      "published_date": "2023-07-14",
+      "excerpt": "7月10日，以“节能降碳，你我同行”为主题的全国节能宣传周启动。 由福建省政府节能办、福建省发改委主办，福建省机关管理局等单位协助举办的福建省2023年全国节能宣传周暨全国低碳日启动仪式在宁德市北岸公园举行，省、市政府部门、重点用能单位、节能企业代表及市民近千人参加。福建省机关管理局在启动仪式现场精心布置展区，组织节能宣传志愿服务，发放环保布袋、宣传品，开展主题宣传活动。 全省公共机构通过新华网线上同步收看国管局会同上海市人民政府举办的2023年全国公共机构节能宣传周启动仪式直播。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43612.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43612.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43612.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202307/t20230726_43612.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2023-07-14",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-10-28",
+      "updated_at": "2026-10-28T14:46:58+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
     }
   },
   "days": {
@@ -28602,6 +29189,11 @@
     "2026-10-27": {
       "started_at": "2026-10-27T14:07:59+08:00",
       "finished_at": "2026-10-27T14:09:03+08:00",
+      "scan_count": 1
+    },
+    "2026-10-28": {
+      "started_at": "2026-10-28T14:46:02+08:00",
+      "finished_at": "2026-10-28T14:46:58+08:00",
       "scan_count": 1
     }
   }
