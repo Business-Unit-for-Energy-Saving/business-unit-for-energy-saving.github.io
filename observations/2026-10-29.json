@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-29",
+  "updated_at": "2026-10-29T14:55:33+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 2,
+    "chain_stages": [
+      {
+        "id": "application-scenes",
+        "label": "工业、建筑与公共机构场景",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "2026年重庆市公共机构机关食堂反食品浪费宣传主题活动在开州区圆满举办",
+            "published_date": "2026-10-28",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261028_49889.htm"
+          },
+          {
+            "title": "宣传引导树新风 评估碳惠促长效 四川公共机构反食品浪费工作纪实",
+            "published_date": "2026-10-28",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261028_49888.htm"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "public-institutions",
+        "label": "公共机构与医院",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "2026年重庆市公共机构机关食堂反食品浪费宣传主题活动在开州区圆满举办",
+            "published_date": "2026-10-28",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261028_49889.htm"
+          },
+          {
+            "title": "宣传引导树新风 评估碳惠促长效 四川公共机构反食品浪费工作纪实",
+            "published_date": "2026-10-28",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261028_49888.htm"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [],
+    "event_types": [
+      {
+        "id": "product",
+        "label": "设备与服务发布",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "2026年重庆市公共机构机关食堂反食品浪费宣传主题活动在开州区圆满举办",
+            "published_date": "2026-10-28",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261028_49889.htm"
+          },
+          {
+            "title": "宣传引导树新风 评估碳惠促长效 四川公共机构反食品浪费工作纪实",
+            "published_date": "2026-10-28",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261028_49888.htm"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与改造",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "2026年重庆市公共机构机关食堂反食品浪费宣传主题活动在开州区圆满举办",
+            "published_date": "2026-10-28",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261028_49889.htm"
+          },
+          {
+            "title": "宣传引导树新风 评估碳惠促长效 四川公共机构反食品浪费工作纪实",
+            "published_date": "2026-10-28",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261028_49888.htm"
+          }
+        ]
+      },
+      {
+        "id": "partnership",
+        "label": "合作与生态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "宣传引导树新风 评估碳惠促长效 四川公共机构反食品浪费工作纪实",
+            "published_date": "2026-10-28",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261028_49888.htm"
+          }
+        ]
+      },
+      {
+        "id": "policy",
+        "label": "政策与监管",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "宣传引导树新风 评估碳惠促长效 四川公共机构反食品浪费工作纪实",
+            "published_date": "2026-10-28",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261028_49888.htm"
+          }
+        ]
+      },
+      {
+        "id": "standard",
+        "label": "标准与计量",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "宣传引导树新风 评估碳惠促长效 四川公共机构反食品浪费工作纪实",
+            "published_date": "2026-10-28",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261028_49888.htm"
+          }
+        ]
+      },
+      {
+        "id": "research",
+        "label": "研究与方法",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "宣传引导树新风 评估碳惠促长效 四川公共机构反食品浪费工作纪实",
+            "published_date": "2026-10-28",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261028_49888.htm"
+          }
+        ]
+      },
+      {
+        "id": "tender",
+        "label": "采购与招标",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "宣传引导树新风 评估碳惠促长效 四川公共机构反食品浪费工作纪实",
+            "published_date": "2026-10-28",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261028_49888.htm"
+          }
+        ]
+      }
+    ],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 2,
+    "headlines": [
+      {
+        "title": "2026年重庆市公共机构机关食堂反食品浪费宣传主题活动在开州区圆满举办",
+        "publisher": "国家机关事务管理局",
+        "published_date": "2026-10-28",
+        "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261028_49889.htm"
+      },
+      {
+        "title": "宣传引导树新风 评估碳惠促长效 四川公共机构反食品浪费工作纪实",
+        "publisher": "国家机关事务管理局",
+        "published_date": "2026-10-28",
+        "url": "https://ecpi.ggj.gov.cn/dfdt/202610/t20261028_49888.htm"
+      }
+    ]
+  }
+}
