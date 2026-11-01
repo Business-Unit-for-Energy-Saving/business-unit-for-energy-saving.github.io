@@ -36,6 +36,8 @@ description: 节能行业公开资料采集简报
 
 - [组织 GitHub](https://github.com/Business-Unit-for-Energy-Saving)
 - [组织说明](https://github.com/Business-Unit-for-Energy-Saving/.github)
+- [需求与场景研究](https://github.com/Business-Unit-for-Energy-Saving/requirements)
+- [MyEMS 产品代码](https://github.com/Business-Unit-for-Energy-Saving/myems)
 
 ## 边界
 
