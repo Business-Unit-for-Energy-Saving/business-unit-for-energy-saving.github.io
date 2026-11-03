@@ -32350,6 +32350,784 @@
       "result": "new",
       "_baseline": true,
       "related_sources": []
+    },
+    "fd8f1874551cd296c561": {
+      "url": "https://www.emca.cn/web/14/202611/43100.html",
+      "title": "中国节能协会节能服务专业委员会（EMCA）迁址公告",
+      "publisher": "中国节能协会节能服务产业委员会",
+      "kind": "association",
+      "region": "中国",
+      "topics": [
+        "团体标准",
+        "医院",
+        "能源托管"
+      ],
+      "cities": [
+        "北京"
+      ],
+      "regions": [],
+      "published_date": "2026-11-03",
+      "excerpt": "各会员单位和相关机构： 根据中国节能协会整体工作安排和发展需要，自2026年11月2日起，中国节能协会节能服务专业委员会（EMCA）迁址至新的办公地址（中国节能协会集中办公区），由此给您带来的不便，敬请谅解。 作为节能服务公司行业组织，EMCA将不忘初心，继续秉承“推行合同能源管理机制、扶持节能服务公司成长、促进节能服务产业发展”的宗旨，从政策研究、能力建设、宣传推广、投融资服务、团体标准、资源整合以及行业自律等方面构建多位一体的产业发展服务平台，全方位为产业持续健康发展保驾护航。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "research",
+            "label": "研究与方法"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          },
+          {
+            "id": "disclosure",
+            "label": "企业披露与经营动态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "energy-software",
+            "label": "能源管理软件与数据平台"
+          },
+          {
+            "id": "solution-integration",
+            "label": "系统集成与节能服务"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "energy-management",
+            "label": "能源管理"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          },
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202611/43100.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202611/43100.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202611/43100.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "research",
+            "object_label": "研究与方法"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202611/43100.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202611/43100.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202611/43100.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202611/43100.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "disclosure",
+            "object_label": "企业披露与经营动态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202611/43100.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202611/43100.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-software",
+            "object_label": "能源管理软件与数据平台"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202611/43100.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "solution-integration",
+            "object_label": "系统集成与节能服务"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202611/43100.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202611/43100.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.emca.cn/web/14/202611/43100.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "行业组织材料",
+          "source_kind": "association",
+          "published_date": "2026-11-03",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-11-03",
+      "updated_at": "2026-11-03T15:46:51+08:00",
+      "result": "new",
+      "_baseline": false,
+      "related_sources": []
+    },
+    "6c872064eeb8d7237c3e": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49927.htm",
+      "title": "循环利用 变废为宝 ——2026年上海市机关事务管理局举办废旧3C电子产品 回收进公共机构活动",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [
+        "上海"
+      ],
+      "regions": [],
+      "published_date": "2026-11-02",
+      "excerpt": "为进一步完善公共机构废弃物循环利用体系，上海市积极响应国管局、国家发展改革委、供销 合作 总社的号召，由上海市机关事务管理局牵头举办2026年上海市废旧3C电子产品回收进公共机构系列活动。 10月21日上午，活动开幕式在 上海 人民大厦举办。 上海市 机管局党组书记、局长盖博华介绍了 上海 市公共机构绿色低碳循环发展情况，并宣布本次系列活动正式开幕。市发展改革委党组成员、副主任王鼐为活动致辞，并介绍了 上海 市循环经济相关政策及推进情况。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          },
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          },
+          {
+            "id": "transportation",
+            "label": "交通与运输节能"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49927.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49927.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49927.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49927.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49927.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49927.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49927.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49927.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "transportation",
+            "object_label": "交通与运输节能"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2026-11-02",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-11-03",
+      "updated_at": "2026-11-03T15:46:51+08:00",
+      "result": "new",
+      "_baseline": false,
+      "related_sources": []
+    },
+    "0819c936d0b35bd97bee": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49919.htm",
+      "title": "让“光盘”成为习惯 使“节俭”成为自觉",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2026-11-02",
+      "excerpt": "让 “光盘”成为习惯 使“节俭”成为自觉 ——新疆维吾尔自治区机关事务管理局持续深入抓好 机关食堂反食品浪费工作 近年来，新疆维吾尔自治区机关事务管理局深入贯彻落实习近平总书记关于制止餐饮浪费行为的重要指示批示精神，认真贯彻落实《中华人民共和国反食品浪费法》等法规制度，持续健全制度体系，加大工作力度，创新工作举措，常态化开展检查评估，推动全区党政机关在反食品浪费工作中走在前、作表率、见实效。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "tender",
+            "label": "采购与招标"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          },
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "standard",
+          "label": "标准与计量"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49919.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49919.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "tender",
+            "object_label": "采购与招标"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49919.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49919.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49919.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49919.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49919.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49919.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2026-11-02",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-11-03",
+      "updated_at": "2026-11-03T15:46:51+08:00",
+      "result": "new",
+      "_baseline": false,
+      "related_sources": []
+    },
+    "a44f3d7a08c5ac80bef3": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202303/t20230331_42666.htm",
+      "title": "湖北省机关事务管理局召开省直机关生活垃圾分类和资源循环利用 示范工作推进会",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2023-03-31",
+      "excerpt": "2023年3月31日，湖北省机关事务管理局在湖北省自然资源厅召开省直机关生活垃圾分类和资源循环利用示范工作推进会。会议主要任务是深入学习贯彻党的二十大会议精神，贯彻落实习近平总书记关于生活垃圾分类工作的重要指示批示精神，以生活垃圾分类示范工作重点单位为标杆，为全省公共机构生活垃圾分类和资源循环利用示范工作找准路径、提供经验、拓宽视野，加快形成精准施策、全面推进的工作局面。 会议指出，开展生活垃圾分类和资源循环利用示范工作，是贯彻落实党的二十大精神的具体体现，是建设节约型机关的迫切需求，是实现高质量发展的重要途径。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "project",
+            "label": "项目与改造"
+          }
+        ],
+        "primary_event_type": {
+          "id": "project",
+          "label": "项目与改造"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202303/t20230331_42666.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202303/t20230331_42666.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202303/t20230331_42666.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2023-03-31",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-11-03",
+      "updated_at": "2026-11-03T15:46:51+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "6ee9a657ea217f737da8": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202303/t20230331_42651.htm",
+      "title": "河南省召开2023年全省公共机构 节约能源资源和生态环境保护工作会议",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2023-03-31",
+      "excerpt": "3月30日，河南省机关事务管理局组织召开2023年河南省公共机构节约能源资源和生态环境保护工作会议，总结2022年工作完成情况，部署2023年工作任务。本次会议与2023年河南省机关事务（公务接待）工作会议套开。各省辖市（济源示范区）机关事务、公务接待部门主要负责同志及相关业务处室负责人，节能工作省直协作组组长单位、省直管县公共机构节能管理部门代表等参加会议。 会议指出，2022年是深入实施“十四五”公共机构节约能源资源工作规划的关键之年。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202303/t20230331_42651.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202303/t20230331_42651.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202303/t20230331_42651.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202303/t20230331_42651.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202303/t20230331_42651.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2023-03-31",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-11-03",
+      "updated_at": "2026-11-03T15:46:51+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
+    },
+    "a493a0c67fd981be70af": {
+      "url": "https://ecpi.ggj.gov.cn/dfdt/202303/t20230329_42617.htm",
+      "title": "河北省机关事务管理局首创并推广 创新型合同节水管理模式",
+      "publisher": "国家机关事务管理局",
+      "kind": "government",
+      "region": "中国",
+      "topics": [
+        "公共机构",
+        "地方实践"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2023-03-29",
+      "excerpt": "河北省机关事务管理局在全国首创形成的创新型合同节水管理模式，经过两年多的推广实践，取得良好的经济和社会效益。 传统的合同节水管理模式存在节水基础数据难以精准确定、用水单位在向节水企业支付方面存在政策壁垒、节水企业主要获取节水收益等限制，导致公共机构推进合同节水工作积极性不高。 作为全省公共机构节能的主管部门， 河北 省机关事务管理局以提升节水管理效能为着力点，探索完善创新型合同节水管理模式，明确提出“五个零”管理：一是单位“零投入”，由节水服务企业免费为用水单位安装纳米免冲水小便器，公共机构无需任何投入； [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "public-institutions",
+            "label": "公共机构与医院"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202303/t20230329_42617.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202303/t20230329_42617.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202303/t20230329_42617.htm",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202303/t20230329_42617.htm",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://ecpi.ggj.gov.cn/dfdt/202303/t20230329_42617.htm",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "public-institutions",
+            "object_label": "公共机构与医院"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2023-03-29",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-11-03",
+      "updated_at": "2026-11-03T15:46:51+08:00",
+      "result": "new",
+      "_baseline": true,
+      "related_sources": []
     }
   },
   "days": {
@@ -32586,6 +33364,11 @@
     "2026-11-02": {
       "started_at": "2026-11-02T15:32:14+08:00",
       "finished_at": "2026-11-02T15:33:14+08:00",
+      "scan_count": 1
+    },
+    "2026-11-03": {
+      "started_at": "2026-11-03T15:46:04+08:00",
+      "finished_at": "2026-11-03T15:46:51+08:00",
       "scan_count": 1
     }
   }

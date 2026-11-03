@@ -1,0 +1,304 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-03",
+  "updated_at": "2026-11-03T15:46:51+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 3,
+    "chain_stages": [
+      {
+        "id": "application-scenes",
+        "label": "工业、建筑与公共机构场景",
+        "article_count": 3,
+        "examples": [
+          {
+            "title": "中国节能协会节能服务专业委员会（EMCA）迁址公告",
+            "published_date": "2026-11-03",
+            "url": "https://www.emca.cn/web/14/202611/43100.html"
+          },
+          {
+            "title": "循环利用 变废为宝 ——2026年上海市机关事务管理局举办废旧3C电子产品 回收进公共机构活动",
+            "published_date": "2026-11-02",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49927.htm"
+          },
+          {
+            "title": "让“光盘”成为习惯 使“节俭”成为自觉",
+            "published_date": "2026-11-02",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49919.htm"
+          }
+        ]
+      },
+      {
+        "id": "energy-resources",
+        "label": "能源资源与电力",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "中国节能协会节能服务专业委员会（EMCA）迁址公告",
+            "published_date": "2026-11-03",
+            "url": "https://www.emca.cn/web/14/202611/43100.html"
+          },
+          {
+            "title": "让“光盘”成为习惯 使“节俭”成为自觉",
+            "published_date": "2026-11-02",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49919.htm"
+          }
+        ]
+      },
+      {
+        "id": "solution-integration",
+        "label": "系统集成与节能服务",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中国节能协会节能服务专业委员会（EMCA）迁址公告",
+            "published_date": "2026-11-03",
+            "url": "https://www.emca.cn/web/14/202611/43100.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-software",
+        "label": "能源管理软件与数据平台",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中国节能协会节能服务专业委员会（EMCA）迁址公告",
+            "published_date": "2026-11-03",
+            "url": "https://www.emca.cn/web/14/202611/43100.html"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "public-institutions",
+        "label": "公共机构与医院",
+        "article_count": 3,
+        "examples": [
+          {
+            "title": "中国节能协会节能服务专业委员会（EMCA）迁址公告",
+            "published_date": "2026-11-03",
+            "url": "https://www.emca.cn/web/14/202611/43100.html"
+          },
+          {
+            "title": "循环利用 变废为宝 ——2026年上海市机关事务管理局举办废旧3C电子产品 回收进公共机构活动",
+            "published_date": "2026-11-02",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49927.htm"
+          },
+          {
+            "title": "让“光盘”成为习惯 使“节俭”成为自觉",
+            "published_date": "2026-11-02",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49919.htm"
+          }
+        ]
+      },
+      {
+        "id": "industrial-manufacturing",
+        "label": "工业制造与流程优化",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "中国节能协会节能服务专业委员会（EMCA）迁址公告",
+            "published_date": "2026-11-03",
+            "url": "https://www.emca.cn/web/14/202611/43100.html"
+          },
+          {
+            "title": "循环利用 变废为宝 ——2026年上海市机关事务管理局举办废旧3C电子产品 回收进公共机构活动",
+            "published_date": "2026-11-02",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49927.htm"
+          }
+        ]
+      },
+      {
+        "id": "transportation",
+        "label": "交通与运输节能",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "循环利用 变废为宝 ——2026年上海市机关事务管理局举办废旧3C电子产品 回收进公共机构活动",
+            "published_date": "2026-11-02",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49927.htm"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "energy-management",
+        "label": "能源管理",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中国节能协会节能服务专业委员会（EMCA）迁址公告",
+            "published_date": "2026-11-03",
+            "url": "https://www.emca.cn/web/14/202611/43100.html"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "partnership",
+        "label": "合作与生态",
+        "article_count": 3,
+        "examples": [
+          {
+            "title": "中国节能协会节能服务专业委员会（EMCA）迁址公告",
+            "published_date": "2026-11-03",
+            "url": "https://www.emca.cn/web/14/202611/43100.html"
+          },
+          {
+            "title": "循环利用 变废为宝 ——2026年上海市机关事务管理局举办废旧3C电子产品 回收进公共机构活动",
+            "published_date": "2026-11-02",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49927.htm"
+          },
+          {
+            "title": "让“光盘”成为习惯 使“节俭”成为自觉",
+            "published_date": "2026-11-02",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49919.htm"
+          }
+        ]
+      },
+      {
+        "id": "standard",
+        "label": "标准与计量",
+        "article_count": 3,
+        "examples": [
+          {
+            "title": "中国节能协会节能服务专业委员会（EMCA）迁址公告",
+            "published_date": "2026-11-03",
+            "url": "https://www.emca.cn/web/14/202611/43100.html"
+          },
+          {
+            "title": "循环利用 变废为宝 ——2026年上海市机关事务管理局举办废旧3C电子产品 回收进公共机构活动",
+            "published_date": "2026-11-02",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49927.htm"
+          },
+          {
+            "title": "让“光盘”成为习惯 使“节俭”成为自觉",
+            "published_date": "2026-11-02",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49919.htm"
+          }
+        ]
+      },
+      {
+        "id": "product",
+        "label": "设备与服务发布",
+        "article_count": 3,
+        "examples": [
+          {
+            "title": "中国节能协会节能服务专业委员会（EMCA）迁址公告",
+            "published_date": "2026-11-03",
+            "url": "https://www.emca.cn/web/14/202611/43100.html"
+          },
+          {
+            "title": "循环利用 变废为宝 ——2026年上海市机关事务管理局举办废旧3C电子产品 回收进公共机构活动",
+            "published_date": "2026-11-02",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49927.htm"
+          },
+          {
+            "title": "让“光盘”成为习惯 使“节俭”成为自觉",
+            "published_date": "2026-11-02",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49919.htm"
+          }
+        ]
+      },
+      {
+        "id": "policy",
+        "label": "政策与监管",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "中国节能协会节能服务专业委员会（EMCA）迁址公告",
+            "published_date": "2026-11-03",
+            "url": "https://www.emca.cn/web/14/202611/43100.html"
+          },
+          {
+            "title": "循环利用 变废为宝 ——2026年上海市机关事务管理局举办废旧3C电子产品 回收进公共机构活动",
+            "published_date": "2026-11-02",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49927.htm"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与改造",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "中国节能协会节能服务专业委员会（EMCA）迁址公告",
+            "published_date": "2026-11-03",
+            "url": "https://www.emca.cn/web/14/202611/43100.html"
+          },
+          {
+            "title": "让“光盘”成为习惯 使“节俭”成为自觉",
+            "published_date": "2026-11-02",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49919.htm"
+          }
+        ]
+      },
+      {
+        "id": "disclosure",
+        "label": "企业披露与经营动态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中国节能协会节能服务专业委员会（EMCA）迁址公告",
+            "published_date": "2026-11-03",
+            "url": "https://www.emca.cn/web/14/202611/43100.html"
+          }
+        ]
+      },
+      {
+        "id": "research",
+        "label": "研究与方法",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中国节能协会节能服务专业委员会（EMCA）迁址公告",
+            "published_date": "2026-11-03",
+            "url": "https://www.emca.cn/web/14/202611/43100.html"
+          }
+        ]
+      },
+      {
+        "id": "tender",
+        "label": "采购与招标",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "让“光盘”成为习惯 使“节俭”成为自觉",
+            "published_date": "2026-11-02",
+            "url": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49919.htm"
+          }
+        ]
+      }
+    ],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 3,
+    "headlines": [
+      {
+        "title": "中国节能协会节能服务专业委员会（EMCA）迁址公告",
+        "publisher": "中国节能协会节能服务产业委员会",
+        "published_date": "2026-11-03",
+        "url": "https://www.emca.cn/web/14/202611/43100.html"
+      },
+      {
+        "title": "循环利用 变废为宝 ——2026年上海市机关事务管理局举办废旧3C电子产品 回收进公共机构活动",
+        "publisher": "国家机关事务管理局",
+        "published_date": "2026-11-02",
+        "url": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49927.htm"
+      },
+      {
+        "title": "让“光盘”成为习惯 使“节俭”成为自觉",
+        "publisher": "国家机关事务管理局",
+        "published_date": "2026-11-02",
+        "url": "https://ecpi.ggj.gov.cn/dfdt/202611/t20261102_49919.htm"
+      }
+    ]
+  }
+}
