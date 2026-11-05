@@ -1,0 +1,207 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-05",
+  "updated_at": "2026-11-05T15:51:10+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 2,
+    "chain_stages": [
+      {
+        "id": "application-scenes",
+        "label": "工业、建筑与公共机构场景",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "《〈“十五五”公共机构节能降碳工作方案〉 解读与指引》出版发行",
+            "published_date": "2026-11-05",
+            "url": "https://ecpi.ggj.gov.cn/tzgg/202611/t20261105_49948.htm"
+          }
+        ]
+      },
+      {
+        "id": "energy-resources",
+        "label": "能源资源与电力",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十七批）的通知",
+            "published_date": "2026-11-04",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261104/1e265ee091c4469c818359aa22b098fe.html"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "transportation",
+        "label": "交通与运输节能",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十七批）的通知",
+            "published_date": "2026-11-04",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261104/1e265ee091c4469c818359aa22b098fe.html"
+          }
+        ]
+      },
+      {
+        "id": "public-institutions",
+        "label": "公共机构与医院",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "《〈“十五五”公共机构节能降碳工作方案〉 解读与指引》出版发行",
+            "published_date": "2026-11-05",
+            "url": "https://ecpi.ggj.gov.cn/tzgg/202611/t20261105_49948.htm"
+          }
+        ]
+      },
+      {
+        "id": "renewable-transition",
+        "label": "新能源与能源结构转型",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十七批）的通知",
+            "published_date": "2026-11-04",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261104/1e265ee091c4469c818359aa22b098fe.html"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "renewables-storage",
+        "label": "光伏、储能与绿电",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十七批）的通知",
+            "published_date": "2026-11-04",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261104/1e265ee091c4469c818359aa22b098fe.html"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "policy",
+        "label": "政策与监管",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "《〈“十五五”公共机构节能降碳工作方案〉 解读与指引》出版发行",
+            "published_date": "2026-11-05",
+            "url": "https://ecpi.ggj.gov.cn/tzgg/202611/t20261105_49948.htm"
+          },
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十七批）的通知",
+            "published_date": "2026-11-04",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261104/1e265ee091c4469c818359aa22b098fe.html"
+          }
+        ]
+      },
+      {
+        "id": "product",
+        "label": "设备与服务发布",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "《〈“十五五”公共机构节能降碳工作方案〉 解读与指引》出版发行",
+            "published_date": "2026-11-05",
+            "url": "https://ecpi.ggj.gov.cn/tzgg/202611/t20261105_49948.htm"
+          },
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十七批）的通知",
+            "published_date": "2026-11-04",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261104/1e265ee091c4469c818359aa22b098fe.html"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与改造",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "《〈“十五五”公共机构节能降碳工作方案〉 解读与指引》出版发行",
+            "published_date": "2026-11-05",
+            "url": "https://ecpi.ggj.gov.cn/tzgg/202611/t20261105_49948.htm"
+          },
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十七批）的通知",
+            "published_date": "2026-11-04",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261104/1e265ee091c4469c818359aa22b098fe.html"
+          }
+        ]
+      },
+      {
+        "id": "partnership",
+        "label": "合作与生态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "《〈“十五五”公共机构节能降碳工作方案〉 解读与指引》出版发行",
+            "published_date": "2026-11-05",
+            "url": "https://ecpi.ggj.gov.cn/tzgg/202611/t20261105_49948.htm"
+          }
+        ]
+      },
+      {
+        "id": "standard",
+        "label": "标准与计量",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十七批）的通知",
+            "published_date": "2026-11-04",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261104/1e265ee091c4469c818359aa22b098fe.html"
+          }
+        ]
+      },
+      {
+        "id": "research",
+        "label": "研究与方法",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十七批）的通知",
+            "published_date": "2026-11-04",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261104/1e265ee091c4469c818359aa22b098fe.html"
+          }
+        ]
+      },
+      {
+        "id": "tender",
+        "label": "采购与招标",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "《〈“十五五”公共机构节能降碳工作方案〉 解读与指引》出版发行",
+            "published_date": "2026-11-05",
+            "url": "https://ecpi.ggj.gov.cn/tzgg/202611/t20261105_49948.htm"
+          }
+        ]
+      }
+    ],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 2,
+    "headlines": [
+      {
+        "title": "《〈“十五五”公共机构节能降碳工作方案〉 解读与指引》出版发行",
+        "publisher": "国家机关事务管理局",
+        "published_date": "2026-11-05",
+        "url": "https://ecpi.ggj.gov.cn/tzgg/202611/t20261105_49948.htm"
+      },
+      {
+        "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十七批）的通知",
+        "publisher": "上海市发展和改革委员会",
+        "published_date": "2026-11-04",
+        "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261104/1e265ee091c4469c818359aa22b098fe.html"
+      }
+    ]
+  }
+}
