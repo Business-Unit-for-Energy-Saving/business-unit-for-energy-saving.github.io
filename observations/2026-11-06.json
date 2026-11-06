@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-06",
+  "updated_at": "2026-11-06T15:51:30+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 1,
+    "chain_stages": [
+      {
+        "id": "energy-software",
+        "label": "能源管理软件与数据平台",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市发展和改革委员会关于举办2026年重点用能单位节能降碳培训的通知",
+            "published_date": "2026-11-06",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11090925.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-resources",
+        "label": "能源资源与电力",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市发展和改革委员会关于举办2026年重点用能单位节能降碳培训的通知",
+            "published_date": "2026-11-06",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11090925.html"
+          }
+        ]
+      },
+      {
+        "id": "measurement-carbon",
+        "label": "计量、监测与碳核算",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市发展和改革委员会关于举办2026年重点用能单位节能降碳培训的通知",
+            "published_date": "2026-11-06",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11090925.html"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "transportation",
+        "label": "交通与运输节能",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市发展和改革委员会关于举办2026年重点用能单位节能降碳培训的通知",
+            "published_date": "2026-11-06",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11090925.html"
+          }
+        ]
+      },
+      {
+        "id": "carbon-management",
+        "label": "碳管理与产品碳足迹",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市发展和改革委员会关于举办2026年重点用能单位节能降碳培训的通知",
+            "published_date": "2026-11-06",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11090925.html"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "carbon-measurement",
+        "label": "碳排放计量与核算",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市发展和改革委员会关于举办2026年重点用能单位节能降碳培训的通知",
+            "published_date": "2026-11-06",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11090925.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-management",
+        "label": "能源管理",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市发展和改革委员会关于举办2026年重点用能单位节能降碳培训的通知",
+            "published_date": "2026-11-06",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11090925.html"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "policy",
+        "label": "政策与监管",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市发展和改革委员会关于举办2026年重点用能单位节能降碳培训的通知",
+            "published_date": "2026-11-06",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11090925.html"
+          }
+        ]
+      },
+      {
+        "id": "standard",
+        "label": "标准与计量",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市发展和改革委员会关于举办2026年重点用能单位节能降碳培训的通知",
+            "published_date": "2026-11-06",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11090925.html"
+          }
+        ]
+      },
+      {
+        "id": "research",
+        "label": "研究与方法",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市发展和改革委员会关于举办2026年重点用能单位节能降碳培训的通知",
+            "published_date": "2026-11-06",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11090925.html"
+          }
+        ]
+      },
+      {
+        "id": "product",
+        "label": "设备与服务发布",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市发展和改革委员会关于举办2026年重点用能单位节能降碳培训的通知",
+            "published_date": "2026-11-06",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11090925.html"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与改造",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市发展和改革委员会关于举办2026年重点用能单位节能降碳培训的通知",
+            "published_date": "2026-11-06",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11090925.html"
+          }
+        ]
+      }
+    ],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 1,
+    "headlines": [
+      {
+        "title": "广州市发展和改革委员会关于举办2026年重点用能单位节能降碳培训的通知",
+        "publisher": "广州市发展和改革委员会",
+        "published_date": "2026-11-06",
+        "url": "https://fgw.gz.gov.cn/tzgg/content/post_11090925.html"
+      }
+    ]
+  }
+}
