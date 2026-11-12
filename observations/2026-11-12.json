@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-12",
+  "updated_at": "2026-11-12T16:09:12+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 1,
+    "chain_stages": [
+      {
+        "id": "application-scenes",
+        "label": "工业、建筑与公共机构场景",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中节能太阳能镇江公司入围 2026年度江苏省零碳（近零碳）工厂名单",
+            "published_date": "2026-11-11",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-software",
+        "label": "能源管理软件与数据平台",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中节能太阳能镇江公司入围 2026年度江苏省零碳（近零碳）工厂名单",
+            "published_date": "2026-11-11",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-resources",
+        "label": "能源资源与电力",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中节能太阳能镇江公司入围 2026年度江苏省零碳（近零碳）工厂名单",
+            "published_date": "2026-11-11",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html"
+          }
+        ]
+      },
+      {
+        "id": "measurement-carbon",
+        "label": "计量、监测与碳核算",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中节能太阳能镇江公司入围 2026年度江苏省零碳（近零碳）工厂名单",
+            "published_date": "2026-11-11",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html"
+          }
+        ]
+      },
+      {
+        "id": "equipment-components",
+        "label": "设备与关键部件",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中节能太阳能镇江公司入围 2026年度江苏省零碳（近零碳）工厂名单",
+            "published_date": "2026-11-11",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "industrial-manufacturing",
+        "label": "工业制造与流程优化",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中节能太阳能镇江公司入围 2026年度江苏省零碳（近零碳）工厂名单",
+            "published_date": "2026-11-11",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html"
+          }
+        ]
+      },
+      {
+        "id": "renewable-transition",
+        "label": "新能源与能源结构转型",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中节能太阳能镇江公司入围 2026年度江苏省零碳（近零碳）工厂名单",
+            "published_date": "2026-11-11",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html"
+          }
+        ]
+      },
+      {
+        "id": "carbon-management",
+        "label": "碳管理与产品碳足迹",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中节能太阳能镇江公司入围 2026年度江苏省零碳（近零碳）工厂名单",
+            "published_date": "2026-11-11",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "renewables-storage",
+        "label": "光伏、储能与绿电",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中节能太阳能镇江公司入围 2026年度江苏省零碳（近零碳）工厂名单",
+            "published_date": "2026-11-11",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html"
+          }
+        ]
+      },
+      {
+        "id": "electrification-control",
+        "label": "电气化与控制",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中节能太阳能镇江公司入围 2026年度江苏省零碳（近零碳）工厂名单",
+            "published_date": "2026-11-11",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html"
+          }
+        ]
+      },
+      {
+        "id": "carbon-measurement",
+        "label": "碳排放计量与核算",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中节能太阳能镇江公司入围 2026年度江苏省零碳（近零碳）工厂名单",
+            "published_date": "2026-11-11",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "standard",
+        "label": "标准与计量",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中节能太阳能镇江公司入围 2026年度江苏省零碳（近零碳）工厂名单",
+            "published_date": "2026-11-11",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html"
+          }
+        ]
+      },
+      {
+        "id": "research",
+        "label": "研究与方法",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中节能太阳能镇江公司入围 2026年度江苏省零碳（近零碳）工厂名单",
+            "published_date": "2026-11-11",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html"
+          }
+        ]
+      },
+      {
+        "id": "product",
+        "label": "设备与服务发布",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中节能太阳能镇江公司入围 2026年度江苏省零碳（近零碳）工厂名单",
+            "published_date": "2026-11-11",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与改造",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中节能太阳能镇江公司入围 2026年度江苏省零碳（近零碳）工厂名单",
+            "published_date": "2026-11-11",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html"
+          }
+        ]
+      }
+    ],
+    "entities": [
+      {
+        "id": "cecep",
+        "label": "中国节能环保集团",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "中节能太阳能镇江公司入围 2026年度江苏省零碳（近零碳）工厂名单",
+            "published_date": "2026-11-11",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html"
+          }
+        ]
+      }
+    ]
+  },
+  "daily_summary": {
+    "news_count": 1,
+    "headlines": [
+      {
+        "title": "中节能太阳能镇江公司入围 2026年度江苏省零碳（近零碳）工厂名单",
+        "publisher": "中国节能环保集团",
+        "published_date": "2026-11-11",
+        "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html"
+      }
+    ]
+  }
+}

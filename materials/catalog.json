@@ -35760,6 +35760,222 @@
       "result": "new",
       "_baseline": true,
       "related_sources": []
+    },
+    "1869749c67477a3d997f": {
+      "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html",
+      "title": "中节能太阳能镇江公司入围 2026年度江苏省零碳（近零碳）工厂名单",
+      "publisher": "中国节能环保集团",
+      "kind": "company",
+      "region": "中国",
+      "topics": [
+        "企业业务",
+        "工程项目",
+        "服务模式"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2026-11-11",
+      "excerpt": "近日，江苏省工业和信息化厅公示2026年度江苏省零碳（近零碳）工厂入围名单。中节能太阳能所属镇江公司（简称“镇江公司”）凭借在能源低碳转型、数字化碳管理及绿色制造领域的系统性实践成功入围。这是继获评国家级绿色工厂、江苏省绿色发展领军企业并取得零碳工厂体系认证后，公司在绿色低碳发展道路上取得的又一阶段性成果。 镇江公司坚持把绿色低碳理念贯穿生产经营全流程，锚定“源头控碳、技术减碳、数字管碳、协同促碳”工作思路，系统推进近零碳工厂创建。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "research",
+            "label": "研究与方法"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "standard",
+          "label": "标准与计量"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "equipment-components",
+            "label": "设备与关键部件"
+          },
+          {
+            "id": "measurement-carbon",
+            "label": "计量、监测与碳核算"
+          },
+          {
+            "id": "energy-software",
+            "label": "能源管理软件与数据平台"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "carbon-measurement",
+            "label": "碳排放计量与核算"
+          },
+          {
+            "id": "electrification-control",
+            "label": "电气化与控制"
+          },
+          {
+            "id": "renewables-storage",
+            "label": "光伏、储能与绿电"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          },
+          {
+            "id": "carbon-management",
+            "label": "碳管理与产品碳足迹"
+          },
+          {
+            "id": "renewable-transition",
+            "label": "新能源与能源结构转型"
+          }
+        ],
+        "entities": [
+          {
+            "id": "cecep",
+            "label": "中国节能环保集团",
+            "entity_type": "company"
+          }
+        ],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "research",
+            "object_label": "研究与方法"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "equipment-components",
+            "object_label": "设备与关键部件"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "measurement-carbon",
+            "object_label": "计量、监测与碳核算"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-software",
+            "object_label": "能源管理软件与数据平台"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "carbon-management",
+            "object_label": "碳管理与产品碳足迹"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "renewable-transition",
+            "object_label": "新能源与能源结构转型"
+          },
+          {
+            "subject_type": "entity",
+            "subject_ref": "cecep",
+            "predicate": "appears_in",
+            "object_type": "article",
+            "object_id": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1570121731832545280.html",
+            "object_label": "中节能太阳能镇江公司入围 2026年度江苏省零碳（近零碳）工厂名单"
+          }
+        ],
+        "evidence": {
+          "level": "企业公开内容",
+          "source_kind": "company",
+          "published_date": "2026-11-11",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-11-12",
+      "updated_at": "2026-11-12T16:09:12+08:00",
+      "result": "new",
+      "_baseline": false,
+      "related_sources": []
     }
   },
   "days": {
@@ -36041,6 +36257,11 @@
     "2026-11-11": {
       "started_at": "2026-11-11T15:39:33+08:00",
       "finished_at": "2026-11-11T15:39:59+08:00",
+      "scan_count": 1
+    },
+    "2026-11-12": {
+      "started_at": "2026-11-12T16:08:50+08:00",
+      "finished_at": "2026-11-12T16:09:12+08:00",
       "scan_count": 1
     }
   }
