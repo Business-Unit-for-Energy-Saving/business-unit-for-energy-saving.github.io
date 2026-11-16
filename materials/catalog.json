@@ -35976,6 +35976,99 @@
       "result": "new",
       "_baseline": false,
       "related_sources": []
+    },
+    "b29c1d4ed5e9621657b4": {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965837.html",
+      "title": "2026年10月份能源生产情况",
+      "publisher": "国家统计局",
+      "kind": "statistics",
+      "region": "中国",
+      "topics": [
+        "能源生产",
+        "宏观统计",
+        "工业"
+      ],
+      "cities": [],
+      "regions": [],
+      "published_date": "2026-11-16",
+      "excerpt": "10 月份，规模以上工业（以下简称规上工业）原煤生产降幅收窄，原油生产增速加快，天然气生产由降转增，电力生产有所下降。 一、原煤、原油和天然气生产及相关情况 原煤生产降幅收窄。 10 月份，规上工业原煤产量 3.8 亿吨，同比下降 5.8% ，降幅比 9 月份收窄 1.0 个百分点；日均产量 1242 万吨。 1 — 10 月份，规上工业原煤产量 38.3 亿吨，同比下降 3.8% 。 原油生产增速加快。 10 月份，规上工业原油产量 1845 万吨，同比增长 2.3% ，增速比 9 月份加快 0.1 个百分点； [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "product",
+          "label": "设备与服务发布"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965837.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965837.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965837.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965837.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          }
+        ],
+        "evidence": {
+          "level": "官方统计资料",
+          "source_kind": "statistics",
+          "published_date": "2026-11-16",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-11-16",
+      "updated_at": "2026-11-16T15:50:06+08:00",
+      "result": "new",
+      "_baseline": false,
+      "related_sources": []
     }
   },
   "days": {
@@ -36277,6 +36370,11 @@
     "2026-11-15": {
       "started_at": "2026-11-15T15:43:52+08:00",
       "finished_at": "2026-11-15T15:44:27+08:00",
+      "scan_count": 1
+    },
+    "2026-11-16": {
+      "started_at": "2026-11-16T15:49:39+08:00",
+      "finished_at": "2026-11-16T15:50:06+08:00",
       "scan_count": 1
     }
   }
