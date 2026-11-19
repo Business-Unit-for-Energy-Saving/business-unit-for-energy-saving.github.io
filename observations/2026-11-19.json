@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-19",
+  "updated_at": "2026-11-19T16:35:34+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 1,
+    "chain_stages": [],
+    "application_scenarios": [],
+    "technology_tags": [],
+    "event_types": [
+      {
+        "id": "policy",
+        "label": "政策与监管",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十八批）的通知",
+            "published_date": "2026-11-18",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261118/7baceeb3c5ab4f21b6d87d8ef9ff80d7.html"
+          }
+        ]
+      },
+      {
+        "id": "standard",
+        "label": "标准与计量",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十八批）的通知",
+            "published_date": "2026-11-18",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261118/7baceeb3c5ab4f21b6d87d8ef9ff80d7.html"
+          }
+        ]
+      },
+      {
+        "id": "research",
+        "label": "研究与方法",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十八批）的通知",
+            "published_date": "2026-11-18",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261118/7baceeb3c5ab4f21b6d87d8ef9ff80d7.html"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与改造",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十八批）的通知",
+            "published_date": "2026-11-18",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261118/7baceeb3c5ab4f21b6d87d8ef9ff80d7.html"
+          }
+        ]
+      }
+    ],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 1,
+    "headlines": [
+      {
+        "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十八批）的通知",
+        "publisher": "上海市发展和改革委员会",
+        "published_date": "2026-11-18",
+        "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261118/7baceeb3c5ab4f21b6d87d8ef9ff80d7.html"
+      }
+    ]
+  }
+}

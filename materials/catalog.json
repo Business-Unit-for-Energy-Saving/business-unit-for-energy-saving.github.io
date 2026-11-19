@@ -36069,6 +36069,98 @@
       "result": "new",
       "_baseline": false,
       "related_sources": []
+    },
+    "ded425aeeda7bff8a393": {
+      "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261118/7baceeb3c5ab4f21b6d87d8ef9ff80d7.html",
+      "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十八批）的通知",
+      "publisher": "上海市发展和改革委员会",
+      "kind": "government",
+      "region": "上海",
+      "topics": [
+        "政策",
+        "项目支持"
+      ],
+      "cities": [
+        "上海"
+      ],
+      "regions": [],
+      "published_date": "2026-11-18",
+      "excerpt": "上海市商务委员会： 你单位报来的资金使用计划申请函（沪商市场〔2026〕310号）及有关材料已收悉。经研究，现将资金安排计划下达给你单位，共2项，安排2026年超长期特别国债15060.817万元。有关事项通知如下： 一、安排计划 1.按照《2026年上海市汽车以旧换新补贴政策实施细则》（沪商市场〔2026〕24号）规定，安排经审核通过的2026年汽车报废更新第十八批、第十九批合计1506人次补贴资金，由2026年超长期特别国债安排2310.3604万元。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "research",
+            "label": "研究与方法"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [],
+        "technology_tags": [],
+        "application_scenarios": [],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261118/7baceeb3c5ab4f21b6d87d8ef9ff80d7.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261118/7baceeb3c5ab4f21b6d87d8ef9ff80d7.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261118/7baceeb3c5ab4f21b6d87d8ef9ff80d7.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "research",
+            "object_label": "研究与方法"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261118/7baceeb3c5ab4f21b6d87d8ef9ff80d7.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2026-11-18",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-11-19",
+      "updated_at": "2026-11-19T16:35:34+08:00",
+      "result": "new",
+      "_baseline": false,
+      "related_sources": []
     }
   },
   "days": {
@@ -36385,6 +36477,11 @@
     "2026-11-18": {
       "started_at": "2026-11-18T16:24:04+08:00",
       "finished_at": "2026-11-18T16:24:27+08:00",
+      "scan_count": 1
+    },
+    "2026-11-19": {
+      "started_at": "2026-11-19T16:35:08+08:00",
+      "finished_at": "2026-11-19T16:35:34+08:00",
       "scan_count": 1
     }
   }
