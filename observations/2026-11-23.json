@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-23",
+  "updated_at": "2026-11-23T16:50:48+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 1,
+    "chain_stages": [
+      {
+        "id": "application-scenes",
+        "label": "工业、建筑与公共机构场景",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年第九期节能降碳专题讲座（合同能源管理）的通知",
+            "published_date": "2026-11-23",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11114983.html"
+          }
+        ]
+      },
+      {
+        "id": "solution-integration",
+        "label": "系统集成与节能服务",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年第九期节能降碳专题讲座（合同能源管理）的通知",
+            "published_date": "2026-11-23",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11114983.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-software",
+        "label": "能源管理软件与数据平台",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年第九期节能降碳专题讲座（合同能源管理）的通知",
+            "published_date": "2026-11-23",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11114983.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-resources",
+        "label": "能源资源与电力",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年第九期节能降碳专题讲座（合同能源管理）的通知",
+            "published_date": "2026-11-23",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11114983.html"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "public-institutions",
+        "label": "公共机构与医院",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年第九期节能降碳专题讲座（合同能源管理）的通知",
+            "published_date": "2026-11-23",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11114983.html"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "energy-management",
+        "label": "能源管理",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年第九期节能降碳专题讲座（合同能源管理）的通知",
+            "published_date": "2026-11-23",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11114983.html"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "policy",
+        "label": "政策与监管",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年第九期节能降碳专题讲座（合同能源管理）的通知",
+            "published_date": "2026-11-23",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11114983.html"
+          }
+        ]
+      },
+      {
+        "id": "product",
+        "label": "设备与服务发布",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年第九期节能降碳专题讲座（合同能源管理）的通知",
+            "published_date": "2026-11-23",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11114983.html"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与改造",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "广州市节能中心关于举办2026年第九期节能降碳专题讲座（合同能源管理）的通知",
+            "published_date": "2026-11-23",
+            "url": "https://fgw.gz.gov.cn/tzgg/content/post_11114983.html"
+          }
+        ]
+      }
+    ],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 1,
+    "headlines": [
+      {
+        "title": "广州市节能中心关于举办2026年第九期节能降碳专题讲座（合同能源管理）的通知",
+        "publisher": "广州市发展和改革委员会",
+        "published_date": "2026-11-23",
+        "url": "https://fgw.gz.gov.cn/tzgg/content/post_11114983.html"
+      }
+    ]
+  }
+}
