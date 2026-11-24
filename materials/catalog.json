@@ -36413,6 +36413,205 @@
       "result": "new",
       "_baseline": false,
       "related_sources": []
+    },
+    "30aa4ea58a6abd853984": {
+      "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html",
+      "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第二十批）的通知",
+      "publisher": "上海市发展和改革委员会",
+      "kind": "government",
+      "region": "上海",
+      "topics": [
+        "政策",
+        "项目支持"
+      ],
+      "cities": [
+        "上海"
+      ],
+      "regions": [],
+      "published_date": "2026-11-24",
+      "excerpt": "市经济信息化委、市生态环境局、市绿化市容局、市市场监管局： 你们报来的资金使用计划申请函（沪经信绿〔2026〕731号，沪环函〔2026〕91号、96号，沪绿容（林）便函〔2026〕207号，沪市监计量〔2026〕225号）及有关材料已收悉。经研究，现将资金安排计划下达给你们，共7项，安排市节能降碳减排专项资金36080.540128万元。 [摘录，详见原文]",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "energy-saving",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "standard",
+            "label": "标准与计量"
+          },
+          {
+            "id": "research",
+            "label": "研究与方法"
+          },
+          {
+            "id": "project",
+            "label": "项目与改造"
+          },
+          {
+            "id": "product",
+            "label": "设备与服务发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "energy-resources",
+            "label": "能源资源与电力"
+          },
+          {
+            "id": "measurement-carbon",
+            "label": "计量、监测与碳核算"
+          },
+          {
+            "id": "energy-software",
+            "label": "能源管理软件与数据平台"
+          },
+          {
+            "id": "solution-integration",
+            "label": "系统集成与节能服务"
+          },
+          {
+            "id": "application-scenes",
+            "label": "工业、建筑与公共机构场景"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "energy-management",
+            "label": "能源管理"
+          },
+          {
+            "id": "renewables-storage",
+            "label": "光伏、储能与绿电"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "industrial-manufacturing",
+            "label": "工业制造与流程优化"
+          },
+          {
+            "id": "renewable-transition",
+            "label": "新能源与能源结构转型"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "standard",
+            "object_label": "标准与计量"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "research",
+            "object_label": "研究与方法"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "project",
+            "object_label": "项目与改造"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "设备与服务发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-resources",
+            "object_label": "能源资源与电力"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "measurement-carbon",
+            "object_label": "计量、监测与碳核算"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "energy-software",
+            "object_label": "能源管理软件与数据平台"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "solution-integration",
+            "object_label": "系统集成与节能服务"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "application-scenes",
+            "object_label": "工业、建筑与公共机构场景"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "industrial-manufacturing",
+            "object_label": "工业制造与流程优化"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "renewable-transition",
+            "object_label": "新能源与能源结构转型"
+          }
+        ],
+        "evidence": {
+          "level": "官方公开资料",
+          "source_kind": "government",
+          "published_date": "2026-11-24",
+          "has_quantified_claim": true
+        }
+      },
+      "first_collected_on": "2026-11-24",
+      "updated_at": "2026-11-24T18:48:10+08:00",
+      "result": "new",
+      "_baseline": false,
+      "related_sources": []
     }
   },
   "days": {
@@ -36754,6 +36953,11 @@
     "2026-11-23": {
       "started_at": "2026-11-23T16:50:24+08:00",
       "finished_at": "2026-11-23T16:50:48+08:00",
+      "scan_count": 1
+    },
+    "2026-11-24": {
+      "started_at": "2026-11-24T18:47:44+08:00",
+      "finished_at": "2026-11-24T18:48:10+08:00",
       "scan_count": 1
     }
   }

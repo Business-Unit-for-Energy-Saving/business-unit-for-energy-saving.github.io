@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-24",
+  "updated_at": "2026-11-24T18:48:10+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 1,
+    "chain_stages": [
+      {
+        "id": "application-scenes",
+        "label": "工业、建筑与公共机构场景",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第二十批）的通知",
+            "published_date": "2026-11-24",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html"
+          }
+        ]
+      },
+      {
+        "id": "solution-integration",
+        "label": "系统集成与节能服务",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第二十批）的通知",
+            "published_date": "2026-11-24",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-software",
+        "label": "能源管理软件与数据平台",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第二十批）的通知",
+            "published_date": "2026-11-24",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-resources",
+        "label": "能源资源与电力",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第二十批）的通知",
+            "published_date": "2026-11-24",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html"
+          }
+        ]
+      },
+      {
+        "id": "measurement-carbon",
+        "label": "计量、监测与碳核算",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第二十批）的通知",
+            "published_date": "2026-11-24",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "industrial-manufacturing",
+        "label": "工业制造与流程优化",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第二十批）的通知",
+            "published_date": "2026-11-24",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html"
+          }
+        ]
+      },
+      {
+        "id": "renewable-transition",
+        "label": "新能源与能源结构转型",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第二十批）的通知",
+            "published_date": "2026-11-24",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "renewables-storage",
+        "label": "光伏、储能与绿电",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第二十批）的通知",
+            "published_date": "2026-11-24",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-management",
+        "label": "能源管理",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第二十批）的通知",
+            "published_date": "2026-11-24",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "policy",
+        "label": "政策与监管",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第二十批）的通知",
+            "published_date": "2026-11-24",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html"
+          }
+        ]
+      },
+      {
+        "id": "standard",
+        "label": "标准与计量",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第二十批）的通知",
+            "published_date": "2026-11-24",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html"
+          }
+        ]
+      },
+      {
+        "id": "research",
+        "label": "研究与方法",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第二十批）的通知",
+            "published_date": "2026-11-24",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html"
+          }
+        ]
+      },
+      {
+        "id": "product",
+        "label": "设备与服务发布",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第二十批）的通知",
+            "published_date": "2026-11-24",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与改造",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第二十批）的通知",
+            "published_date": "2026-11-24",
+            "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html"
+          }
+        ]
+      }
+    ],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 1,
+    "headlines": [
+      {
+        "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第二十批）的通知",
+        "publisher": "上海市发展和改革委员会",
+        "published_date": "2026-11-24",
+        "url": "https://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261124/2751bf29c369479081b81a0d646cc03d.html"
+      }
+    ]
+  }
+}
