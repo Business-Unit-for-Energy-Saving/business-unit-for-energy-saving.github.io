@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-26",
+  "updated_at": "2026-11-26T17:20:16+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 2,
+    "chain_stages": [
+      {
+        "id": "application-scenes",
+        "label": "工业、建筑与公共机构场景",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "余热变暖流 绿能启新程 节能科技两大绿色供能项目相继投运",
+            "published_date": "2026-11-26",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1575555415947608064.html"
+          }
+        ]
+      },
+      {
+        "id": "solution-integration",
+        "label": "系统集成与节能服务",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "余热变暖流 绿能启新程 节能科技两大绿色供能项目相继投运",
+            "published_date": "2026-11-26",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1575555415947608064.html"
+          }
+        ]
+      },
+      {
+        "id": "energy-resources",
+        "label": "能源资源与电力",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "余热变暖流 绿能启新程 节能科技两大绿色供能项目相继投运",
+            "published_date": "2026-11-26",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1575555415947608064.html"
+          }
+        ]
+      },
+      {
+        "id": "measurement-carbon",
+        "label": "计量、监测与碳核算",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "余热变暖流 绿能启新程 节能科技两大绿色供能项目相继投运",
+            "published_date": "2026-11-26",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1575555415947608064.html"
+          }
+        ]
+      },
+      {
+        "id": "equipment-components",
+        "label": "设备与关键部件",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "余热变暖流 绿能启新程 节能科技两大绿色供能项目相继投运",
+            "published_date": "2026-11-26",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1575555415947608064.html"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "building-energy",
+        "label": "建筑与园区用能",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "余热变暖流 绿能启新程 节能科技两大绿色供能项目相继投运",
+            "published_date": "2026-11-26",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1575555415947608064.html"
+          }
+        ]
+      },
+      {
+        "id": "data-centers",
+        "label": "数据中心与数字基础设施",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "余热变暖流 绿能启新程 节能科技两大绿色供能项目相继投运",
+            "published_date": "2026-11-26",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1575555415947608064.html"
+          }
+        ]
+      },
+      {
+        "id": "carbon-management",
+        "label": "碳管理与产品碳足迹",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "余热变暖流 绿能启新程 节能科技两大绿色供能项目相继投运",
+            "published_date": "2026-11-26",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1575555415947608064.html"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "thermal-systems",
+        "label": "热能与冷站系统",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "余热变暖流 绿能启新程 节能科技两大绿色供能项目相继投运",
+            "published_date": "2026-11-26",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1575555415947608064.html"
+          }
+        ]
+      },
+      {
+        "id": "electrification-control",
+        "label": "电气化与控制",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "余热变暖流 绿能启新程 节能科技两大绿色供能项目相继投运",
+            "published_date": "2026-11-26",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1575555415947608064.html"
+          }
+        ]
+      },
+      {
+        "id": "carbon-measurement",
+        "label": "碳排放计量与核算",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "余热变暖流 绿能启新程 节能科技两大绿色供能项目相继投运",
+            "published_date": "2026-11-26",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1575555415947608064.html"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "product",
+        "label": "设备与服务发布",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "余热变暖流 绿能启新程 节能科技两大绿色供能项目相继投运",
+            "published_date": "2026-11-26",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1575555415947608064.html"
+          },
+          {
+            "title": "万润公司荣获“2026年度设备节能降碳综合典范”荣誉",
+            "published_date": "2026-11-26",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1575477947907702784.html"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与改造",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "余热变暖流 绿能启新程 节能科技两大绿色供能项目相继投运",
+            "published_date": "2026-11-26",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1575555415947608064.html"
+          },
+          {
+            "title": "万润公司荣获“2026年度设备节能降碳综合典范”荣誉",
+            "published_date": "2026-11-26",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1575477947907702784.html"
+          }
+        ]
+      },
+      {
+        "id": "research",
+        "label": "研究与方法",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "余热变暖流 绿能启新程 节能科技两大绿色供能项目相继投运",
+            "published_date": "2026-11-26",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1575555415947608064.html"
+          }
+        ]
+      }
+    ],
+    "entities": [
+      {
+        "id": "cecep",
+        "label": "中国节能环保集团",
+        "article_count": 2,
+        "examples": [
+          {
+            "title": "余热变暖流 绿能启新程 节能科技两大绿色供能项目相继投运",
+            "published_date": "2026-11-26",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1575555415947608064.html"
+          },
+          {
+            "title": "万润公司荣获“2026年度设备节能降碳综合典范”荣誉",
+            "published_date": "2026-11-26",
+            "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1575477947907702784.html"
+          }
+        ]
+      }
+    ]
+  },
+  "daily_summary": {
+    "news_count": 2,
+    "headlines": [
+      {
+        "title": "余热变暖流 绿能启新程 节能科技两大绿色供能项目相继投运",
+        "publisher": "中国节能环保集团",
+        "published_date": "2026-11-26",
+        "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1575555415947608064.html"
+      },
+      {
+        "title": "万润公司荣获“2026年度设备节能降碳综合典范”荣誉",
+        "publisher": "中国节能环保集团",
+        "published_date": "2026-11-26",
+        "url": "https://www.cecep.cn/cecep/news/xsqydt/2026/11/I1575477947907702784.html"
+      }
+    ]
+  }
+}
